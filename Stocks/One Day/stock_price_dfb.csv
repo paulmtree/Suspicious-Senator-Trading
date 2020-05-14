@@ -1,0 +1,2654 @@
+date,ticker,id,Open,High,Low,Close,Volume,Adjusted,Error_message
+03-11-2020,CGNX,4,41,41.099998,38.91,39.400002,1611100,39.400002,None
+03-09-2020,C,9,54.310001,55.610001,51,51.369999,35625600,50.830486,None
+03-02-2020,KR,16,54.310001,55.610001,51,51.369999,35625600,50.830486,"Error in getSymbols.yahoo(Symbols = ""KR"", env = <environment>, verbose = FALSE,  : 
+  Unable to import “KR”.
+KR download failed after two attempts. Error message:
+HTTP error 404.
+"
+03-03-2020,KR,21,54.310001,55.610001,51,51.369999,35625600,50.830486,"Error in getSymbols.yahoo(Symbols = ""KR"", env = <environment>, verbose = FALSE,  : 
+  Unable to import “KR”.
+KR download failed after two attempts. Error message:
+HTTP error 404.
+"
+03-04-2020,URBN,26,21.5,22.43,20.799999,21.4,6350400,21.4,None
+03-05-2020,KR,31,21.5,22.43,20.799999,21.4,6350400,21.4,"Error in getSymbols.yahoo(Symbols = ""KR"", env = <environment>, verbose = FALSE,  : 
+  Unable to import “KR”.
+KR download failed after two attempts. Error message:
+HTTP error 404.
+"
+03-06-2020,BAC,37,25.469999,26.209999,25.1,25.709999,119121200,25.709999,None
+03-10-2020,NWSA,43,10.35,10.83,10.06,10.8,3831700,10.8,None
+03-13-2020,KR,48,10.35,10.83,10.06,10.8,3831700,10.8,"Error in getSymbols.yahoo(Symbols = ""KR"", env = <environment>, verbose = FALSE,  : 
+  Unable to import “KR”.
+KR download failed after two attempts. Error message:
+HTTP error 404.
+"
+03-13-2020,TRP,53,38.380001,42.490002,37.34,42.360001,4613100,41.771694,None
+03-16-2020,KR,58,38.380001,42.490002,37.34,42.360001,4613100,41.771694,"Error in getSymbols.yahoo(Symbols = ""KR"", env = <environment>, verbose = FALSE,  : 
+  Unable to import “KR”.
+KR download failed after two attempts. Error message:
+HTTP error 404.
+"
+03-17-2020,UHAL,63,280,285.799988,272.359985,283.910004,108100,283.910004,None
+03-17-2020,NWSA,68,10.17,11.48,9.97,10.88,7291400,10.88,None
+03-17-2020,KR,73,10.17,11.48,9.97,10.88,7291400,10.88,"Error in getSymbols.yahoo(Symbols = ""KR"", env = <environment>, verbose = FALSE,  : 
+  Unable to import “KR”.
+KR download failed after two attempts. Error message:
+HTTP error 404.
+"
+03-18-2020,KR,78,10.17,11.48,9.97,10.88,7291400,10.88,"Error in getSymbols.yahoo(Symbols = ""KR"", env = <environment>, verbose = FALSE,  : 
+  Unable to import “KR”.
+KR download failed after two attempts. Error message:
+HTTP error 404.
+"
+03-18-2020,CDLX,83,42.759998,42.950001,27.326,29.9,1689700,29.9,None
+03-19-2020,GOOG,88,1093.050049,1157.969971,1060.108032,1115.290039,3651100,1115.290039,None
+03-20-2020,PAGP,93,1093.050049,1157.969971,1060.108032,1115.290039,3651100,1115.290039,"Error in getSymbols.yahoo(Symbols = ""PAGP"", env = <environment>, verbose = FALSE,  : 
+  Unable to import “PAGP”.
+PAGP download failed after two attempts. Error message:
+HTTP error 404.
+"
+03-20-2020,M,98,6.82,7.2,6,6.02,25170000,6.02,None
+03-23-2020,SBUX,103,57.23,57.439999,54,56.549999,24905800,56.232216,None
+03-26-2020,DOW,108,30.280001,31.299999,28.950001,29.68,14298600,29.68,None
+03-26-2020,LNG,113,33.040001,37.330002,33,34.720001,6652000,34.720001,None
+03-27-2020,GPK,118,33.040001,37.330002,33,34.720001,6652000,34.720001,"Error in getSymbols.yahoo(Symbols = ""GPK"", env = <environment>, verbose = FALSE,  : 
+  Unable to import “GPK”.
+GPK download failed after two attempts. Error message:
+HTTP error 404.
+"
+03-30-2020,MU,123,44.169998,45.57,43.150002,44.52,33763900,44.52,None
+03-27-2020,SWKS,129,90.269997,90.269997,86.220001,87.089996,3329500,87.089996,None
+03-24-2020,WFC,135,26.959999,29.17,26.33,28.92,48630300,28.92,None
+02-21-2020,K,140,26.959999,29.17,26.33,28.92,48630300,28.92,"Error in getSymbols.yahoo(Symbols = ""K"", env = <environment>, verbose = FALSE,  : 
+  Unable to import “K”.
+K download failed after two attempts. Error message:
+HTTP error 404.
+"
+03-13-2020,PRU,145,51.810001,52.990002,46.639999,52.919998,8143900,52.919998,None
+03-09-2020,CR,150,59.990002,60.84,57.709999,58.439999,404100,58.439999,None
+03-04-2020,CVX,155,96.370003,99.019997,95.669998,98.529999,14753000,98.529999,None
+03-11-2020,BKNG,160,1522.290039,1528.530029,1420.560059,1442.5,829800,1442.5,None
+03-03-2020,ROST,165,111,114.309998,107.589996,109.220001,3487300,108.884682,None
+02-26-2020,NVDA,170,111,114.309998,107.589996,109.220001,3487300,108.884682,"Error in getSymbols.yahoo(Symbols = ""NVDA"", env = <environment>, verbose = FALSE,  : 
+  Unable to import “NVDA”.
+NVDA download failed after two attempts. Error message:
+HTTP error 404.
+"
+02-24-2020,CME,175,111,114.309998,107.589996,109.220001,3487300,108.884682,"Error in getSymbols.yahoo(Symbols = ""CME"", env = <environment>, verbose = FALSE,  : 
+  Unable to import “CME”.
+CME download failed after two attempts. Error message:
+HTTP error 404.
+"
+02-24-2020,ARNA,180,51.18,51.389999,49.259998,49.279999,530300,49.279999,None
+02-18-2020,ICE,185,51.18,51.389999,49.259998,49.279999,530300,49.279999,"Error in getSymbols.yahoo(Symbols = ""ICE"", env = <environment>, verbose = FALSE,  : 
+  Unable to import “ICE”.
+ICE download failed after two attempts. Error message:
+HTTP error 404.
+"
+03-24-2020,DIS,190,92.330002,99.169998,91.800003,98.120003,32538100,98.120003,None
+03-24-2020,AAPL,195,236.360001,247.690002,234.300003,246.880005,71882800,246.213516,None
+03-02-2020,NFLX,201,236.360001,247.690002,234.300003,246.880005,71882800,246.213516,"Error in getSymbols.yahoo(Symbols = ""NFLX"", env = <environment>, verbose = FALSE,  : 
+  Unable to import “NFLX”.
+NFLX download failed after two attempts. Error message:
+HTTP error 404.
+"
+03-02-2020,AAPL,206,282.279999,301.440002,277.720001,298.809998,85349300,298.003296,None
+03-09-2020,MSFT,211,151,157.75,150,150.619995,70419300,150.619995,None
+03-09-2020,AMGN,216,197.740005,203.619995,190.75,198.369995,4065600,198.369995,None
+03-09-2020,JNJ,221,136.330002,139.679993,134.899994,136.440002,13848600,136.440002,None
+03-10-2020,BRK-B,227,201.350006,202.860001,195.050003,202.729996,10929200,202.729996,None
+01-14-2020,CVX,233,116.5,116.879997,115.709999,116.300003,7189100,114.956398,None
+01-31-2020,AZO,240,1080.920044,1094.530029,1056.109985,1057.959961,311000,1057.959961,None
+01-28-2020,REZI,245,1080.920044,1094.530029,1056.109985,1057.959961,311000,1057.959961,"Error in getSymbols.yahoo(Symbols = ""REZI"", env = <environment>, verbose = FALSE,  : 
+  Unable to import “REZI”.
+REZI download failed after two attempts. Error message:
+HTTP error 404.
+"
+02-14-2020,XOM,253,61.150002,61.16,60.279999,60.650002,10855300,59.496407,None
+02-11-2020,FNKO,258,61.150002,61.16,60.279999,60.650002,10855300,59.496407,"Error in getSymbols.yahoo(Symbols = ""FNKO"", env = <environment>, verbose = FALSE,  : 
+  Unable to import “FNKO”.
+FNKO download failed after two attempts. Error message:
+HTTP error 404.
+"
+02-07-2020,ROKU,263,126.300003,127.600998,123.900002,124.25,5447800,124.25,None
+02-06-2020,CMCSA,268,44.759998,45.060001,44.290001,44.599998,15222400,44.310959,None
+02-05-2020,DAL,273,58.970001,59.299999,58.599998,58.889999,6067000,58.485832,None
+02-18-2020,WMT,281,118.470001,119.949997,117.360001,119.629997,11513200,119.629997,None
+02-22-2020,BSTZ,286,118.470001,119.949997,117.360001,119.629997,11513200,119.629997,"Error in getSymbols.yahoo(Symbols = ""BSTZ"", env = <environment>, verbose = FALSE,  : 
+  Unable to import “BSTZ”.
+BSTZ download failed after two attempts. Error message:
+HTTP error 404.
+"
+02-28-2020,DD,295,43.119999,43.700001,42.060001,42.900002,13572100,42.900002,None
+02-28-2020,CZR,300,43.119999,43.700001,42.060001,42.900002,13572100,42.900002,"Error in getSymbols.yahoo(Symbols = ""CZR"", env = <environment>, verbose = FALSE,  : 
+  Unable to import “CZR”.
+CZR download failed after two attempts. Error message:
+HTTP error 404.
+"
+02-27-2020,PFE,305,34.439999,35.709999,34.099998,34.099998,52604200,33.763515,None
+02-26-2020,PFE,310,34.240002,35.209999,34.02,34.720001,45464900,34.377399,None
+02-26-2020,DD,315,48.25,48.290001,46.639999,47.259998,9556100,46.959999,None
+02-26-2020,T,320,37.189999,37.779999,36.919998,37.099998,40261900,36.458641,None
+02-25-2020,DAL,326,54.540001,54.709999,50.75,50.889999,15836500,50.889999,None
+02-25-2020,T,331,38.110001,38.279999,37.259998,37.349998,48886200,36.704319,None
+02-24-2020,CZR,336,38.110001,38.279999,37.259998,37.349998,48886200,36.704319,"Error in getSymbols.yahoo(Symbols = ""CZR"", env = <environment>, verbose = FALSE,  : 
+  Unable to import “CZR”.
+CZR download failed after two attempts. Error message:
+HTTP error 404.
+"
+02-24-2020,DAL,341,54.830002,55.380001,53.34,54.23,17983100,54.23,None
+02-10-2020,WMB,346,54.830002,55.380001,53.34,54.23,17983100,54.23,"Error in getSymbols.yahoo(Symbols = ""WMB"", env = <environment>, verbose = FALSE,  : 
+  Unable to import “WMB”.
+WMB download failed after two attempts. Error message:
+HTTP error 404.
+"
+02-10-2020,ET,351,54.830002,55.380001,53.34,54.23,17983100,54.23,"Error in getSymbols.yahoo(Symbols = ""ET"", env = <environment>, verbose = FALSE,  : 
+  Unable to import “ET”.
+ET download failed after two attempts. Error message:
+HTTP error 404.
+"
+02-19-2020,WMB,356,54.830002,55.380001,53.34,54.23,17983100,54.23,"Error in getSymbols.yahoo(Symbols = ""WMB"", env = <environment>, verbose = FALSE,  : 
+  Unable to import “WMB”.
+WMB download failed after two attempts. Error message:
+HTTP error 404.
+"
+02-19-2020,DCP,361,19.969999,20.110001,19.42,19.440001,1320600,18.684109,None
+02-20-2020,SHLX,366,19.969999,20.110001,19.42,19.440001,1320600,18.684109,"Error in getSymbols.yahoo(Symbols = ""SHLX"", env = <environment>, verbose = FALSE,  : 
+  Unable to import “SHLX”.
+SHLX download failed after two attempts. Error message:
+HTTP error 404.
+"
+02-21-2020,PSXP,371,61.880001,62.529999,59.900002,62.279999,476700,61.105537,None
+01-27-2020,INTU,380,281.480011,285.980011,281.01001,283.76001,881200,283.148499,None
+01-14-2020,CSCO,389,281.480011,285.980011,281.01001,283.76001,881200,283.148499,"Error in getSymbols.yahoo(Symbols = ""CSCO"", env = <environment>, verbose = FALSE,  : 
+  Unable to import “CSCO”.
+CSCO download failed after two attempts. Error message:
+HTTP error 404.
+"
+01-31-2020,TJX,396,60.380001,60.459999,58.84,59.040001,6151900,58.822594,None
+01-29-2020,KEYS,401,60.380001,60.459999,58.84,59.040001,6151900,58.822594,"Error in getSymbols.yahoo(Symbols = ""KEYS"", env = <environment>, verbose = FALSE,  : 
+  Unable to import “KEYS”.
+KEYS download failed after two attempts. Error message:
+HTTP error 404.
+"
+01-24-2020,REZI,409,60.380001,60.459999,58.84,59.040001,6151900,58.822594,"Error in getSymbols.yahoo(Symbols = ""REZI"", env = <environment>, verbose = FALSE,  : 
+  Unable to import “REZI”.
+REZI download failed after two attempts. Error message:
+HTTP error 404.
+"
+01-29-2020,GLW,415,27.809999,29.26,27.559999,28.35,12837000,28.102989,None
+01-24-2020,BAC,420,34.119999,34.139999,33.27,33.540001,47797200,33.327347,None
+01-22-2020,GPK,425,34.119999,34.139999,33.27,33.540001,47797200,33.327347,"Error in getSymbols.yahoo(Symbols = ""GPK"", env = <environment>, verbose = FALSE,  : 
+  Unable to import “GPK”.
+GPK download failed after two attempts. Error message:
+HTTP error 404.
+"
+01-10-2020,AAPL,430,310.600006,312.670013,308.25,310.329987,35161200,308.759399,None
+01-21-2020,MA,438,322.410004,325.660004,321.48999,321.929993,5998600,321.432953,None
+01-06-2020,MA,443,297.359985,301.329987,296.019989,301.230011,3307200,300.364197,None
+01-06-2020,NFLX,448,297.359985,301.329987,296.019989,301.230011,3307200,300.364197,"Error in getSymbols.yahoo(Symbols = ""NFLX"", env = <environment>, verbose = FALSE,  : 
+  Unable to import “NFLX”.
+NFLX download failed after two attempts. Error message:
+HTTP error 404.
+"
+01-03-2020,RF,471,16.82,16.879999,16.629999,16.77,8382600,16.591351,None
+12-31-2019,DOW,476,54.02,54.779999,53.93,54.73,2145700,53.84008,None
+12-19-2019,URBN,481,27.99,28.33,27.58,27.690001,2065900,27.690001,None
+12-16-2019,ENTG,486,27.99,28.33,27.58,27.690001,2065900,27.690001,"Error in getSymbols.yahoo(Symbols = ""ENTG"", env = <environment>, verbose = FALSE,  : 
+  Unable to import “ENTG”.
+ENTG download failed after two attempts. Error message:
+HTTP error 404.
+"
+12-11-2019,URBN,491,27.07,27.17,26.209999,26.59,2592100,26.59,None
+12-06-2019,URBN,496,25.76,26.51,25.76,26.120001,2559800,26.120001,None
+12-31-2019,VFIJX,501,10.55,10.55,10.55,10.55,0,10.465448,None
+12-23-2019,KHC,506,32.200001,32.299999,31.82,31.92,6822800,31.380356,None
+12-17-2019,BP,513,37.52,37.830002,37.470001,37.59,9111200,35.985287,None
+01-29-2019,MSFT,522,104.879997,104.970001,102.169998,102.940002,31490500,101.163788,None
+11-19-2019,BSTZ,541,104.879997,104.970001,102.169998,102.940002,31490500,101.163788,"Error in getSymbols.yahoo(Symbols = ""BSTZ"", env = <environment>, verbose = FALSE,  : 
+  Unable to import “BSTZ”.
+BSTZ download failed after two attempts. Error message:
+HTTP error 404.
+"
+11-19-2019,NDAQ,546,104.879997,104.970001,102.169998,102.940002,31490500,101.163788,"Error in getSymbols.yahoo(Symbols = ""NDAQ"", env = <environment>, verbose = FALSE,  : 
+  Unable to import “NDAQ”.
+NDAQ download failed after two attempts. Error message:
+HTTP error 404.
+"
+11-20-2019,FEYE,554,104.879997,104.970001,102.169998,102.940002,31490500,101.163788,"Error in getSymbols.yahoo(Symbols = ""FEYE"", env = <environment>, verbose = FALSE,  : 
+  Unable to import “FEYE”.
+FEYE download failed after two attempts. Error message:
+HTTP error 404.
+"
+11-14-2019,CTSH,559,62.290001,63.139999,62.02,63.110001,2600900,62.712021,None
+11-12-2019,LGF-B,564,62.290001,63.139999,62.02,63.110001,2600900,62.712021,"Error in getSymbols.yahoo(Symbols = ""LGF-B"", env = <environment>, verbose = FALSE,  : 
+  Unable to import “LGF-B”.
+LGF-B download failed after two attempts. Error message:
+HTTP error 404.
+"
+11-11-2019,DVN,569,22.450001,22.76,22.290001,22.530001,5730300,22.203241,None
+11-11-2019,SPY,574,307.420013,308.540009,307.269989,308.350006,35797300,305.047638,None
+11-08-2019,ALB,579,69.480003,69.580002,66.209999,67.980003,3410000,67.227638,None
+11-07-2019,ACA,584,39.48,39.584999,38.32,38.68,336800,38.590183,None
+11-04-2019,MO,596,45.16,45.689999,45.110001,45.599998,8863500,45.599998,None
+11-04-2019,NOC,601,45.16,45.689999,45.110001,45.599998,8863500,45.599998,"Error in getSymbols.yahoo(Symbols = ""NOC"", env = <environment>, verbose = FALSE,  : 
+  Unable to import “NOC”.
+NOC download failed after two attempts. Error message:
+HTTP error 404.
+"
+11-04-2019,TWO,607,13.89,13.95,13.86,13.87,1152000,13.352794,None
+08-01-2018,BBT,615,13.89,13.95,13.86,13.87,1152000,13.352794,"Error in getSymbols.yahoo(Symbols = ""BBT"", env = <environment>, verbose = FALSE,  : 
+  Unable to import “BBT”.
+BBT download failed after two attempts. Error message:
+HTTP error 404.
+"
+10-28-2019,PEP,640,136.550003,137.550003,136.149994,136.570007,3212600,134.710495,None
+10-30-2019,TCP,645,136.550003,137.550003,136.149994,136.570007,3212600,134.710495,"Error in getSymbols.yahoo(Symbols = ""TCP"", env = <environment>, verbose = FALSE,  : 
+  Unable to import “TCP”.
+TCP download failed after two attempts. Error message:
+HTTP error 404.
+"
+09-30-2019,STT,650,59.509998,59.630001,58.82,59.189999,1952500,59.189999,None
+09-30-2019,MSM,655,71.580002,72.760002,71.480003,72.529999,361000,70.231499,None
+09-30-2019,BOIVF,660,4.14,4.17,4.1,4.17,53500,4.17,None
+09-30-2019,ANTM,665,237.220001,242.369995,236.029999,240.100006,1424200,238.541077,None
+10-01-2019,CBS,670,237.220001,242.369995,236.029999,240.100006,1424200,238.541077,"Error in getSymbols.yahoo(Symbols = ""CBS"", env = <environment>, verbose = FALSE,  : 
+  Unable to import “CBS”.
+CBS download failed after two attempts. Error message:
+HTTP error 404.
+"
+10-11-2019,XOM,675,68.980003,69.489998,68.889999,68.980003,10101900,65.915321,None
+10-11-2019,SPY,680,296.269989,298.73999,296.140015,296.279999,98720400,293.106903,None
+10-17-2019,TRGP,685,39.049999,39.130001,38.580002,38.98,1647700,36.882805,None
+10-25-2019,ALB,690,63.790001,65.489998,62.5,63.59,5988000,62.8867,None
+10-31-2019,MA,695,276.380005,279.089996,275.059998,276.809998,5355700,276.014343,None
+10-03-2019,AAPL,700,218.429993,220.960007,215.130005,220.820007,28606500,219.0448,None
+09-25-2019,3V64.TI,708,218.429993,220.960007,215.130005,220.820007,28606500,219.0448,"Error in getSymbols.yahoo(Symbols = ""3V64.TI"", env = <environment>, verbose = FALSE,  : 
+  Unable to import “3V64.TI”.
+3V64.TI download failed after two attempts. Error message:
+HTTP error 404.
+"
+09-25-2019,MPC,713,59.310001,60.349998,58.049999,60.150002,16650300,59.062866,None
+09-25-2019,0QZI.IL,718,59.310001,60.349998,58.049999,60.150002,16650300,59.062866,"Error in getSymbols.yahoo(Symbols = ""0QZI.IL"", env = <environment>, verbose = FALSE,  : 
+  Unable to import “0QZI.IL”.
+0QZI.IL download failed after two attempts. Error message:
+HTTP error 404.
+"
+09-25-2019,WFC,723,48.73,49.540001,48.650002,49.259998,21313100,49.259998,None
+09-25-2019,TXN,728,125.300003,128.330002,124.529999,127.739998,3293400,127.739998,None
+09-25-2019,JNJ,733,131.5,131.570007,130.229996,130.990005,4522900,129.264435,None
+09-25-2019,XOM,738,70.980003,71.470001,70.82,71.349998,8035200,68.180008,None
+09-25-2019,BAC,743,28.780001,29.41,28.780001,29.25,45807700,28.906731,None
+08-27-2019,TSLA,751,215.740005,218.800003,212.029999,214.080002,5416200,214.080002,None
+09-04-2019,CZR,768,215.740005,218.800003,212.029999,214.080002,5416200,214.080002,"Error in getSymbols.yahoo(Symbols = ""CZR"", env = <environment>, verbose = FALSE,  : 
+  Unable to import “CZR”.
+CZR download failed after two attempts. Error message:
+HTTP error 404.
+"
+09-16-2019,BPL,773,215.740005,218.800003,212.029999,214.080002,5416200,214.080002,"Error in getSymbols.yahoo(Symbols = ""BPL"", env = <environment>, verbose = FALSE,  : 
+  Unable to import “BPL”.
+BPL download failed after two attempts. Error message:
+HTTP error 404.
+"
+09-18-2019,WES,778,215.740005,218.800003,212.029999,214.080002,5416200,214.080002,"Error in getSymbols.yahoo(Symbols = ""WES"", env = <environment>, verbose = FALSE,  : 
+  Unable to import “WES”.
+WES download failed after two attempts. Error message:
+HTTP error 404.
+"
+09-19-2019,DCP,783,27.76,28.110001,27.129999,27.549999,1555300,24.694443,None
+09-01-2019,WFC,790,27.76,28.110001,27.129999,27.549999,1555300,24.694443,"Error in getSymbols.yahoo(Symbols = ""WFC"", env = <environment>, verbose = FALSE,  : 
+  Unable to import “WFC”.
+WFC download failed after two attempts. Error message:
+HTTP error 404.
+"
+08-26-2019,T,797,34.970001,35.139999,34.709999,34.93,23197300,33.411858,None
+08-15-2019,CZR,802,34.970001,35.139999,34.709999,34.93,23197300,33.411858,"Error in getSymbols.yahoo(Symbols = ""CZR"", env = <environment>, verbose = FALSE,  : 
+  Unable to import “CZR”.
+CZR download failed after two attempts. Error message:
+HTTP error 404.
+"
+08-14-2019,GPK,807,34.970001,35.139999,34.709999,34.93,23197300,33.411858,"Error in getSymbols.yahoo(Symbols = ""GPK"", env = <environment>, verbose = FALSE,  : 
+  Unable to import “GPK”.
+GPK download failed after two attempts. Error message:
+HTTP error 404.
+"
+08-09-2019,DIS,812,137.100006,139.240005,136.759995,138.520004,8811900,137.695038,None
+08-08-2019,KR,817,137.100006,139.240005,136.759995,138.520004,8811900,137.695038,"Error in getSymbols.yahoo(Symbols = ""KR"", env = <environment>, verbose = FALSE,  : 
+  Unable to import “KR”.
+KR download failed after two attempts. Error message:
+HTTP error 404.
+"
+08-07-2019,STT,822,52.32,52.830002,51.34,52.5,3283800,52.5,None
+08-14-2019,NFLX,829,52.32,52.830002,51.34,52.5,3283800,52.5,"Error in getSymbols.yahoo(Symbols = ""NFLX"", env = <environment>, verbose = FALSE,  : 
+  Unable to import “NFLX”.
+NFLX download failed after two attempts. Error message:
+HTTP error 404.
+"
+07-23-2019,CVS,834,52.32,52.830002,51.34,52.5,3283800,52.5,"Error in getSymbols.yahoo(Symbols = ""CVS"", env = <environment>, verbose = FALSE,  : 
+  Unable to import “CVS”.
+CVS download failed after two attempts. Error message:
+HTTP error 404.
+"
+08-22-2018,CAPL,842,18.639999,19.200001,18.52,19.01,74900,15.343537,None
+01-08-2018,PFS,847,26.799999,27.049999,26.58,26.82,138700,24.796091,None
+05-02-2018,BOX,852,26.799999,27.049999,26.58,26.82,138700,24.796091,"Error in getSymbols.yahoo(Symbols = ""BOX"", env = <environment>, verbose = FALSE,  : 
+  Unable to import “BOX”.
+BOX download failed after two attempts. Error message:
+HTTP error 404.
+"
+09-06-2018,GE,857,12.019231,12.307693,12.019231,12.028846,42244500,12.028846,None
+12-07-2018,WMT,863,94.5,95.129997,92.449997,93.190002,8496500,93.190002,None
+12-07-2018,MSFT,868,108.379997,109.449997,104.300003,104.82,45044900,103.011345,None
+12-07-2018,CMCSA,873,37.66,38.02,37.080002,37.41,20605200,36.246967,None
+07-18-2019,MALOX,878,37.66,38.02,37.080002,37.41,20605200,36.246967,"Error in getSymbols.yahoo(Symbols = ""MALOX"", env = <environment>, verbose = FALSE,  : 
+  Unable to import “MALOX”.
+MALOX download failed after two attempts. Error message:
+HTTP error 404.
+"
+06-28-2019,MPLX,883,31.92,32.189999,31.76,32.189999,1056900,28.578993,None
+07-16-2019,CAG,890,27.58,28.139999,27.530001,28.139999,3993900,27.372993,None
+07-25-2019,JCI,898,41.439999,41.57,41.029999,41.119999,3160000,40.279575,None
+08-02-2019,GPK,903,41.439999,41.57,41.029999,41.119999,3160000,40.279575,"Error in getSymbols.yahoo(Symbols = ""GPK"", env = <environment>, verbose = FALSE,  : 
+  Unable to import “GPK”.
+GPK download failed after two attempts. Error message:
+HTTP error 404.
+"
+07-31-2019,GPK,908,41.439999,41.57,41.029999,41.119999,3160000,40.279575,"Error in getSymbols.yahoo(Symbols = ""GPK"", env = <environment>, verbose = FALSE,  : 
+  Unable to import “GPK”.
+GPK download failed after two attempts. Error message:
+HTTP error 404.
+"
+07-18-2019,CZR,913,41.439999,41.57,41.029999,41.119999,3160000,40.279575,"Error in getSymbols.yahoo(Symbols = ""CZR"", env = <environment>, verbose = FALSE,  : 
+  Unable to import “CZR”.
+CZR download failed after two attempts. Error message:
+HTTP error 404.
+"
+07-15-2019,BMY,918,44.279999,44.57,44.049999,44.189999,8885400,43.157413,None
+07-12-2019,ENTG,923,44.279999,44.57,44.049999,44.189999,8885400,43.157413,"Error in getSymbols.yahoo(Symbols = ""ENTG"", env = <environment>, verbose = FALSE,  : 
+  Unable to import “ENTG”.
+ENTG download failed after two attempts. Error message:
+HTTP error 404.
+"
+07-08-2019,BWXT,928,51.950001,52.16,51.639999,51.990002,306900,51.500214,None
+06-05-2019,NSRGY,938,101,101.339996,100.830002,100.949997,203300,98.401169,None
+06-10-2019,HBAN,943,13.41,13.63,13.37,13.43,8007400,13.43,None
+06-26-2019,BSTZ,948,13.41,13.63,13.37,13.43,8007400,13.43,"Error in getSymbols.yahoo(Symbols = ""BSTZ"", env = <environment>, verbose = FALSE,  : 
+  Unable to import “BSTZ”.
+BSTZ download failed after two attempts. Error message:
+HTTP error 404.
+"
+06-21-2019,NOC,953,13.41,13.63,13.37,13.43,8007400,13.43,"Error in getSymbols.yahoo(Symbols = ""NOC"", env = <environment>, verbose = FALSE,  : 
+  Unable to import “NOC”.
+NOC download failed after two attempts. Error message:
+HTTP error 404.
+"
+06-27-2019,CZR,963,13.41,13.63,13.37,13.43,8007400,13.43,"Error in getSymbols.yahoo(Symbols = ""CZR"", env = <environment>, verbose = FALSE,  : 
+  Unable to import “CZR”.
+CZR download failed after two attempts. Error message:
+HTTP error 404.
+"
+06-25-2019,CZR,968,13.41,13.63,13.37,13.43,8007400,13.43,"Error in getSymbols.yahoo(Symbols = ""CZR"", env = <environment>, verbose = FALSE,  : 
+  Unable to import “CZR”.
+CZR download failed after two attempts. Error message:
+HTTP error 404.
+"
+06-24-2019,TRGP,973,38.869999,39,37.310001,37.41,2539100,34.574081,None
+06-14-2019,GLW,978,31.26,31.5,30.299999,30.91,5660000,30.209314,None
+08-23-2018,NFLX,986,31.26,31.5,30.299999,30.91,5660000,30.209314,"Error in getSymbols.yahoo(Symbols = ""NFLX"", env = <environment>, verbose = FALSE,  : 
+  Unable to import “NFLX”.
+NFLX download failed after two attempts. Error message:
+HTTP error 404.
+"
+10-24-2018,AAPL,991,222.600006,224.229996,214.539993,215.089996,40925500,210.100586,None
+06-03-2019,IR,1003,33.959999,34.790001,33.650002,33.759998,2627200,31.3293,None
+05-02-2019,VGR,1012,33.959999,34.790001,33.650002,33.759998,2627200,31.3293,"Error in getSymbols.yahoo(Symbols = ""VGR"", env = <environment>, verbose = FALSE,  : 
+  Unable to import “VGR”.
+VGR download failed after two attempts. Error message:
+HTTP error 404.
+"
+05-29-2019,EAF,1017,10.08,10.295,9.92,10.16,1821400,9.840467,None
+05-24-2019,EAF,1022,10.04,10.25,9.96,10.21,1072100,9.888895,None
+05-23-2019,AVP,1027,10.04,10.25,9.96,10.21,1072100,9.888895,"Error in getSymbols.yahoo(Symbols = ""AVP"", env = <environment>, verbose = FALSE,  : 
+  Unable to import “AVP”.
+AVP download failed after two attempts. Error message:
+HTTP error 404.
+"
+05-15-2019,FDX,1032,170.130005,173.279999,167.460007,172.539993,2314900,172.539993,None
+05-06-2019,ACA,1037,36.189999,38,36.099998,37.619999,624300,37.368343,None
+05-01-2019,FDX,1042,189.729996,189.839996,185.619995,185.619995,1432900,185.619995,None
+04-25-2019,TOT,1048,189.729996,189.839996,185.619995,185.619995,1432900,185.619995,"Error in getSymbols.yahoo(Symbols = ""TOT"", env = <environment>, verbose = FALSE,  : 
+  Unable to import “TOT”.
+TOT download failed after two attempts. Error message:
+HTTP error 404.
+"
+12-19-2018,GS,1156,171.589996,174.850006,167.600006,169.25,5316100,164.823486,None
+12-19-2018,BAC,1161,24.450001,25.24,24.07,24.18,121887600,23.492237,None
+12-06-2018,VZ,1166,24.450001,25.24,24.07,24.18,121887600,23.492237,"Error in getSymbols.yahoo(Symbols = ""VZ"", env = <environment>, verbose = FALSE,  : 
+  Unable to import “VZ”.
+VZ download failed after two attempts. Error message:
+HTTP error 404.
+"
+12-06-2018,JPM,1171,105.010002,105.360001,102.879997,105.190002,27213900,100.312141,None
+12-06-2018,COST,1176,227.940002,233.860001,226.600006,233.199997,4029800,229.920593,None
+12-19-2018,WY,1181,23.559999,24.049999,23.190001,23.200001,10631000,21.753284,None
+12-19-2018,GS,1186,171.589996,174.850006,167.600006,169.25,5316100,164.823486,None
+12-19-2018,BAC,1191,24.450001,25.24,24.07,24.18,121887600,23.492237,None
+12-06-2018,USB,1198,51.709999,52.450001,51.18,52.34,13575600,49.814571,None
+12-06-2018,GS,1203,181.330002,184.880005,180.149994,184.089996,5275500,179.27536,None
+12-06-2018,BRKB,1208,181.330002,184.880005,180.149994,184.089996,5275500,179.27536,"Error in getSymbols.yahoo(Symbols = ""BRKB"", env = <environment>, verbose = FALSE,  : 
+  Unable to import “BRKB”.
+BRKB download failed after two attempts. Error message:
+HTTP error 404.
+"
+04-09-2019,C,1213,65.599998,65.599998,64.68,65.199997,10221000,62.756664,None
+06-22-2018,CVX,1218,125.410004,126.57,124.82,125.099998,8535200,116.559319,None
+07-24-2018,BAC,1223,30.85,31.110001,30.65,30.83,64761500,29.643324,None
+01-03-2018,DVN,1228,42.439999,43.279999,42.34,42.720001,3908700,41.331291,None
+01-04-2018,JPM,1234,108.360001,110.029999,108.199997,109.040001,12953700,102.184212,None
+04-24-2018,USB,1239,50.66,51.290001,50.09,50.419998,6946600,47.369106,None
+04-24-2018,PG,1244,50.66,51.290001,50.09,50.419998,6946600,47.369106,"Error in getSymbols.yahoo(Symbols = ""PG"", env = <environment>, verbose = FALSE,  : 
+  Unable to import “PG”.
+PG download failed after two attempts. Error message:
+HTTP error 404.
+"
+04-24-2018,PAYX,1249,60.27,60.560001,59.639999,59.950001,3630800,56.299744,None
+04-24-2018,JPM,1254,111.75,112.900002,109.589996,110.410004,16453100,103.99276,None
+04-24-2018,JNJ,1259,126.940002,127.459999,125.309998,126.190002,6577500,119.492531,None
+04-24-2018,GD,1264,126.940002,127.459999,125.309998,126.190002,6577500,119.492531,"Error in getSymbols.yahoo(Symbols = ""GD"", env = <environment>, verbose = FALSE,  : 
+  Unable to import “GD”.
+GD download failed after two attempts. Error message:
+HTTP error 404.
+"
+04-24-2018,EV,1269,55.43,55.900002,54.549999,54.970001,305700,51.173054,None
+04-24-2018,CVX,1274,124.360001,125.040001,121.75,122.540001,7980500,113.187111,None
+04-24-2018,AMGN,1279,175.550003,175.759995,170.529999,171.940002,4389400,162.176407,None
+04-24-2018,AFL,1284,45.41,45.560001,44.799999,45.169998,2191000,45.169998,None
+04-24-2018,LULU,1289,45.41,45.560001,44.799999,45.169998,2191000,45.169998,"Error in getSymbols.yahoo(Symbols = ""LULU"", env = <environment>, verbose = FALSE,  : 
+  Unable to import “LULU”.
+LULU download failed after two attempts. Error message:
+HTTP error 404.
+"
+04-24-2018,CHK,1294,45.41,45.560001,44.799999,45.169998,2191000,45.169998,"Error in getSymbols.yahoo(Symbols = ""CHK"", env = <environment>, verbose = FALSE,  : 
+  Unable to import “CHK”.
+CHK download failed after two attempts. Error message:
+HTTP error 404.
+"
+04-05-2018,WMT,1299,87.599998,88.349998,87.050003,87.809998,6380900,87.809998,None
+04-05-2018,SYY,1304,61.040001,61.259998,60.139999,60.310001,3912000,57.428661,None
+04-05-2018,PAYX,1309,62.25,62.450001,61.77,62.139999,1232000,58.3564,None
+04-05-2018,MDT,1314,79.019997,80.080002,78.690002,79.699997,4183500,79.699997,None
+04-05-2018,HRS,1319,79.019997,80.080002,78.690002,79.699997,4183500,79.699997,"Error in getSymbols.yahoo(Symbols = ""HRS"", env = <environment>, verbose = FALSE,  : 
+  Unable to import “HRS”.
+HRS download failed after two attempts. Error message:
+HTTP error 404.
+"
+04-05-2018,CLX,1324,129.940002,130.929993,128.139999,130.25,889100,122.650826,None
+04-05-2018,BDX,1329,129.940002,130.929993,128.139999,130.25,889100,122.650826,"Error in getSymbols.yahoo(Symbols = ""BDX"", env = <environment>, verbose = FALSE,  : 
+  Unable to import “BDX”.
+BDX download failed after two attempts. Error message:
+HTTP error 404.
+"
+04-05-2018,ACN,1334,151.100006,152.070007,150.009995,151.570007,3336300,145.804581,None
+04-04-2018,MDLZ,1339,151.100006,152.070007,150.009995,151.570007,3336300,145.804581,"Error in getSymbols.yahoo(Symbols = ""MDLZ"", env = <environment>, verbose = FALSE,  : 
+  Unable to import “MDLZ”.
+MDLZ download failed after two attempts. Error message:
+HTTP error 404.
+"
+01-04-2018,NSC,1344,147.729996,148.589996,146.910004,147.380005,1545100,140.334671,None
+01-04-2018,XOM,1349,86.790001,87.220001,86.43,86.82,10863000,76.937187,None
+01-26-2018,SLB,1354,77.690002,78.18,77.389999,77.610001,6055300,70.024567,None
+01-26-2018,DWDP,1359,77.690002,78.18,77.389999,77.610001,6055300,70.024567,"Error in getSymbols.yahoo(Symbols = ""DWDP"", env = <environment>, verbose = FALSE,  : 
+  Unable to import “DWDP”.
+DWDP download failed after two attempts. Error message:
+HTTP error 404.
+"
+01-04-2018,NSC,1364,147.729996,148.589996,146.910004,147.380005,1545100,140.334671,None
+01-04-2018,XOM,1369,86.790001,87.220001,86.43,86.82,10863000,76.937187,None
+01-26-2018,SLB,1374,77.690002,78.18,77.389999,77.610001,6055300,70.024567,None
+01-26-2018,DWDP,1379,77.690002,78.18,77.389999,77.610001,6055300,70.024567,"Error in getSymbols.yahoo(Symbols = ""DWDP"", env = <environment>, verbose = FALSE,  : 
+  Unable to import “DWDP”.
+DWDP download failed after two attempts. Error message:
+HTTP error 404.
+"
+11-07-2018,WTW,1386,77.690002,78.18,77.389999,77.610001,6055300,70.024567,"Error in getSymbols.yahoo(Symbols = ""WTW"", env = <environment>, verbose = FALSE,  : 
+  Unable to import “WTW”.
+WTW download failed after two attempts. Error message:
+HTTP error 404.
+"
+04-18-2019,INTC,1415,58.709999,58.880001,58.119999,58.490002,20464200,56.825623,None
+04-18-2019,SIEGY,1420,59.869999,60,59.73,59.990002,188700,57.948143,None
+04-30-2019,BWXT,1425,51.110001,51.290001,50.77,51.099998,522100,50.442371,None
+04-26-2019,FDX,1430,185.240005,186.539993,182.889999,184.039993,3638100,184.039993,None
+04-22-2019,ENTG,1435,185.240005,186.539993,182.889999,184.039993,3638100,184.039993,"Error in getSymbols.yahoo(Symbols = ""ENTG"", env = <environment>, verbose = FALSE,  : 
+  Unable to import “ENTG”.
+ENTG download failed after two attempts. Error message:
+HTTP error 404.
+"
+04-16-2019,WMB,1440,185.240005,186.539993,182.889999,184.039993,3638100,184.039993,"Error in getSymbols.yahoo(Symbols = ""WMB"", env = <environment>, verbose = FALSE,  : 
+  Unable to import “WMB”.
+WMB download failed after two attempts. Error message:
+HTTP error 404.
+"
+04-12-2019,FDC,1445,185.240005,186.539993,182.889999,184.039993,3638100,184.039993,"Error in getSymbols.yahoo(Symbols = ""FDC"", env = <environment>, verbose = FALSE,  : 
+  Unable to import “FDC”.
+FDC download failed after two attempts. Error message:
+HTTP error 404.
+"
+04-10-2019,DIS,1450,117.580002,118.029999,116.279999,117.160004,14091100,115.745461,None
+04-08-2019,AAPL,1455,196.419998,200.229996,196.339996,200.100006,25881700,196.981491,None
+04-08-2019,LYV,1460,62.669998,63.580002,62.389999,63.580002,1196900,63.580002,None
+04-17-2019,QCOM,1469,78.82,82.519997,76.489998,79.080002,156019300,76.539383,None
+04-10-2018,CBS,1482,78.82,82.519997,76.489998,79.080002,156019300,76.539383,"Error in getSymbols.yahoo(Symbols = ""CBS"", env = <environment>, verbose = FALSE,  : 
+  Unable to import “CBS”.
+CBS download failed after two attempts. Error message:
+HTTP error 404.
+"
+03-11-2019,RDS-B,1487,62.130001,62.639999,62.099998,62.439999,1251500,58.544327,None
+03-11-2019,AVGO,1492,264.890015,270.549988,264.049988,269.059998,2716100,269.059998,None
+03-11-2019,NPSNY,1497,29.930252,30.395241,29.718271,30.395241,641100,30.311424,None
+03-11-2019,LVS,1502,60.349998,60.610001,59.889999,60.150002,2383700,56.058304,None
+03-11-2019,HLT,1507,82.769997,82.980003,82.110001,82.800003,2246300,82.284012,None
+03-11-2019,DEO,1512,159.059998,160.389999,158.970001,160.289993,492300,156.819504,None
+03-11-2019,CABGY,1517,159.059998,160.389999,158.970001,160.289993,492300,156.819504,"Error in getSymbols.yahoo(Symbols = ""CABGY"", env = <environment>, verbose = FALSE,  : 
+  Unable to import “CABGY”.
+CABGY download failed after two attempts. Error message:
+HTTP error 404.
+"
+03-11-2019,AZN,1522,41.650002,42.330002,41.639999,42.189999,3501500,40.923798,None
+03-11-2019,GOOG,1527,1144.449951,1176.189941,1144.449951,1175.76001,1719200,1175.76001,None
+03-15-2019,BA,1537,370.880005,385.709991,366.450012,378.98999,26697700,370.113434,None
+03-22-2019,FLMVX,1549,37.169998,37.169998,37.169998,37.169998,0,35.295322,None
+03-22-2019,KDP,1554,37.169998,37.169998,37.169998,37.169998,NA,35.295322,"Error in getSymbols.yahoo(Symbols = ""KDP"", env = <environment>, verbose = FALSE,  : 
+  Unable to import “KDP”.
+KDP download failed after two attempts. Error message:
+HTTP error 404.
+"
+04-03-2019,MOS,1562,27.790001,27.969999,27.25,27.360001,3661300,27.069956,None
+03-29-2019,FDX,1568,179.020004,182.089996,178.910004,181.410004,2171500,181.410004,None
+03-28-2019,MOS,1573,27.030001,27.700001,26.91,27.17,5906700,26.881969,None
+03-25-2019,CSCO,1578,27.030001,27.700001,26.91,27.17,5906700,26.881969,"Error in getSymbols.yahoo(Symbols = ""CSCO"", env = <environment>, verbose = FALSE,  : 
+  Unable to import “CSCO”.
+CSCO download failed after two attempts. Error message:
+HTTP error 404.
+"
+03-19-2019,ET,1583,27.030001,27.700001,26.91,27.17,5906700,26.881969,"Error in getSymbols.yahoo(Symbols = ""ET"", env = <environment>, verbose = FALSE,  : 
+  Unable to import “ET”.
+ET download failed after two attempts. Error message:
+HTTP error 404.
+"
+03-13-2019,FDC,1588,27.030001,27.700001,26.91,27.17,5906700,26.881969,"Error in getSymbols.yahoo(Symbols = ""FDC"", env = <environment>, verbose = FALSE,  : 
+  Unable to import “FDC”.
+FDC download failed after two attempts. Error message:
+HTTP error 404.
+"
+03-06-2019,TRP,1593,44.75,45.150002,44.669998,44.900002,1051600,41.827934,None
+02-27-2019,T,1607,31.23,31.27,30.780001,31.059999,26349500,28.806826,None
+02-12-2019,HAS,1612,31.23,31.27,30.780001,31.059999,26349500,28.806826,"Error in getSymbols.yahoo(Symbols = ""HAS"", env = <environment>, verbose = FALSE,  : 
+  Unable to import “HAS”.
+HAS download failed after two attempts. Error message:
+HTTP error 404.
+"
+02-28-2019,SLB,1617,44.459999,44.540001,43.419998,44.060001,8846900,41.567394,None
+02-28-2019,INTC,1622,52.919998,53.18,52.810001,52.959999,18388800,51.45298,None
+02-28-2019,COST,1627,218.490005,219.690002,217.520004,218.740005,2055600,216.24649,None
+02-28-2019,XLNX,1632,123.550003,125.839996,123.489998,125.300003,3967900,122.900749,None
+02-28-2019,AAPL,1637,174.320007,174.910004,172.919998,173.149994,28215400,170.451508,None
+02-27-2019,LYB,1654,86.790001,87.059998,86,86.690002,1760600,81.26165,None
+02-27-2019,TRGP,1660,40.669998,41.25,39.889999,40.790001,2779000,36.872421,None
+02-25-2019,AVP,1665,40.669998,41.25,39.889999,40.790001,2779000,36.872421,"Error in getSymbols.yahoo(Symbols = ""AVP"", env = <environment>, verbose = FALSE,  : 
+  Unable to import “AVP”.
+AVP download failed after two attempts. Error message:
+HTTP error 404.
+"
+02-25-2019,UN,1670,55.209999,55.27,54.830002,54.959999,827600,53.272316,None
+02-25-2019,MSFT,1675,111.760002,112.18,111.260002,111.589996,23750600,110.132874,None
+02-25-2019,MU,1680,43.810001,43.990002,42.700001,42.75,25233700,42.75,None
+02-19-2019,GLW,1685,34.34,34.459999,34.139999,34.200001,3378300,33.005543,None
+02-19-2019,GM,1690,38.98,39.68,38.91,39.529999,9122200,37.477543,None
+02-08-2019,LGF-B,1698,38.98,39.68,38.91,39.529999,9122200,37.477543,"Error in getSymbols.yahoo(Symbols = ""LGF-B"", env = <environment>, verbose = FALSE,  : 
+  Unable to import “LGF-B”.
+LGF-B download failed after two attempts. Error message:
+HTTP error 404.
+"
+02-07-2019,FEYE,1703,38.98,39.68,38.91,39.529999,9122200,37.477543,"Error in getSymbols.yahoo(Symbols = ""FEYE"", env = <environment>, verbose = FALSE,  : 
+  Unable to import “FEYE”.
+FEYE download failed after two attempts. Error message:
+HTTP error 404.
+"
+02-06-2019,T,1708,29.700001,29.790001,29.52,29.559999,22928200,27.415638,None
+02-05-2019,WPX,1713,12.91,13.3,12.88,12.92,11207700,12.92,None
+02-01-2019,T,1718,30.209999,30.360001,29.9,30,41076200,27.823719,None
+02-04-2019,QCOM,1737,49.709999,49.799999,49.470001,49.689999,10880000,47.540798,None
+02-04-2019,HON,1742,49.709999,49.799999,49.470001,49.689999,10880000,47.540798,"Error in getSymbols.yahoo(Symbols = ""HON"", env = <environment>, verbose = FALSE,  : 
+  Unable to import “HON”.
+HON download failed after two attempts. Error message:
+HTTP error 404.
+"
+02-04-2019,CVS,1747,49.709999,49.799999,49.470001,49.689999,10880000,47.540798,"Error in getSymbols.yahoo(Symbols = ""CVS"", env = <environment>, verbose = FALSE,  : 
+  Unable to import “CVS”.
+CVS download failed after two attempts. Error message:
+HTTP error 404.
+"
+01-10-2019,UTX,1753,49.709999,49.799999,49.470001,49.689999,10880000,47.540798,"Error in getSymbols.yahoo(Symbols = ""UTX"", env = <environment>, verbose = FALSE,  : 
+  Unable to import “UTX”.
+UTX download failed after two attempts. Error message:
+HTTP error 404.
+"
+01-25-2019,PPG,1758,49.709999,49.799999,49.470001,49.689999,10880000,47.540798,"Error in getSymbols.yahoo(Symbols = ""PPG"", env = <environment>, verbose = FALSE,  : 
+  Unable to import “PPG”.
+PPG download failed after two attempts. Error message:
+HTTP error 404.
+"
+01-25-2019,DIS,1763,111.470001,111.5,110.660004,111.089996,5706900,109.748734,None
+01-28-2019,AX,1776,111.470001,111.5,110.660004,111.089996,5706900,109.748734,"Error in getSymbols.yahoo(Symbols = ""AX"", env = <environment>, verbose = FALSE,  : 
+  Unable to import “AX”.
+AX download failed after two attempts. Error message:
+HTTP error 404.
+"
+01-31-2019,T,1782,29.5,30.09,29.15,30.059999,52177000,27.879364,None
+01-30-2019,T,1787,29.959999,30.4,29.01,29.370001,92953500,27.239424,None
+01-18-2019,WPX,1792,12.86,13.12,12.69,13.09,9071500,13.09,None
+01-09-2019,AM,1797,13.5,13.51,12.41,12.91,3199300,10.245642,None
+01-08-2019,BWXT,1802,40,40.360001,39.52,40.34,875100,39.683537,None
+01-04-2019,CZR,1807,40,40.360001,39.52,40.34,875100,39.683537,"Error in getSymbols.yahoo(Symbols = ""CZR"", env = <environment>, verbose = FALSE,  : 
+  Unable to import “CZR”.
+CZR download failed after two attempts. Error message:
+HTTP error 404.
+"
+01-03-2019,BWXT,1812,38.59,38.970001,37.400002,38.099998,744000,37.479988,None
+01-16-2019,ALB,1822,73.919998,74.93,73.5,73.93,2634300,72.043648,None
+08-09-2018,CAPL,1827,17.690001,18.290001,17.690001,18.15,89400,14.649404,None
+01-04-2019,AAPL,1833,144.529999,148.550003,143.800003,148.259995,58607100,145.326126,None
+12-27-2018,BUD,1838,65.480003,66.300003,64.550003,66.300003,2371700,64.729172,None
+12-04-2018,FB,1843,140.729996,143.389999,137.160004,137.929993,30307400,137.929993,None
+12-28-2018,AMZN,1848,1473.349976,1513.469971,1449,1478.02002,8829000,1478.02002,None
+12-28-2018,BMY,1853,50.610001,51.700001,50.5,50.939999,7686400,48.499191,None
+12-04-2018,UNP,1858,156.330002,157.589996,151.729996,153.029999,4385300,148.82251,None
+12-28-2018,SQ,1863,56.700001,57.099998,54.919998,55.869999,18413300,55.869999,None
+12-13-2018,XPO,1868,58.009998,59.939999,41.049999,44.5,39689700,44.5,None
+12-27-2018,SPY,1873,242.570007,248.289993,238.960007,248.070007,186267300,242.036667,None
+12-24-2018,ACA,1880,24.49,24.83,24.4,24.700001,180900,24.453203,None
+12-21-2018,BWXT,1885,38.77,38.950001,37.119999,37.16,1907000,36.555283,None
+12-20-2018,LGF-B,1891,38.77,38.950001,37.119999,37.16,1907000,36.555283,"Error in getSymbols.yahoo(Symbols = ""LGF-B"", env = <environment>, verbose = FALSE,  : 
+  Unable to import “LGF-B”.
+LGF-B download failed after two attempts. Error message:
+HTTP error 404.
+"
+12-20-2018,BWXT,1897,39.779999,40.240002,37.73,38.77,1125900,38.139084,None
+12-18-2018,KN,1902,13.95,14.19,13.94,14.04,758200,14.04,None
+12-14-2018,SU,1907,30.33,30.34,29.35,29.59,4502900,28.060375,None
+12-13-2018,WPX,1912,12.74,12.81,12.4,12.75,7631600,12.75,None
+12-12-2018,UPS,1917,104.669998,104.900002,101.169998,101.209999,4453700,96.819496,None
+12-11-2018,GLW,1922,32.299999,32.459999,31.559999,31.59,5185900,30.486696,None
+12-07-2018,BWXT,1928,42.939999,43.25,41.400002,41.860001,1518600,41.178795,None
+12-04-2018,LGF-B,1933,42.939999,43.25,41.400002,41.860001,1518600,41.178795,"Error in getSymbols.yahoo(Symbols = ""LGF-B"", env = <environment>, verbose = FALSE,  : 
+  Unable to import “LGF-B”.
+LGF-B download failed after two attempts. Error message:
+HTTP error 404.
+"
+12-21-2018,ENB,1942,31.030001,31.6,30.709999,30.76,11301600,27.81315,None
+12-19-2018,MALOX,1952,31.030001,31.6,30.709999,30.76,11301600,27.81315,"Error in getSymbols.yahoo(Symbols = ""MALOX"", env = <environment>, verbose = FALSE,  : 
+  Unable to import “MALOX”.
+MALOX download failed after two attempts. Error message:
+HTTP error 404.
+"
+12-05-2018,WFC,1960,31.030001,31.6,30.709999,30.76,11301600,27.81315,"Error in getSymbols.yahoo(Symbols = ""WFC"", env = <environment>, verbose = FALSE,  : 
+  Unable to import “WFC”.
+WFC download failed after two attempts. Error message:
+HTTP error 404.
+"
+11-16-2018,APTV,1965,74.589996,75.209999,73.620003,74.18,1749700,73.212303,None
+11-12-2018,INCY,1972,66.099998,66.190002,62.509998,62.860001,2228600,62.860001,None
+11-28-2018,GPK,1977,66.099998,66.190002,62.509998,62.860001,2228600,62.860001,"Error in getSymbols.yahoo(Symbols = ""GPK"", env = <environment>, verbose = FALSE,  : 
+  Unable to import “GPK”.
+GPK download failed after two attempts. Error message:
+HTTP error 404.
+"
+11-27-2018,AAPL,1987,171.509995,174.770004,170.880005,174.240005,41387400,170.792038,None
+11-27-2018,LGF-B,1992,171.509995,174.770004,170.880005,174.240005,41387400,170.792038,"Error in getSymbols.yahoo(Symbols = ""LGF-B"", env = <environment>, verbose = FALSE,  : 
+  Unable to import “LGF-B”.
+LGF-B download failed after two attempts. Error message:
+HTTP error 404.
+"
+11-26-2018,HBI,1997,15.42,15.85,15.42,15.68,5034000,14.962794,None
+11-20-2018,VLP,2002,41.959999,41.990002,41.950001,41.950001,682975,41.950001,None
+11-20-2018,GPK,2007,41.959999,41.990002,41.950001,41.950001,682975,41.950001,"Error in getSymbols.yahoo(Symbols = ""GPK"", env = <environment>, verbose = FALSE,  : 
+  Unable to import “GPK”.
+GPK download failed after two attempts. Error message:
+HTTP error 404.
+"
+11-19-2018,FDC,2012,41.959999,41.990002,41.950001,41.950001,682975,41.950001,"Error in getSymbols.yahoo(Symbols = ""FDC"", env = <environment>, verbose = FALSE,  : 
+  Unable to import “FDC”.
+FDC download failed after two attempts. Error message:
+HTTP error 404.
+"
+11-15-2018,FDC,2017,41.959999,41.990002,41.950001,41.950001,682975,41.950001,"Error in getSymbols.yahoo(Symbols = ""FDC"", env = <environment>, verbose = FALSE,  : 
+  Unable to import “FDC”.
+FDC download failed after two attempts. Error message:
+HTTP error 404.
+"
+11-13-2018,KN,2022,14.27,14.72,14.12,14.27,1400200,14.27,None
+11-12-2018,LGF-B,2027,14.27,14.72,14.12,14.27,1400200,14.27,"Error in getSymbols.yahoo(Symbols = ""LGF-B"", env = <environment>, verbose = FALSE,  : 
+  Unable to import “LGF-B”.
+LGF-B download failed after two attempts. Error message:
+HTTP error 404.
+"
+11-12-2018,FDC,2032,14.27,14.72,14.12,14.27,1400200,14.27,"Error in getSymbols.yahoo(Symbols = ""FDC"", env = <environment>, verbose = FALSE,  : 
+  Unable to import “FDC”.
+FDC download failed after two attempts. Error message:
+HTTP error 404.
+"
+11-08-2018,DISCA,2037,33.689999,34.889999,33.25,33.799999,6324900,33.799999,None
+11-07-2018,FEYE,2042,33.689999,34.889999,33.25,33.799999,6324900,33.799999,"Error in getSymbols.yahoo(Symbols = ""FEYE"", env = <environment>, verbose = FALSE,  : 
+  Unable to import “FEYE”.
+FEYE download failed after two attempts. Error message:
+HTTP error 404.
+"
+11-05-2018,FDC,2047,33.689999,34.889999,33.25,33.799999,6324900,33.799999,"Error in getSymbols.yahoo(Symbols = ""FDC"", env = <environment>, verbose = FALSE,  : 
+  Unable to import “FDC”.
+FDC download failed after two attempts. Error message:
+HTTP error 404.
+"
+11-02-2018,GPK,2052,33.689999,34.889999,33.25,33.799999,6324900,33.799999,"Error in getSymbols.yahoo(Symbols = ""GPK"", env = <environment>, verbose = FALSE,  : 
+  Unable to import “GPK”.
+GPK download failed after two attempts. Error message:
+HTTP error 404.
+"
+10-30-2018,GE,2069,10.153846,10.961538,9.490385,9.788462,358775700,9.788462,None
+10-29-2018,MSTY.PA,2075,15,15,15,15,5000,15,None
+10-02-2018,AMZN,2081,1999.98999,2013.390015,1965.77002,1971.310059,5400700,1971.310059,None
+10-25-2018,XPO,2087,87,91.470001,86.169998,90.220001,1496600,90.220001,None
+11-01-2018,GPK,2094,87,91.470001,86.169998,90.220001,1496600,90.220001,"Error in getSymbols.yahoo(Symbols = ""GPK"", env = <environment>, verbose = FALSE,  : 
+  Unable to import “GPK”.
+GPK download failed after two attempts. Error message:
+HTTP error 404.
+"
+11-01-2018,AAPL,2099,219.050003,222.360001,216.809998,222.220001,58323200,217.065186,None
+10-30-2018,DISCA,2104,30.41,31.889999,30.27,31.25,4244300,31.25,None
+10-29-2018,PFE,2109,42.950001,43.68,42.560001,43.23,30215900,40.540924,None
+10-26-2018,MU,2114,35.279999,35.91,34.299999,35.400002,41257400,35.400002,None
+10-24-2018,PG,2119,35.279999,35.91,34.299999,35.400002,41257400,35.400002,"Error in getSymbols.yahoo(Symbols = ""PG"", env = <environment>, verbose = FALSE,  : 
+  Unable to import “PG”.
+PG download failed after two attempts. Error message:
+HTTP error 404.
+"
+10-24-2018,RF,2124,16.219999,16.24,15.42,15.46,29458900,14.578544,None
+10-23-2018,BAC,2129,26.389999,27.200001,26.110001,27.02,102392500,26.105562,None
+10-15-2018,BAC,2134,28.49,28.620001,27.639999,27.92,114636100,26.9751,None
+10-10-2018,AXTA,2139,26.5,27.17,26.5,26.76,4725700,26.76,None
+10-05-2018,GLW,2144,35.779999,35.889999,34.610001,34.73,5010300,33.32605,None
+10-02-2018,IWF,2207,156.270004,156.619995,155.539993,155.820007,1089000,155.820007,None
+10-24-2017,ABT,2212,56,56.07,55.18,55.380001,7201000,53.046432,None
+08-07-2018,GE,2217,12.615385,12.740385,12.519231,12.653846,58868000,12.653846,None
+09-25-2018,GILD,2223,75.699997,75.989998,74.919998,74.989998,5926500,70.947716,None
+04-27-2015,PG,2228,75.699997,75.989998,74.919998,74.989998,5926500,70.947716,"Error in getSymbols.yahoo(Symbols = ""PG"", env = <environment>, verbose = FALSE,  : 
+  Unable to import “PG”.
+PG download failed after two attempts. Error message:
+HTTP error 404.
+"
+09-28-2018,XPO,2233,114.190002,114.900002,113.75,114.169998,755500,114.169998,None
+09-19-2018,FDX,2243,241.300003,243.509995,238.639999,242.880005,3288700,242.880005,None
+09-20-2018,SHLX,2249,241.300003,243.509995,238.639999,242.880005,3288700,242.880005,"Error in getSymbols.yahoo(Symbols = ""SHLX"", env = <environment>, verbose = FALSE,  : 
+  Unable to import “SHLX”.
+SHLX download failed after two attempts. Error message:
+HTTP error 404.
+"
+09-17-2018,WMB,2254,241.300003,243.509995,238.639999,242.880005,3288700,242.880005,"Error in getSymbols.yahoo(Symbols = ""WMB"", env = <environment>, verbose = FALSE,  : 
+  Unable to import “WMB”.
+WMB download failed after two attempts. Error message:
+HTTP error 404.
+"
+09-13-2018,FDC,2259,241.300003,243.509995,238.639999,242.880005,3288700,242.880005,"Error in getSymbols.yahoo(Symbols = ""FDC"", env = <environment>, verbose = FALSE,  : 
+  Unable to import “FDC”.
+FDC download failed after two attempts. Error message:
+HTTP error 404.
+"
+09-10-2018,OKE,2264,66.089996,66.389999,64.5,64.559998,2766900,57.819916,None
+09-04-2018,NOC,2270,66.089996,66.389999,64.5,64.559998,2766900,57.819916,"Error in getSymbols.yahoo(Symbols = ""NOC"", env = <environment>, verbose = FALSE,  : 
+  Unable to import “NOC”.
+NOC download failed after two attempts. Error message:
+HTTP error 404.
+"
+08-24-2018,NFLX,2275,66.089996,66.389999,64.5,64.559998,2766900,57.819916,"Error in getSymbols.yahoo(Symbols = ""NFLX"", env = <environment>, verbose = FALSE,  : 
+  Unable to import “NFLX”.
+NFLX download failed after two attempts. Error message:
+HTTP error 404.
+"
+08-30-2018,CUTR,2280,32.150002,32.900002,31.6,32,214600,32,None
+08-01-2018,BBT,2286,32.150002,32.900002,31.6,32,214600,32,"Error in getSymbols.yahoo(Symbols = ""BBT"", env = <environment>, verbose = FALSE,  : 
+  Unable to import “BBT”.
+BBT download failed after two attempts. Error message:
+HTTP error 404.
+"
+08-28-2018,T,2297,32.810001,32.830002,32.630001,32.669998,16484700,29.369095,None
+08-06-2018,T,2302,32.209999,32.32,32,32.110001,30087300,28.865683,None
+08-20-2018,WMB,2312,32.209999,32.32,32,32.110001,30087300,28.865683,"Error in getSymbols.yahoo(Symbols = ""WMB"", env = <environment>, verbose = FALSE,  : 
+  Unable to import “WMB”.
+WMB download failed after two attempts. Error message:
+HTTP error 404.
+"
+08-16-2018,WPX,2317,17.43,17.68,17.34,17.41,3438600,17.41,None
+08-10-2018,CZR,2322,17.43,17.68,17.34,17.41,3438600,17.41,"Error in getSymbols.yahoo(Symbols = ""CZR"", env = <environment>, verbose = FALSE,  : 
+  Unable to import “CZR”.
+CZR download failed after two attempts. Error message:
+HTTP error 404.
+"
+08-08-2018,PFE,2328,40.709999,41.639999,40.580002,41.41,24513700,38.834137,None
+08-03-2018,DISCA,2333,26.370001,27.16,26.370001,27.059999,3729100,27.059999,None
+08-02-2018,FDC,2338,26.370001,27.16,26.370001,27.059999,3729100,27.059999,"Error in getSymbols.yahoo(Symbols = ""FDC"", env = <environment>, verbose = FALSE,  : 
+  Unable to import “FDC”.
+FDC download failed after two attempts. Error message:
+HTTP error 404.
+"
+08-20-2018,XOM,2347,78.260002,79,78.169998,78.809998,8152100,72.003342,None
+07-30-2018,AAPL,2352,191.899994,192.199997,189.070007,189.910004,21029500,184.856369,None
+07-26-2018,IIN,2358,51,60.400002,48,59.25,610300,59.25,None
+07-26-2018,BFAM,2363,110.089996,111.019997,109.650002,110.949997,136400,110.949997,None
+01-27-2017,VZ,2369,110.089996,111.019997,109.650002,110.949997,136400,110.949997,"Error in getSymbols.yahoo(Symbols = ""VZ"", env = <environment>, verbose = FALSE,  : 
+  Unable to import “VZ”.
+VZ download failed after two attempts. Error message:
+HTTP error 404.
+"
+11-17-2017,REVB,2375,29,29,28,28,1409,28,None
+01-05-2018,PFS,2380,26.91,27.030001,26.719999,26.83,141100,24.805338,None
+07-25-2018,ENB,2385,35.07,35.200001,34.709999,34.939999,3282400,30.361437,None
+07-26-2018,WTW,2395,35.07,35.200001,34.709999,34.939999,3282400,30.361437,"Error in getSymbols.yahoo(Symbols = ""WTW"", env = <environment>, verbose = FALSE,  : 
+  Unable to import “WTW”.
+WTW download failed after two attempts. Error message:
+HTTP error 404.
+"
+07-30-2018,CBS,2402,35.07,35.200001,34.709999,34.939999,3282400,30.361437,"Error in getSymbols.yahoo(Symbols = ""CBS"", env = <environment>, verbose = FALSE,  : 
+  Unable to import “CBS”.
+CBS download failed after two attempts. Error message:
+HTTP error 404.
+"
+07-25-2018,KN,2407,16.389999,17.780001,16.389999,17.77,3594200,17.77,None
+07-17-2018,LYV,2412,50.759998,51.610001,50.720001,51.439999,1090200,51.439999,None
+07-16-2018,GM,2417,39.310001,39.599998,39.169998,39.560001,7466400,36.716072,None
+07-13-2018,RF,2422,17.48,17.48,17.07,17.209999,19405700,16.114765,None
+07-11-2018,GM,2427,39.5,39.689999,39.18,39.299999,8840000,36.474751,None
+07-30-2018,WPX,2432,18.76,19.17,18.469999,19.01,7275300,19.01,None
+07-25-2018,GM,2437,37.450001,37.900002,36.259998,37.650002,42672300,34.943378,None
+07-17-2018,GPK,2442,37.450001,37.900002,36.259998,37.650002,42672300,34.943378,"Error in getSymbols.yahoo(Symbols = ""GPK"", env = <environment>, verbose = FALSE,  : 
+  Unable to import “GPK”.
+GPK download failed after two attempts. Error message:
+HTTP error 404.
+"
+07-17-2018,BOIVF,2447,4.5,4.52,4.44,4.5,152400,4.418483,None
+07-13-2018,RF,2452,17.48,17.48,17.07,17.209999,19405700,16.114765,None
+07-10-2018,AVP,2457,17.48,17.48,17.07,17.209999,19405700,16.114765,"Error in getSymbols.yahoo(Symbols = ""AVP"", env = <environment>, verbose = FALSE,  : 
+  Unable to import “AVP”.
+AVP download failed after two attempts. Error message:
+HTTP error 404.
+"
+07-27-2018,UNFI,2462,17.48,17.48,17.07,17.209999,19405700,16.114765,"Error in getSymbols.yahoo(Symbols = ""UNFI"", env = <environment>, verbose = FALSE,  : 
+  Unable to import “UNFI”.
+UNFI download failed after two attempts. Error message:
+HTTP error 404.
+"
+07-18-2018,BAC,2467,29.92,30.290001,29.84,30.129999,59109200,28.970266,None
+05-22-2018,RPM,2473,51.880001,52.18,51.439999,51.470001,844300,51.470001,None
+06-07-2018,BA,2478,372,374.480011,366.049988,368.529999,4517800,354.700775,None
+06-06-2018,DAL,2483,53.200001,54.310001,52.630001,54.169998,10825300,51.697048,None
+06-13-2018,BTO,2488,39.049999,39.34,38.759998,38.759998,35400,34.541164,None
+06-28-2018,APTV,2494,92.860001,92.970001,90.129997,91.93,1720400,90.265411,None
+06-18-2018,PEP,2499,107.010002,107.209999,104.830002,105.379997,5964400,100.028885,None
+06-04-2018,MRK,2504,61.549999,62.529999,61.18,62.02,19475700,58.607864,None
+07-05-2018,GM,2510,39.610001,40,39.209999,39.470001,8351400,36.632538,None
+06-13-2018,FOXA,2516,39.610001,40,39.209999,39.470001,8351400,36.632538,"Error in getSymbols.yahoo(Symbols = ""FOXA"", env = <environment>, verbose = FALSE,  : 
+  Unable to import “FOXA”.
+FOXA download failed after two attempts. Error message:
+HTTP error 400.
+"
+06-27-2018,BOIVF,2521,4.63,4.73,4.63,4.65,259100,4.565765,None
+06-25-2018,RF,2526,18.440001,18.52,18.129999,18.35,10753500,17.182219,None
+06-21-2018,FOXA,2531,18.440001,18.52,18.129999,18.35,10753500,17.182219,"Error in getSymbols.yahoo(Symbols = ""FOXA"", env = <environment>, verbose = FALSE,  : 
+  Unable to import “FOXA”.
+FOXA download failed after two attempts. Error message:
+HTTP error 400.
+"
+06-21-2018,LNG,2536,66.239998,67.230003,65.860001,65.860001,3007600,65.860001,None
+06-20-2018,FOXA,2541,66.239998,67.230003,65.860001,65.860001,3007600,65.860001,"Error in getSymbols.yahoo(Symbols = ""FOXA"", env = <environment>, verbose = FALSE,  : 
+  Unable to import “FOXA”.
+FOXA download failed after two attempts. Error message:
+HTTP error 400.
+"
+06-13-2018,SBUX,2547,56.509998,56.700001,56.18,56.209999,8283200,53.94223,None
+06-04-2018,USG,2553,56.509998,56.700001,56.18,56.209999,8283200,53.94223,"Error in getSymbols.yahoo(Symbols = ""USG"", env = <environment>, verbose = FALSE,  : 
+  Unable to import “USG”.
+USG download failed after two attempts. Error message:
+HTTP error 404.
+"
+02-24-2017,ENTG,2559,56.509998,56.700001,56.18,56.209999,8283200,53.94223,"Error in getSymbols.yahoo(Symbols = ""ENTG"", env = <environment>, verbose = FALSE,  : 
+  Unable to import “ENTG”.
+ENTG download failed after two attempts. Error message:
+HTTP error 404.
+"
+02-14-2017,PFE,2564,32.529999,32.77,32.349998,32.75,22965400,29.044111,None
+02-10-2017,WOOF,2569,32.529999,32.77,32.349998,32.75,22965400,29.044111,"Error in getSymbols.yahoo(Symbols = ""WOOF"", env = <environment>, verbose = FALSE,  : 
+  Unable to import “WOOF”.
+WOOF download failed after two attempts. Error message:
+HTTP error 404.
+"
+02-08-2017,AMZN,2574,812.690002,821.47998,812.5,819.710022,2858000,819.710022,None
+02-06-2017,WOOF,2580,812.690002,821.47998,812.5,819.710022,2858000,819.710022,"Error in getSymbols.yahoo(Symbols = ""WOOF"", env = <environment>, verbose = FALSE,  : 
+  Unable to import “WOOF”.
+WOOF download failed after two attempts. Error message:
+HTTP error 404.
+"
+02-06-2017,PFE,2585,32,32.330002,31.940001,32.23,24534400,28.582952,None
+02-01-2017,ENTG,2592,32,32.330002,31.940001,32.23,24534400,28.582952,"Error in getSymbols.yahoo(Symbols = ""ENTG"", env = <environment>, verbose = FALSE,  : 
+  Unable to import “ENTG”.
+ENTG download failed after two attempts. Error message:
+HTTP error 404.
+"
+06-25-2018,NFLX,2602,32,32.330002,31.940001,32.23,24534400,28.582952,"Error in getSymbols.yahoo(Symbols = ""NFLX"", env = <environment>, verbose = FALSE,  : 
+  Unable to import “NFLX”.
+NFLX download failed after two attempts. Error message:
+HTTP error 404.
+"
+09-27-2017,RTN,2607,185,185.610001,184.5,184.550003,996900,176.16925,None
+09-26-2017,T,2613,39.119999,39.310001,38.700001,38.720001,22605900,32.938885,None
+09-28-2017,NOC,2619,39.119999,39.310001,38.700001,38.720001,22605900,32.938885,"Error in getSymbols.yahoo(Symbols = ""NOC"", env = <environment>, verbose = FALSE,  : 
+  Unable to import “NOC”.
+NOC download failed after two attempts. Error message:
+HTTP error 404.
+"
+11-30-2017,XOM,2624,82.449997,83.400002,82.410004,83.290001,18592700,73.808998,None
+11-08-2017,NFLX,2630,82.449997,83.400002,82.410004,83.290001,18592700,73.808998,"Error in getSymbols.yahoo(Symbols = ""NFLX"", env = <environment>, verbose = FALSE,  : 
+  Unable to import “NFLX”.
+NFLX download failed after two attempts. Error message:
+HTTP error 404.
+"
+05-29-2018,CLR,2635,63.970001,65.550003,63.810001,65.400002,1988600,65.182625,None
+05-08-2018,JPM,2641,109.529999,111.339996,109.279999,110.989998,12543200,104.53904,None
+06-01-2018,PODD,2647,94.720001,95.400002,94.300003,94.82,394300,94.82,None
+05-02-2018,BOX,2654,94.720001,95.400002,94.300003,94.82,394300,94.82,"Error in getSymbols.yahoo(Symbols = ""BOX"", env = <environment>, verbose = FALSE,  : 
+  Unable to import “BOX”.
+BOX download failed after two attempts. Error message:
+HTTP error 404.
+"
+05-07-2018,MCD,2659,166.770004,167.300003,164.649994,165,3379000,165,None
+05-24-2018,IBM,2664,166.770004,167.300003,164.649994,165,3379000,165,"Error in getSymbols.yahoo(Symbols = ""IBM"", env = <environment>, verbose = FALSE,  : 
+  Unable to import “IBM”.
+IBM download failed after two attempts. Error message:
+HTTP error 404.
+"
+05-31-2018,DISCA,2689,21.41,21.42,20.6,21.09,7977000,21.09,None
+05-23-2018,CRMT,2694,63.5,64.150002,62.650002,64,123400,64,None
+05-22-2018,PEP,2699,99.779999,100.459999,99.43,99.93,6807600,93.991188,None
+05-15-2018,HBI,2704,16.709999,17.35,16.709999,17.27,8056900,16.200565,None
+05-08-2018,DISCA,2709,23.809999,24.799999,22.83,23.049999,10834900,23.049999,None
+05-04-2018,HBI,2714,16.549999,16.92,16.379999,16.809999,8318300,15.627663,None
+05-15-2018,BAC,2719,30.92,31.360001,30.85,31.219999,64433500,29.896162,None
+04-23-2018,SBUX,2725,58.009998,58.73,57.689999,58.16,8444400,55.523224,None
+04-23-2018,IBM,2730,58.009998,58.73,57.689999,58.16,8444400,55.523224,"Error in getSymbols.yahoo(Symbols = ""IBM"", env = <environment>, verbose = FALSE,  : 
+  Unable to import “IBM”.
+IBM download failed after two attempts. Error message:
+HTTP error 404.
+"
+04-23-2018,CSCO,2735,58.009998,58.73,57.689999,58.16,8444400,55.523224,"Error in getSymbols.yahoo(Symbols = ""CSCO"", env = <environment>, verbose = FALSE,  : 
+  Unable to import “CSCO”.
+CSCO download failed after two attempts. Error message:
+HTTP error 404.
+"
+12-05-2017,WFC,2740,58.66,59.41,57.439999,58.549999,39754900,58.549999,None
+04-24-2018,WMT,2756,86.769997,86.910004,85.57,86.529999,8469700,86.529999,None
+04-24-2018,TGT,2761,70.970001,71.959999,70.199997,70.529999,3946100,66.312103,None
+04-24-2018,PII,2766,70.970001,71.959999,70.199997,70.529999,3946100,66.312103,"Error in getSymbols.yahoo(Symbols = ""PII"", env = <environment>, verbose = FALSE,  : 
+  Unable to import “PII”.
+PII download failed after two attempts. Error message:
+HTTP error 404.
+"
+04-24-2018,NSC,2771,138.300003,139.470001,133.470001,134.970001,2746600,129.134155,None
+04-24-2018,MDT,2776,80.5,80.57,78.57,79.370003,4937200,79.370003,None
+04-24-2018,ITW,2781,157.179993,157.990005,147.589996,149.649994,2220600,141.698929,None
+04-24-2018,XOM,2786,79.800003,79.93,77.970001,78.349998,14102000,70.141319,None
+04-24-2018,CLX,2791,114,116.120003,113.57,114.959999,1933000,109.165764,None
+04-24-2018,BDX,2796,114,116.120003,113.57,114.959999,1933000,109.165764,"Error in getSymbols.yahoo(Symbols = ""BDX"", env = <environment>, verbose = FALSE,  : 
+  Unable to import “BDX”.
+BDX download failed after two attempts. Error message:
+HTTP error 404.
+"
+04-24-2018,ACN,2801,153.570007,154.339996,149.850006,151.070007,1922600,146.605988,None
+04-24-2018,UBSI,2806,35.099998,35.75,34.950001,35.299999,371500,32.598293,None
+04-24-2018,KHC,2811,57.950001,58,56.110001,56.529999,8266800,50.93182,None
+04-24-2018,BRK-B,2816,199.869995,200.660004,195.229996,196.800003,3718200,196.800003,None
+04-05-2018,UTX,2821,199.869995,200.660004,195.229996,196.800003,3718200,196.800003,"Error in getSymbols.yahoo(Symbols = ""UTX"", env = <environment>, verbose = FALSE,  : 
+  Unable to import “UTX”.
+UTX download failed after two attempts. Error message:
+HTTP error 404.
+"
+04-05-2018,PII,2826,199.869995,200.660004,195.229996,196.800003,3718200,196.800003,"Error in getSymbols.yahoo(Symbols = ""PII"", env = <environment>, verbose = FALSE,  : 
+  Unable to import “PII”.
+PII download failed after two attempts. Error message:
+HTTP error 404.
+"
+04-05-2018,NEE,2831,199.869995,200.660004,195.229996,196.800003,3718200,196.800003,"Error in getSymbols.yahoo(Symbols = ""NEE"", env = <environment>, verbose = FALSE,  : 
+  Unable to import “NEE”.
+NEE download failed after two attempts. Error message:
+HTTP error 404.
+"
+04-05-2018,LOW,2836,88.510002,89.050003,88.230003,88.75,5098000,84.892937,None
+04-05-2018,ES,2841,59.419998,60.209999,58.77,60.009998,1797100,56.620258,None
+04-05-2018,CB,2846,136.610001,137.149994,135.410004,135.770004,1573300,129.878204,None
+04-05-2018,ADI,2851,92.099998,92.449997,90.260002,90.940002,1769400,87.315262,None
+04-05-2018,T,2856,35.93,36.209999,35.68,36.139999,17103300,31.542484,None
+05-03-2018,UNH,2864,231.970001,234.800003,229.309998,234.149994,2731600,226.96138,None
+05-03-2018,XOM,2869,76.389999,76.610001,75.400002,76.540001,12243100,68.520943,None
+05-03-2018,C,2874,67.800003,68.230003,66.550003,67.940002,16325500,63.787716,None
+05-01-2018,AAPL,2879,166.410004,169.199997,165.270004,169.100006,53569400,163.967834,None
+04-03-2018,CVS,2888,61.57,62.720001,61.130001,62.580002,7793800,58.306221,None
+04-18-2018,IBM,2893,152.139999,152.630005,148.259995,148.789993,20381700,133.959335,None
+04-11-2018,NFLX,2898,302.880005,311.640015,301.820007,303.670013,14877400,303.670013,None
+01-29-2016,LYV,2904,21.809999,22.700001,21.809999,22.700001,1221300,22.700001,None
+01-28-2016,PFE,2909,30.700001,30.709999,29.59,30.200001,48785500,25.546429,None
+01-27-2016,AAPL,2914,96.040001,96.629997,93.339996,93.419998,133369700,86.856606,None
+01-25-2016,PFE,2919,30.83,30.91,30.42,30.5,28760200,25.800203,None
+01-21-2016,HYH,2924,30.83,30.91,30.42,30.5,28760200,25.800203,"Error in getSymbols.yahoo(Symbols = ""HYH"", env = <environment>, verbose = FALSE,  : 
+  Unable to import “HYH”.
+HYH download failed after two attempts. Error message:
+HTTP error 404.
+"
+01-20-2016,MO,2929,57.57,58.139999,56.150002,57.220001,9562900,46.091496,None
+01-20-2016,WFM,2934,57.57,58.139999,56.150002,57.220001,9562900,46.091496,"Error in getSymbols.yahoo(Symbols = ""WFM"", env = <environment>, verbose = FALSE,  : 
+  Unable to import “WFM”.
+WFM download failed after two attempts. Error message:
+HTTP error 404.
+"
+01-14-2016,GE,2939,27.221153,28.125,27.201923,27.942308,67846300,24.966354,None
+01-13-2016,PFE,2945,31.09,31.280001,30.27,30.370001,40572000,25.690231,None
+02-25-2016,WFC,2958,47.709999,48.16,47.709999,47.75,16646200,41.066982,None
+02-23-2016,WFM,2963,47.709999,48.16,47.709999,47.75,16646200,41.066982,"Error in getSymbols.yahoo(Symbols = ""WFM"", env = <environment>, verbose = FALSE,  : 
+  Unable to import “WFM”.
+WFM download failed after two attempts. Error message:
+HTTP error 404.
+"
+02-19-2016,ADT,2968,47.709999,48.16,47.709999,47.75,16646200,41.066982,"Error in getSymbols.yahoo(Symbols = ""ADT"", env = <environment>, verbose = FALSE,  : 
+  Unable to import “ADT”.
+ADT download failed after two attempts. Error message:
+HTTP error 400.
+"
+02-17-2016,SYY,2973,43.93,44.529999,43.66,44.380001,4533400,39.697746,None
+02-17-2016,LYV,2978,20.23,20.549999,20.15,20.32,1752000,20.32,None
+02-12-2016,MSFT,2983,50.25,50.68,49.75,50.5,34243300,46.444187,None
+02-11-2016,WFM,2988,50.25,50.68,49.75,50.5,34243300,46.444187,"Error in getSymbols.yahoo(Symbols = ""WFM"", env = <environment>, verbose = FALSE,  : 
+  Unable to import “WFM”.
+WFM download failed after two attempts. Error message:
+HTTP error 404.
+"
+02-10-2016,MSFT,2994,49.889999,50.389999,49.52,49.709999,38237000,45.717632,None
+02-08-2016,WMB,2999,14.93,15,10.22,11.16,62368000,8.633837,None
+02-05-2016,HYH,3004,14.93,15,10.22,11.16,62368000,8.633837,"Error in getSymbols.yahoo(Symbols = ""HYH"", env = <environment>, verbose = FALSE,  : 
+  Unable to import “HYH”.
+HYH download failed after two attempts. Error message:
+HTTP error 404.
+"
+02-03-2016,MSFT,3009,53.25,53.389999,51.259998,52.16,57559800,47.97086,None
+02-01-2016,EPD,3014,23.530001,24.120001,22.77,23.940001,6294000,18.241562,None
+11-30-2017,REVB,3022,23.530001,24.120001,22.77,23.940001,6294000,18.241562,"Error in getSymbols.yahoo(Symbols = ""REVB"", env = <environment>, verbose = FALSE,  : 
+  Unable to import “REVB”.
+REVB download failed after two attempts. Error message:
+HTTP error 404.
+"
+01-08-2018,REVB,3027,23.530001,24.120001,22.77,23.940001,6294000,18.241562,"Error in getSymbols.yahoo(Symbols = ""REVB"", env = <environment>, verbose = FALSE,  : 
+  Unable to import “REVB”.
+REVB download failed after two attempts. Error message:
+HTTP error 404.
+"
+04-27-2018,USG,3034,23.530001,24.120001,22.77,23.940001,6294000,18.241562,"Error in getSymbols.yahoo(Symbols = ""USG"", env = <environment>, verbose = FALSE,  : 
+  Unable to import “USG”.
+USG download failed after two attempts. Error message:
+HTTP error 404.
+"
+04-24-2018,GIS,3039,44.700001,44.77,44,44.369999,6492500,40.965229,None
+04-17-2018,DUK,3044,78.010002,78.75,77.790001,78.5,1727800,72.012291,None
+04-12-2018,CGNT,3050,3.84,3.86,3.83,3.84,157928,3.84,None
+03-22-2018,REVB,3060,29.6,29.6,29.6,29.6,5100,29.6,None
+04-02-2018,URBN,3065,36.939999,37.209999,36.07,36.91,2475000,36.91,None
+03-20-2018,ENTG,3071,36.5,37.130001,36.200001,36.25,1452700,35.631416,None
+03-27-2018,UPS,3076,103.769997,104.660004,101.690002,102.169998,3850200,95.453384,None
+03-09-2018,VRTX,3099,173.259995,176.309998,171.759995,176.259995,1415300,176.259995,None
+03-09-2018,XSD,3104,74.82,75.43,74.5,75.169998,66100,73.823463,None
+03-09-2018,ITW,3109,167.179993,171.089996,166.529999,170.300003,2205000,160.44368,None
+03-09-2018,DHR,3114,102.129997,104.07,101.669998,103.739998,3475000,102.445953,None
+03-09-2018,ADI,3119,93.300003,94.849998,93.300003,94.730003,2768700,90.954185,None
+02-27-2018,ICE,3124,73.5,74.480003,73.379997,73.43,2518900,71.317375,None
+02-08-2018,REVB,3129,29.4,29.4,29.4,29.4,500,29.4,None
+02-28-2018,CSCO,3136,45.27,45.889999,44.779999,44.779999,26885200,41.872555,None
+02-23-2018,PFE,3142,35.93,36.299999,35.830002,36.259998,17020900,33.391434,None
+02-16-2018,KN,3147,14.21,14.5,14.2,14.3,986600,14.3,None
+02-12-2018,BAC,3152,30.620001,31.440001,30.540001,31.120001,95055100,29.689001,None
+02-09-2018,SUN,3157,29.5,30.059999,28.51,29.82,656100,23.120094,None
+02-09-2018,SU,3162,33.400002,33.93,32.32,33.68,9338500,30.916855,None
+02-06-2018,AXTA,3167,29.110001,31.23,28.92,30.27,3701400,30.27,None
+02-06-2018,URBN,3172,31.6,33.5,31.200001,33.080002,4244000,33.080002,None
+02-05-2018,GLW,3177,30.98,31.389999,29.76,29.780001,11270300,28.062317,None
+02-02-2018,DVN,3182,41.619999,41.75,39.950001,40.029999,6009900,38.728729,None
+02-05-2018,AMZN,3187,1402.619995,1458.97998,1320.719971,1390,11495000,1390,None
+02-05-2018,BAC,3192,31.120001,31.98,29.15,30.26,155908300,28.868546,None
+02-05-2018,ETY,3197,11.88,12.07,10.17,11.36,2153300,9.289594,None
+02-05-2018,LMT,3202,348.630005,353.98999,326.109985,336.459991,2947100,317.779541,None
+02-05-2018,AMZN,3207,1402.619995,1458.97998,1320.719971,1390,11495000,1390,None
+02-09-2018,MSFT,3219,86.300003,88.93,83.830002,88.18,63499100,85.183823,None
+02-20-2018,WMT,3224,96.989998,97.940002,94.099998,94.110001,52088500,89.313438,None
+01-08-2018,WMT,3229,100.25,101.75,100.209999,101.610001,8843900,96.431175,None
+01-17-2018,V,3234,121.199997,122.160004,120.730003,121.980003,7991500,120.024963,None
+01-04-2018,PG,3239,90.830002,91.769997,90.610001,91.18,6322500,84.596405,None
+01-04-2018,INTC,3244,43.52,44.650002,42.689999,44.43,89209100,41.840923,None
+01-04-2018,BMY,3249,61,61.82,60.779999,61.75,6403200,57.62764,None
+01-26-2018,FANUY,3254,29.01,29.440001,28.809999,29.190001,708200,27.304047,None
+01-05-2018,PFS,3259,26.91,27.030001,26.719999,26.83,141100,24.805338,None
+01-05-2018,BAC,3264,30.370001,30.42,30.049999,30.33,56445200,28.935326,None
+01-30-2018,ENB,3303,37.450001,37.610001,36.77,36.810001,3237500,32.248516,None
+01-29-2018,URBN,3308,34.830002,35.709999,34.830002,35.279999,1882500,35.279999,None
+01-24-2018,DVN,3313,44.700001,45.029999,44.060001,44.52,5302100,43.072777,None
+01-18-2018,CBS,3318,59.279999,61.59,59.02,60,7368900,58.496513,None
+01-16-2018,XOM,3323,87.739998,87.760002,86.599998,86.970001,10882800,77.070099,None
+01-16-2018,FEYE,3328,15.8,15.98,14.96,15.03,5154000,15.03,None
+01-05-2018,TRGP,3333,50.369999,50.400002,48,48.450001,3137200,39.818394,None
+01-05-2018,URBN,3338,34.32,34.52,33.799999,34.259998,3249300,34.259998,None
+01-05-2018,OFC,3343,28.02,28.219999,28,28.139999,595600,25.595078,None
+01-05-2018,BAC,3353,30.370001,30.42,30.049999,30.33,56445200,28.935326,None
+12-26-2017,DAL,3358,55.900002,56.779999,55.889999,56.43,3276700,53.227642,None
+01-11-2018,PEP,3363,117.639999,117.849998,116.379997,116.879997,3685200,109.127365,None
+12-19-2017,ENB,3368,39.130001,39.23,38.779999,38.830002,2355200,34.0182,None
+01-05-2018,PFS,3373,26.91,27.030001,26.719999,26.83,141100,24.805338,None
+12-05-2017,DISH,3378,52.029999,52.529999,51.48,52.029999,2495700,52.029999,None
+12-21-2017,BBL,3387,39.189999,39.599998,39.099998,39.490002,836200,32.332108,None
+01-02-2018,SYY,3392,60.689999,61.34,60.459999,60.5,2745700,56.930702,None
+12-26-2017,DUK,3397,84.260002,84.379997,83.559998,83.599998,1223100,75.786522,None
+12-26-2017,GOOGL,3402,1068.640015,1068.859985,1058.640015,1065.849976,918800,1065.849976,None
+12-14-2017,AXTA,3407,32,32.095001,30.91,31.5,4450300,31.5,None
+12-13-2017,FDC,3412,32,32.095001,30.91,31.5,4450300,31.5,"Error in getSymbols.yahoo(Symbols = ""FDC"", env = <environment>, verbose = FALSE,  : 
+  Unable to import “FDC”.
+FDC download failed after two attempts. Error message:
+HTTP error 404.
+"
+12-13-2017,HBI,3417,20.889999,21.5,20.889999,21.24,6043100,19.603128,None
+12-07-2017,FOXA,3422,20.889999,21.5,20.889999,21.24,6043100,19.603128,"Error in getSymbols.yahoo(Symbols = ""FOXA"", env = <environment>, verbose = FALSE,  : 
+  Unable to import “FOXA”.
+FOXA download failed after two attempts. Error message:
+HTTP error 400.
+"
+12-04-2017,AMZN,3427,1173.849976,1175.199951,1128,1133.949951,5931900,1133.949951,None
+12-04-2017,FOXA,3432,1173.849976,1175.199951,1128,1133.949951,5931900,1133.949951,"Error in getSymbols.yahoo(Symbols = ""FOXA"", env = <environment>, verbose = FALSE,  : 
+  Unable to import “FOXA”.
+FOXA download failed after two attempts. Error message:
+HTTP error 400.
+"
+12-13-2017,ETY,3437,12.23,12.23,12.13,12.15,347300,9.801603,None
+12-08-2017,RGC,3442,22.700001,22.73,22.610001,22.73,8009186,22.73,None
+11-15-2017,REVB,3457,22.700001,22.73,22.610001,22.73,8009186,22.73,"Error in getSymbols.yahoo(Symbols = ""REVB"", env = <environment>, verbose = FALSE,  : 
+  Unable to import “REVB”.
+REVB download failed after two attempts. Error message:
+HTTP error 404.
+"
+11-10-2017,NVS,3462,73.60215,73.870964,73.324371,73.817207,1319600,66.562515,None
+02-24-2015,ESV,3468,73.60215,73.870964,73.324371,73.817207,1319600,66.562515,"Error in getSymbols.yahoo(Symbols = ""ESV"", env = <environment>, verbose = FALSE,  : 
+  Unable to import “ESV”.
+ESV download failed after two attempts. Error message:
+HTTP error 404.
+"
+01-30-2015,SPY,3473,200.570007,202.169998,199.130005,199.449997,197729700,179.683716,None
+04-27-2015,PG,3480,80.910004,81.199997,80.470001,80.599998,9192300,69.014473,None
+11-07-2017,QCOM,3486,62.52,64.160004,62.450001,64.099998,23424600,58.499958,None
+11-01-2017,SOUHY,3493,13.62,13.67,13.52,13.57,54500,12.196125,None
+11-07-2017,TMUS,3498,55.779999,56.029999,54.599998,55.360001,8785400,55.360001,None
+11-13-2017,ARCC,3504,16.1,16.24,16.059999,16.219999,1194400,12.790155,None
+03-31-2016,OXY,3509,68.239998,69.419998,68.150002,68.43,3304700,55.097164,None
+03-31-2016,CTL,3514,31.91,32.490002,31.690001,31.959999,6807700,21.642868,None
+03-31-2016,WMT,3519,68.75,69.190002,68.470001,68.489998,6283500,62.029121,None
+03-31-2016,PG,3524,82.75,83,82.150002,82.309998,6819200,72.319313,None
+03-31-2016,MSFT,3529,54.950001,55.59,54.860001,55.23,26360500,51.158993,None
+03-31-2016,CSCO,3534,28.530001,28.67,28.35,28.469999,18377600,24.847538,None
+11-30-2017,RF,3541,16.68,16.940001,16.530001,16.59,19716300,15.309011,None
+11-21-2017,AVP,3547,1.95,2.02,1.94,1.98,5975095,1.974514,None
+11-15-2017,URBN,3552,25.309999,26.059999,25.01,25.68,2707700,25.68,None
+11-13-2017,VSM,3557,25.309999,26.059999,25.01,25.68,2707700,25.68,"Error in getSymbols.yahoo(Symbols = ""VSM"", env = <environment>, verbose = FALSE,  : 
+  Unable to import “VSM”.
+VSM download failed after two attempts. Error message:
+HTTP error 404.
+"
+11-06-2017,URBN,3563,24.77,25.219999,24.74,24.98,2170100,24.98,None
+11-02-2017,VSM,3568,24.77,25.219999,24.74,24.98,2170100,24.98,"Error in getSymbols.yahoo(Symbols = ""VSM"", env = <environment>, verbose = FALSE,  : 
+  Unable to import “VSM”.
+VSM download failed after two attempts. Error message:
+HTTP error 404.
+"
+09-27-2017,GPK,3573,13.62,13.74,13.56,13.71,1902900,12.922997,None
+09-26-2017,VSM,3578,13.62,13.74,13.56,13.71,1902900,12.922997,"Error in getSymbols.yahoo(Symbols = ""VSM"", env = <environment>, verbose = FALSE,  : 
+  Unable to import “VSM”.
+VSM download failed after two attempts. Error message:
+HTTP error 404.
+"
+09-22-2017,BAX,3583,63.48,63.75,63.34,63.509998,2352300,61.881832,None
+09-15-2017,FDC,3588,63.48,63.75,63.34,63.509998,2352300,61.881832,"Error in getSymbols.yahoo(Symbols = ""FDC"", env = <environment>, verbose = FALSE,  : 
+  Unable to import “FDC”.
+FDC download failed after two attempts. Error message:
+HTTP error 404.
+"
+09-12-2017,MRK,3593,65.120003,65.620003,65.120003,65.459999,7354200,60.368492,None
+09-08-2017,BAX,3598,62.93,64.400002,62.73,63.279999,2583000,61.657726,None
+09-01-2017,TRP,3603,51.119999,51.150002,50.639999,50.849998,654000,43.895321,None
+11-06-2017,DVN,3611,39.669998,40.939999,39.529999,40.860001,9214600,39.469532,None
+11-07-2017,AMZN,3617,1124.73999,1130.599976,1117.5,1123.170044,2689000,1123.170044,None
+09-27-2017,BA,3622,255.270004,258.769989,253.970001,255.279999,3840100,241.979202,None
+09-26-2017,SBUX,3628,55.060001,55.220001,54.799999,55.130001,8021900,52.07082,None
+09-26-2017,BAC,3633,24.83,24.959999,24.690001,24.809999,53012700,23.56872,None
+06-09-2016,PG,3639,82.580002,83.260002,82.43,83.169998,6144900,73.673553,None
+10-23-2017,PYPL,3650,71.019997,71.330002,69.550003,69.800003,12232500,69.800003,None
+10-19-2017,EDIT,3655,23.25,24,22.868,23.950001,854900,23.950001,None
+10-11-2017,CVS,3660,74.709999,74.970001,73.779999,73.900002,7087400,67.98056,None
+10-26-2017,JPM,3666,101.349998,102.419998,101.32,101.739998,13054400,94.849075,None
+10-17-2017,JNJ,3671,137.669998,141.119995,137.059998,140.789993,11717300,131.663116,None
+10-30-2017,COF,3677,92.099998,93.400002,92.099998,92.43,1847600,87.892441,None
+10-24-2017,ABT,3682,56,56.07,55.18,55.380001,7201000,53.046432,None
+10-30-2017,MYL,3687,38.349998,38.610001,38.119999,38.240002,3805200,38.240002,None
+10-30-2017,MRK,3692,55.75,56.049999,54.41,54.709999,38989400,50.819576,None
+10-26-2017,AXTA,3697,29.25,29.549999,28.040001,28.34,4683800,28.34,None
+10-20-2017,GLW,3702,30.17,30.379999,30,30.059999,6756600,28.18766,None
+10-18-2017,HBI,3707,23.5,24.120001,22.91,23.209999,8247000,21.254736,None
+10-13-2017,ENTG,3712,29.549999,29.75,29.309999,29.65,715800,29.020611,None
+10-10-2017,AXTA,3717,29.040001,29.209999,28.549999,28.76,5527500,28.76,None
+10-09-2017,GM,3722,45.029999,45.43,44.93,45.330002,10932400,40.915176,None
+10-06-2017,HBI,3727,23.690001,23.799999,23.48,23.75,2983900,21.749247,None
+10-05-2017,MRK,3732,64.419998,64.800003,64.330002,64.599998,9150000,60.00629,None
+10-03-2017,LYV,3738,43.049999,43.049999,41.91,42.66,3580700,42.66,None
+10-23-2017,XSD,3760,67.989998,68.419998,67.779999,68.010002,28800,66.668457,None
+09-05-2017,SIEGY,3765,67.019997,67.339996,66.449997,66.68,108600,60.18298,None
+09-05-2017,NSRGY,3770,84.110001,84.790001,84.080002,84.370003,206200,77.607613,None
+09-05-2017,INTC,3775,35.02,35.330002,34.93,35.02,18772000,32.784992,None
+09-05-2017,BASFY,3780,24.647499,24.7225,24.424999,24.512501,96000,22.596521,None
+09-20-2017,MCK,3786,148.940002,150.710007,148.029999,150.179993,2017500,146.072403,None
+09-27-2017,K,3793,63.419998,63.48,62.41,63.040001,3092100,57.662128,None
+09-08-2017,TSM,3798,37.57,37.68,37.349998,37.5,5581800,34.221149,None
+09-08-2017,SMECF,3803,353.600006,357.5,353.350006,353.350006,1500,147.371078,None
+09-08-2017,LRLCY,3808,42.91,42.990002,42.849998,42.939999,67800,41.470455,None
+09-08-2017,NPSND,3813,42.91,42.990002,42.849998,42.939999,67800,41.470455,"Error in getSymbols.yahoo(Symbols = ""NPSND"", env = <environment>, verbose = FALSE,  : 
+  Unable to import “NPSND”.
+NPSND download failed after two attempts. Error message:
+HTTP error 404.
+"
+09-08-2017,INCY,3818,132.240005,132.240005,126,129.460007,3152500,129.460007,None
+09-08-2017,ENB,3824,40.709999,40.709999,40.380001,40.52,1786800,35.029312,None
+09-08-2017,CABGY,3829,23.389999,23.48,23.370001,23.379999,51600,21.709673,None
+09-08-2017,AHKSY,3835,23.67,23.73,23.639999,23.700001,10000,22.215017,None
+09-27-2017,GPK,3863,13.62,13.74,13.56,13.71,1902900,12.922997,None
+09-26-2017,VSM,3868,13.62,13.74,13.56,13.71,1902900,12.922997,"Error in getSymbols.yahoo(Symbols = ""VSM"", env = <environment>, verbose = FALSE,  : 
+  Unable to import “VSM”.
+VSM download failed after two attempts. Error message:
+HTTP error 404.
+"
+09-22-2017,BAX,3873,63.48,63.75,63.34,63.509998,2352300,61.881832,None
+09-15-2017,FDC,3878,63.48,63.75,63.34,63.509998,2352300,61.881832,"Error in getSymbols.yahoo(Symbols = ""FDC"", env = <environment>, verbose = FALSE,  : 
+  Unable to import “FDC”.
+FDC download failed after two attempts. Error message:
+HTTP error 404.
+"
+09-12-2017,MRK,3883,65.120003,65.620003,65.120003,65.459999,7354200,60.368492,None
+09-08-2017,BAX,3888,62.93,64.400002,62.73,63.279999,2583000,61.657726,None
+09-01-2017,TRP,3893,51.119999,51.150002,50.639999,50.849998,654000,43.895321,None
+09-27-2017,BA,3901,255.270004,258.769989,253.970001,255.279999,3840100,241.979202,None
+09-26-2017,WF,3907,45.759998,46.389999,45.689999,46.330002,15300,42.485935,None
+09-26-2017,TCS,3912,4.25,4.36,4.24,4.27,60500,3.991522,None
+09-21-2017,QCOM,3918,51.860001,52.200001,51.709999,52.029999,5750600,47.484444,None
+08-23-2017,BHF,3924,56.759998,57.290001,56.240002,56.650002,1272300,56.650002,None
+08-24-2017,AAPL,3931,160.429993,160.740005,158.550003,159.270004,19818900,153.258148,None
+08-24-2017,SYK,3936,138.5,138.990005,138.139999,138.770004,1340000,134.422897,None
+08-31-2017,QCOM,3945,52.259998,52.59,52.119999,52.27,8215800,47.703487,None
+08-31-2017,GLAD,3971,9.25,9.25,9.09,9.1,193400,7.093393,None
+08-31-2017,HRL,3999,30.82,30.940001,30.66,30.74,3174500,28.900194,None
+08-07-2017,T,4021,38.439999,38.639999,38.369999,38.52,16825700,32.768745,None
+08-01-2017,COF,4028,86.639999,86.730003,85.639999,86.010002,2276400,81.405907,None
+08-25-2017,CZR,4035,11.4,11.5,11.18,11.3,2013300,11.3,None
+08-16-2017,AXTA,4040,29,29.52,29,29.4,2247700,29.4,None
+08-14-2017,AXTA,4045,28.889999,29.110001,28.66,29.040001,4189700,29.040001,None
+08-11-2017,HBI,4050,23.459999,24.059999,23.09,23.93,3757500,21.914082,None
+08-10-2017,WMT,4055,81.07,81.400002,80.550003,80.660004,8045000,76.147659,None
+08-09-2017,EMR,4060,59.830002,60.18,59.73,60.029999,1775400,55.834633,None
+08-09-2017,GE,4065,24.567308,24.73077,24.48077,24.721153,30857800,23.35581,None
+08-08-2017,CZR,4070,12.05,12.4,11.95,12.05,1526400,12.05,None
+08-07-2017,AXTA,4075,28.209999,28.440001,27.9,28.08,3600000,28.08,None
+08-04-2017,WLK,4080,70.050003,70.709999,69.68,69.970001,824900,67.552856,None
+08-03-2017,AXTA,4085,30,30.32,28.174999,29.25,9664300,29.25,None
+07-31-2017,FEYE,4092,15,15.07,14.53,14.63,10706100,14.63,None
+07-21-2017,URBN,4097,18.049999,18.1,17.67,17.950001,2742800,17.950001,None
+07-25-2017,C,4105,67.93,68.419998,67.809998,68.029999,30833600,63.049801,None
+07-28-2017,COF,4110,84.849998,85.139999,83.809998,84.970001,3164200,80.42157,None
+02-25-2016,OKE,4116,21.32,21.620001,20.5,21.370001,4214000,16.787098,None
+04-12-2016,TJX,4126,37.759998,38.075001,37.5,38.02,5336800,34.322361,None
+04-19-2016,WBA,4131,81.269997,81.959999,80.699997,81.839996,5384900,74.28727,None
+04-26-2016,NVDA,4138,36.669998,37.09,36.32,36.48,5363400,35.86145,None
+07-26-2017,GE,4143,24.60577,24.701923,24.39423,24.60577,42362700,23.246805,None
+02-25-2016,WFC,4148,47.709999,48.16,47.709999,47.75,16646200,41.066982,None
+02-23-2016,WFM,4153,47.709999,48.16,47.709999,47.75,16646200,41.066982,"Error in getSymbols.yahoo(Symbols = ""WFM"", env = <environment>, verbose = FALSE,  : 
+  Unable to import “WFM”.
+WFM download failed after two attempts. Error message:
+HTTP error 404.
+"
+02-19-2016,ADT,4158,47.709999,48.16,47.709999,47.75,16646200,41.066982,"Error in getSymbols.yahoo(Symbols = ""ADT"", env = <environment>, verbose = FALSE,  : 
+  Unable to import “ADT”.
+ADT download failed after two attempts. Error message:
+HTTP error 400.
+"
+02-17-2016,SYY,4163,43.93,44.529999,43.66,44.380001,4533400,39.697746,None
+02-17-2016,LYV,4168,20.23,20.549999,20.15,20.32,1752000,20.32,None
+02-12-2016,MSFT,4173,50.25,50.68,49.75,50.5,34243300,46.444187,None
+02-11-2016,WFM,4178,50.25,50.68,49.75,50.5,34243300,46.444187,"Error in getSymbols.yahoo(Symbols = ""WFM"", env = <environment>, verbose = FALSE,  : 
+  Unable to import “WFM”.
+WFM download failed after two attempts. Error message:
+HTTP error 404.
+"
+02-10-2016,MSFT,4184,49.889999,50.389999,49.52,49.709999,38237000,45.717632,None
+02-08-2016,WMB,4189,14.93,15,10.22,11.16,62368000,8.633837,None
+02-05-2016,HYH,4194,14.93,15,10.22,11.16,62368000,8.633837,"Error in getSymbols.yahoo(Symbols = ""HYH"", env = <environment>, verbose = FALSE,  : 
+  Unable to import “HYH”.
+HYH download failed after two attempts. Error message:
+HTTP error 404.
+"
+02-03-2016,MSFT,4199,53.25,53.389999,51.259998,52.16,57559800,47.97086,None
+02-01-2016,EPD,4204,23.530001,24.120001,22.77,23.940001,6294000,18.241562,None
+07-31-2017,NFLX,4210,184.259995,184.970001,180.649994,181.660004,4883600,181.660004,None
+07-24-2017,TJX,4215,34.299999,34.299999,33.330002,33.450001,14687400,31.276785,None
+06-27-2017,C,4225,64.239998,64.860001,64.010002,64.230003,16416300,59.527985,None
+06-27-2017,MCC,4254,6.36,6.41,6.29,6.3,486500,4.480976,None
+07-05-2017,FDC,4259,6.36,6.41,6.29,6.3,486500,4.480976,"Error in getSymbols.yahoo(Symbols = ""FDC"", env = <environment>, verbose = FALSE,  : 
+  Unable to import “FDC”.
+FDC download failed after two attempts. Error message:
+HTTP error 404.
+"
+06-29-2017,CZR,4264,12.55,12.6,11.95,12.25,2703500,12.25,None
+06-26-2017,CZR,4269,12.45,12.58,12.28,12.55,1852500,12.55,None
+06-22-2017,URBN,4274,17.280001,17.700001,17.129999,17.469999,2382100,17.469999,None
+06-20-2017,INFY,4279,7.45,7.505,7.425,7.45,9027000,6.685838,None
+06-16-2017,EXR,4284,76.910004,78.57,76.370003,78.5,1533800,71.160027,None
+06-09-2017,AAPL,4289,155.190002,155.190002,146.020004,148.979996,64882700,142.795761,None
+06-06-2017,FDC,4294,155.190002,155.190002,146.020004,148.979996,64882700,142.795761,"Error in getSymbols.yahoo(Symbols = ""FDC"", env = <environment>, verbose = FALSE,  : 
+  Unable to import “FDC”.
+FDC download failed after two attempts. Error message:
+HTTP error 404.
+"
+06-12-2017,AAPL,4299,145.740005,146.089996,142.509995,145.419998,72307300,139.383591,None
+06-19-2017,ST,4318,42.380001,42.720001,42.290001,42.700001,1484800,42.700001,None
+05-03-2017,DIS,4333,114.029999,114.089996,111.18,111.620003,11521200,106.88958,None
+06-15-2017,WFC,4338,54.040001,54.450001,53.810001,53.900002,17232300,48.136505,None
+06-15-2017,UTX,4343,119.830002,120.919998,119.790001,120.75,1947600,113.569092,None
+06-15-2017,TWX,4348,99.050003,99.32,98.879997,99.120003,2797355,99.120003,None
+06-15-2017,SU,4353,29.559999,29.9,29.389999,29.5,4275000,26.665289,None
+06-15-2017,SABR,4358,22.639999,22.75,22.360001,22.530001,3028900,20.453882,None
+06-15-2017,PRU,4363,107.279999,108.470001,106.940002,108.279999,1699000,97.406952,None
+06-15-2017,PPL,4368,39.240002,39.52,39.119999,39.439999,2869000,34.130791,None
+06-15-2017,MRK,4373,63.299999,63.439999,62.880001,63.189999,7866800,58.275059,None
+06-15-2017,KMB,4378,130.020004,131.089996,129.75,130.820007,994800,119.413803,None
+06-15-2017,HSY,4383,114.040001,115.339996,113.510002,114.879997,1356400,107.453354,None
+06-15-2017,GD,4388,199.770004,202.270004,199.240005,202.029999,827500,189.707703,None
+06-15-2017,DUK,4393,86.209999,86.959999,86.080002,86.949997,2468100,77.249496,None
+06-15-2017,CMA,4398,73.669998,74.760002,73.650002,74.080002,1602100,68.053963,None
+06-15-2017,CVS,4403,80.68,80.900002,79.650002,80.089996,4655800,73.19873,None
+06-15-2017,AAPL,4408,143.320007,144.479996,142.210007,144.289993,32165400,138.300461,None
+06-15-2017,LYB,4413,80.18,80.75,79.529999,80.139999,2326000,70.978355,None
+06-15-2017,DLPH,4418,80.18,80.75,79.529999,80.139999,2326000,70.978355,"Error in getSymbols.yahoo(Symbols = ""DLPH"", env = <environment>, verbose = FALSE,  : 
+  Unable to import “DLPH”.
+DLPH download failed after two attempts. Error message:
+HTTP error 400.
+"
+06-19-2017,WFM,4424,80.18,80.75,79.529999,80.139999,2326000,70.978355,"Error in getSymbols.yahoo(Symbols = ""WFM"", env = <environment>, verbose = FALSE,  : 
+  Unable to import “WFM”.
+WFM download failed after two attempts. Error message:
+HTTP error 404.
+"
+05-05-2017,ADI,4430,75.779999,75.870003,75.269997,75.790001,3283400,71.217064,None
+05-30-2017,MGA,4435,44.669998,45.34,44.610001,45.110001,1381800,41.65284,None
+05-25-2017,VEVIX,4440,37.720001,37.720001,37.720001,37.720001,0,30.963463,None
+05-24-2017,C,4446,61.84,62.439999,61.66,62.27,16102700,57.711472,None
+05-24-2017,TWTR,4452,18.1,18.34,17.83,17.98,15459900,17.98,None
+05-30-2017,MGA,4457,44.669998,45.34,44.610001,45.110001,1381800,41.65284,None
+05-18-2017,GE,4462,26.211538,26.586538,26.057692,26.423077,50385500,24.541407,None
+06-02-2017,LYV,4467,34.939999,35.419998,34.84,35.389999,1135100,35.389999,None
+05-24-2017,SYK,4472,139.960007,140.339996,139.830002,139.990005,1121400,135.191803,None
+05-22-2017,URBN,4477,19.43,19.549999,19,19.139999,3085300,19.139999,None
+05-18-2017,URBN,4482,19.639999,19.969999,19.209999,19.4,4693700,19.4,None
+05-15-2017,WFM,4487,19.639999,19.969999,19.209999,19.4,4693700,19.4,"Error in getSymbols.yahoo(Symbols = ""WFM"", env = <environment>, verbose = FALSE,  : 
+  Unable to import “WFM”.
+WFM download failed after two attempts. Error message:
+HTTP error 404.
+"
+05-11-2017,BCR,4492,19.639999,19.969999,19.209999,19.4,4693700,19.4,"Error in getSymbols.yahoo(Symbols = ""BCR"", env = <environment>, verbose = FALSE,  : 
+  Unable to import “BCR”.
+BCR download failed after two attempts. Error message:
+HTTP error 404.
+"
+05-11-2017,WFM,4497,19.639999,19.969999,19.209999,19.4,4693700,19.4,"Error in getSymbols.yahoo(Symbols = ""WFM"", env = <environment>, verbose = FALSE,  : 
+  Unable to import “WFM”.
+WFM download failed after two attempts. Error message:
+HTTP error 404.
+"
+05-08-2017,LYV,4502,34.549999,34.549999,33.73,34,2190700,34,None
+05-17-2017,FB,4509,148,148.669998,144.419998,144.850006,28300100,144.850006,None
+07-27-2015,BIDU,4515,197.850006,199.940002,195.110001,197.679993,9580200,197.679993,None
+12-16-2016,ESRX,4525,69.169998,70,68.849998,69.919998,7764896,69.919998,None
+12-01-2016,TSCO,4531,75.239998,77.309998,75.059998,76.050003,1718500,72.350784,None
+05-05-2017,NXPI,4539,106.57,106.959999,106.379997,106.580002,2512700,104.291496,None
+04-05-2017,LB,4545,44,44.099998,43.040001,43.099998,6728400,36.035427,None
+04-05-2017,IBM,4550,174.699997,176.330002,172.809998,172.880005,6238900,149.548874,None
+12-28-2016,CSX,4556,36.82,37.009998,36.5,36.52,3520400,34.88451,None
+04-27-2017,VSM,4561,36.82,37.009998,36.5,36.52,3520400,34.88451,"Error in getSymbols.yahoo(Symbols = ""VSM"", env = <environment>, verbose = FALSE,  : 
+  Unable to import “VSM”.
+VSM download failed after two attempts. Error message:
+HTTP error 404.
+"
+04-12-2017,MOS,4566,28.559999,28.66,28.110001,28.15,3797400,27.295147,None
+04-24-2017,MDLZ,4574,45.25,45.66,45.130001,45.389999,8241300,42.556343,None
+05-09-2017,SPY,4582,239.960007,240.190002,239.039993,239.440002,51363200,225.867981,None
+03-29-2017,TGT,4589,53.650002,55.580002,53.549999,55.150002,9848600,49.791019,None
+03-06-2017,MCHP,4606,72.870003,74.199997,72.620003,73.919998,3590000,70.293083,None
+03-02-2017,DHR,4611,86.980003,87,86.449997,86.620003,1529100,84.991745,None
+03-21-2017,TSN,4624,62.290001,62.34,61.560001,62.259998,2470300,58.421696,None
+03-23-2017,ENB,4630,41.209999,41.330002,40.799999,40.82,4609600,34.488029,None
+03-23-2017,WLK,4635,64.669998,65.82,64.080002,65.239998,588500,62.794792,None
+03-22-2017,COST,4640,167.320007,167.970001,167.039993,167.679993,1534200,155.832581,None
+03-16-2017,WLK,4645,67.300003,67.379997,66.589996,67.139999,860400,64.623604,None
+03-13-2017,WLK,4650,64.660004,65.559998,64.510002,65.470001,682000,63.016174,None
+03-03-2017,BAC,4655,25.299999,25.65,25.299999,25.440001,92456100,23.9655,None
+03-02-2017,SYF,4660,36.880001,36.98,35.919998,35.970001,6618900,33.197853,None
+03-16-2017,WMT,4665,70.110001,70.699997,70.07,70.440002,7061000,65.644417,None
+03-16-2017,USB,4670,55.07,55.369999,54.869999,55.029999,6326200,50.275604,None
+03-16-2017,SU,4675,30.52,30.870001,30.469999,30.73,3316100,27.566841,None
+03-16-2017,SABR,4680,22,22.115,21.82,21.84,2559600,19.700369,None
+03-16-2017,PG,4685,91.440002,91.720001,91.099998,91.440002,6601200,82.916229,None
+03-16-2017,TAP,4690,97.980003,98.489998,97.629997,98.230003,980300,90.076118,None
+03-16-2017,MMC,4695,74.260002,74.730003,74.260002,74.68,1546600,69.954163,None
+03-16-2017,KAR,4700,17.059046,17.233156,16.990915,17.229372,2469400,15.296699,None
+03-16-2017,GILD,4705,68.739998,68.779999,68.209999,68.540001,6855000,62.061687,None
+03-16-2017,XOM,4710,82.029999,82.199997,81.669998,82.07,9923800,70.701546,None
+03-16-2017,DOW,4715,82.029999,82.199997,81.669998,82.07,9923800,70.701546,"Error in getSymbols.yahoo(Symbols = ""DOW"", env = <environment>, verbose = FALSE,  : 
+  Unable to import “DOW”.
+DOW download failed after two attempts. Error message:
+HTTP error 400.
+"
+03-16-2017,CMCSA,4720,37.700001,37.990002,37.580002,37.68,13028300,35.314144,None
+03-16-2017,BMY,4725,57.330002,57.580002,57.119999,57.310001,9903900,52.07143,None
+03-16-2017,APA,4730,51.130001,51.639999,50.540001,51.080002,3603200,46.857021,None
+03-16-2017,CB,4735,138.350006,138.600006,137.279999,137.729996,1214200,128.497467,None
+02-23-2017,CVS,4741,80.220001,81.43,80.010002,80.860001,6403500,73.43026,None
+02-23-2017,BRK-B,4746,169.960007,170.160004,169.110001,170.149994,3377100,170.149994,None
+02-23-2017,BMY,4751,55.630001,56.09,55.02,55.77,14410400,50.672195,None
+11-14-2016,SCCO,4761,32.869999,33.18,32.580002,33.119999,2015700,29.281891,None
+02-17-2017,JNJ,4781,118.190002,118.900002,118.050003,118.860001,8691400,109.00322,None
+03-06-2017,TMO,4786,158.710007,159.289993,157.550003,157.710007,1413400,156.178452,None
+03-06-2017,XBI,4792,71.019997,71.139999,70.089996,70.730003,2477700,70.385773,None
+03-06-2017,AGN,4797,244.759995,244.929993,241.479996,242.360001,2612600,229.556351,None
+02-15-2017,KSS,4802,42.639999,43.240002,42.330002,42.849998,3782900,35.509449,None
+02-22-2017,TRV,4810,121.419998,122.419998,121.269997,121.900002,1184100,113.042503,None
+02-10-2017,CERN,4815,51.5,52.720001,51.290001,51.5,8307700,50.95945,None
+02-24-2017,ENTG,4821,21.5,21.950001,21.299999,21.75,534400,21.288311,None
+02-14-2017,PFE,4826,32.529999,32.77,32.349998,32.75,22965400,29.044111,None
+02-10-2017,WOOF,4831,32.529999,32.77,32.349998,32.75,22965400,29.044111,"Error in getSymbols.yahoo(Symbols = ""WOOF"", env = <environment>, verbose = FALSE,  : 
+  Unable to import “WOOF”.
+WOOF download failed after two attempts. Error message:
+HTTP error 404.
+"
+02-08-2017,AMZN,4836,812.690002,821.47998,812.5,819.710022,2858000,819.710022,None
+02-06-2017,WOOF,4842,812.690002,821.47998,812.5,819.710022,2858000,819.710022,"Error in getSymbols.yahoo(Symbols = ""WOOF"", env = <environment>, verbose = FALSE,  : 
+  Unable to import “WOOF”.
+WOOF download failed after two attempts. Error message:
+HTTP error 404.
+"
+02-06-2017,PFE,4847,32,32.330002,31.940001,32.23,24534400,28.582952,None
+02-01-2017,ENTG,4854,19.049999,19.299999,18.65,18.799999,703300,18.40093,None
+01-30-2017,HON,4859,113.183281,114.170479,112.866989,114.160896,3296900,106.842712,None
+01-11-2017,MDT,4866,75.120003,75.120003,73.379997,74.440002,7475400,69.313301,None
+01-11-2017,AAPL,4871,118.739998,119.93,118.599998,119.75,27588600,113.813881,None
+01-30-2017,MO,4876,70.980003,71.389999,70.82,71.300003,8574700,59.54491,None
+01-25-2017,USB,4881,52.139999,52.639999,52.139999,52.450001,8731500,47.918503,None
+01-25-2017,T,4887,41.330002,41.470001,40.889999,41.389999,21460500,34.347343,None
+01-26-2017,WPX,4897,13.99,14.32,13.95,14.27,7695900,14.27,None
+01-10-2017,FOXA,4902,13.99,14.32,13.95,14.27,7695900,14.27,"Error in getSymbols.yahoo(Symbols = ""FOXA"", env = <environment>, verbose = FALSE,  : 
+  Unable to import “FOXA”.
+FOXA download failed after two attempts. Error message:
+HTTP error 400.
+"
+01-18-2017,QCOM,4907,64.669998,66.089996,63.810001,65.129997,15883200,57.676273,None
+01-26-2017,CHKP,4912,96.599998,98.489998,96.599998,98.150002,1555200,98.150002,None
+01-25-2017,MRK,4918,61.32,61.380001,60.759998,61.080002,14557000,55.51738,None
+01-20-2017,PFE,4923,31.719999,32.119999,31.66,31.77,30159700,27.890858,None
+01-20-2017,PEP,4928,102.790001,103.32,102.440002,103.239998,4750800,93.770195,None
+12-30-2016,SPG,4933,176.610001,178.800003,175.610001,177.669998,2285100,151.91156,None
+12-23-2016,BIIB,4938,283.049988,288.380005,281.809998,287.529999,1118100,287.529999,None
+12-01-2016,VZ,4943,49.799999,49.990002,49.310001,49.869999,12982800,42.652515,None
+12-01-2016,TMK,4949,49.799999,49.990002,49.310001,49.869999,12982800,42.652515,"Error in getSymbols.yahoo(Symbols = ""TMK"", env = <environment>, verbose = FALSE,  : 
+  Unable to import “TMK”.
+TMK download failed after two attempts. Error message:
+HTTP error 404.
+"
+01-04-2017,SPG,4956,182.910004,184.130005,181.539993,184.080002,1991700,157.392227,None
+12-16-2016,ZBH,4961,102.410004,103.529999,102.349998,103.5,2861000,100.573082,None
+12-15-2016,WMB,4972,29.139999,29.290001,28.790001,29.120001,11653800,24.390085,None
+12-12-2016,ETP,4977,23.459999,23.66,22.866699,22.926701,4274482,22.926701,None
+12-07-2016,DIS,4982,100.510002,102.07,100.440002,101.989998,12255700,96.920746,None
+12-27-2016,NFLX,4988,126.239998,129.050003,125.699997,128.350006,5288200,128.350006,None
+12-22-2016,UNP,4994,104.120003,105.279999,103.370003,105.190002,2994800,97.935097,None
+12-16-2016,CAT,5000,94.349998,94.480003,92.529999,92.580002,7872700,84.11631,None
+12-19-2016,DEO,5005,103.910004,104.360001,103.57,103.669998,607900,95.479988,None
+12-14-2016,AMG,5010,159.289993,160.600006,154.550003,154.820007,701500,150.114426,None
+12-14-2016,AMG,5015,159.289993,160.600006,154.550003,154.820007,701500,150.114426,None
+11-28-2016,DIS,5020,98.519997,99.199997,98.32,98.970001,7106700,94.05085,None
+11-15-2016,MCK,5025,143.600006,144.440002,142.160004,142.869995,2500000,137.87619,None
+11-15-2016,SBUX,5030,54.09,54.689999,53.900002,54.59,9588000,50.889183,None
+11-28-2016,DEO,5035,101.220001,101.940002,100.849998,101.800003,963400,93.757736,None
+11-15-2016,CTSH,5040,53.939999,54.41,53.75,54.169998,5899600,52.287853,None
+11-29-2016,ENTG,5045,18.35,18.35,18.1,18.15,666800,17.764725,None
+11-18-2016,WMB,5050,30.209999,30.5,30.08,30.15,6956000,25.091885,None
+11-18-2016,KHC,5055,82.699997,82.93,82.019997,82.529999,2715700,71.084625,None
+11-17-2016,BAC,5060,19.76,20.219999,19.700001,20.08,167979200,18.788971,None
+11-15-2016,VSM,5065,19.76,20.219999,19.700001,20.08,167979200,18.788971,"Error in getSymbols.yahoo(Symbols = ""VSM"", env = <environment>, verbose = FALSE,  : 
+  Unable to import “VSM”.
+VSM download failed after two attempts. Error message:
+HTTP error 404.
+"
+11-10-2016,WMB,5070,30.68,31.18,30.35,30.639999,8756500,25.499681,None
+11-09-2016,DPM,5076,27750,27750,27000,27700,365710,27700,None
+11-07-2016,SPY,5081,208.550003,213.190002,208.550003,213.149994,109794900,199.024124,None
+11-17-2016,RAI,5091,208.550003,213.190002,208.550003,213.149994,109794900,199.024124,"Error in getSymbols.yahoo(Symbols = ""RAI"", env = <environment>, verbose = FALSE,  : 
+  Unable to import “RAI”.
+RAI download failed after two attempts. Error message:
+HTTP error 404.
+"
+11-15-2016,HDS,5112,37.169998,38,36.919998,38,2037200,38,None
+11-23-2016,ISRG,5117,213.706665,215.46666,212.496674,215.093338,1106700,215.093338,None
+11-23-2016,XSD,5122,55.439999,55.73,55.189999,55.73,48000,54.271473,None
+10-31-2016,QCOM,5128,69,69.510002,68.68,68.720001,10108300,60.383129,None
+10-31-2016,VFC,5133,51.120529,51.195858,50.659134,51.045197,3135100,46.383804,None
+10-31-2016,AMGN,5138,146.550003,146.679993,140.940002,141.160004,8693700,127.684097,None
+10-26-2016,HAS,5150,83.279999,83.300003,82.160004,82.540001,636100,74.845947,None
+10-26-2016,BRK-B,5155,143.380005,144.460007,143.119995,143.940002,2769700,143.940002,None
+10-26-2016,WFC,5160,45.459999,46.169998,45.439999,46.150002,25181900,40.316051,None
+10-24-2016,GLW,5165,23.950001,24.139999,23.73,23.889999,9829400,21.913122,None
+10-12-2016,BAX,5170,47.150002,47.330002,46.84,46.98,2782600,45.285095,None
+10-05-2016,SPY,5177,215.410004,216.130005,215.330002,215.630005,72816000,201.339813,None
+09-30-2016,VZ,5185,52.43,52.57,51.959999,51.98,13077600,43.955864,None
+09-23-2016,WFC,5192,45.5,45.91,45.43,45.740002,28710500,39.957882,None
+09-06-2016,NSRGY,5201,80.790001,81.550003,80.690002,81.449997,228400,72.658089,None
+09-28-2016,MCK,5207,166.229996,167.339996,165.630005,166.619995,984800,160.796066,None
+09-06-2016,GILD,5212,77.779999,78.290001,77.25,77.879997,11648400,69.11409,None
+09-22-2016,DHR,5217,78.029999,78.110001,77.519997,77.669998,2494300,75.966591,None
+09-21-2016,EPD,5225,26.98,27.4,26.709999,27.309999,5327300,21.410185,None
+09-13-2016,GEL,5230,34.470001,35.080002,33.630001,33.900002,1125100,23.787113,None
+09-12-2016,SE,5235,34.470001,35.080002,33.630001,33.900002,1125100,23.787113,"Error in getSymbols.yahoo(Symbols = ""SE"", env = <environment>, verbose = FALSE,  : 
+  Unable to import “SE”.
+SE download failed after two attempts. Error message:
+HTTP error 400.
+"
+09-01-2016,USG,5240,34.470001,35.080002,33.630001,33.900002,1125100,23.787113,"Error in getSymbols.yahoo(Symbols = ""USG"", env = <environment>, verbose = FALSE,  : 
+  Unable to import “USG”.
+USG download failed after two attempts. Error message:
+HTTP error 404.
+"
+09-12-2016,DHR,5246,76.779999,78.400002,76.589996,78.209999,4003500,76.494743,None
+08-01-2016,RHT,5254,76.779999,78.400002,76.589996,78.209999,4003500,76.494743,"Error in getSymbols.yahoo(Symbols = ""RHT"", env = <environment>, verbose = FALSE,  : 
+  Unable to import “RHT”.
+RHT download failed after two attempts. Error message:
+HTTP error 404.
+"
+08-15-2016,CAT,5259,83,84.279999,82.959999,84.150002,4056000,75.787979,None
+08-18-2016,BMY,5264,58.27,59.48,58.259998,58.68,14693300,52.601879,None
+08-05-2016,FB,5269,124.980003,125.839996,124.620003,125.150002,20184000,125.150002,None
+01-23-2015,DHR,5275,64.063683,64.094009,63.745262,63.790752,4991200,42.052727,None
+08-03-2016,CVX,5280,99.650002,100.639999,99.290001,100.610001,6611700,86.707954,None
+05-20-2015,CL,5290,69.18,69.279999,68.889999,68.889999,2020700,61.282528,None
+04-02-2015,FOX,5295,69.18,69.279999,68.889999,68.889999,2020700,61.282528,"Error in getSymbols.yahoo(Symbols = ""FOX"", env = <environment>, verbose = FALSE,  : 
+  Unable to import “FOX”.
+FOX download failed after two attempts. Error message:
+HTTP error 400.
+"
+04-02-2015,MSFT,5300,40.66,40.740002,40.119999,40.290001,37487500,36.328884,None
+05-12-2015,FOX,5305,40.66,40.740002,40.119999,40.290001,37487500,36.328884,"Error in getSymbols.yahoo(Symbols = ""FOX"", env = <environment>, verbose = FALSE,  : 
+  Unable to import “FOX”.
+FOX download failed after two attempts. Error message:
+HTTP error 400.
+"
+02-11-2015,WPZ,5310,46.200001,46.889999,45.919998,45.959999,1057359,45.959999,None
+02-18-2015,WPZ,5315,47.259998,47.919998,46.889,47.470001,1621124,47.470001,None
+03-04-2015,NGLS,5320,47.259998,47.919998,46.889,47.470001,1621124,47.470001,"Error in getSymbols.yahoo(Symbols = ""NGLS"", env = <environment>, verbose = FALSE,  : 
+  Unable to import “NGLS”.
+NGLS download failed after two attempts. Error message:
+HTTP error 404.
+"
+05-21-2015,PAA,5325,46.77,48.240002,46.619999,47.560001,6898900,32.267361,None
+01-08-2015,AAN,5330,30.700001,30.84,30.42,30.74,1345300,30.203171,None
+01-14-2015,CBS,5335,54.849998,54.939999,53.52,54.470001,7631000,51.263603,None
+01-26-2015,BK,5340,36.639999,37.490002,36.43,37.419998,8192400,33.466908,None
+01-30-2015,ZTS,5345,43.18,43.560001,42.639999,42.73,3146000,41.207375,None
+02-05-2015,AAN,5350,31.540001,31.700001,31.129999,31.219999,901000,30.674786,None
+02-09-2015,CBS,5355,56.709999,57.48,56.560001,56.759998,5431100,53.418793,None
+02-13-2015,CBS,5360,60.099998,60.790001,59.040001,59.830002,16696400,56.308075,None
+02-20-2015,CBS,5365,59.439999,59.709999,59.09,59.5,5350800,55.997505,None
+03-05-2015,XLS-WI,5370,59.439999,59.709999,59.09,59.5,5350800,55.997505,"Error in getSymbols.yahoo(Symbols = ""XLS-WI"", env = <environment>, verbose = FALSE,  : 
+  Unable to import “XLS-WI”.
+XLS-WI download failed after two attempts. Error message:
+HTTP error 404.
+"
+03-11-2015,KN,5375,19.709999,19.969999,19.549999,19.809999,912400,19.809999,None
+03-12-2015,CIT,5380,44.919998,45.18,44.75,45,1092400,39.878487,None
+03-16-2015,XLS-WI,5385,44.919998,45.18,44.75,45,1092400,39.878487,"Error in getSymbols.yahoo(Symbols = ""XLS-WI"", env = <environment>, verbose = FALSE,  : 
+  Unable to import “XLS-WI”.
+XLS-WI download failed after two attempts. Error message:
+HTTP error 404.
+"
+03-20-2015,KN,5390,21.129999,21.25,19.59,19.99,2014300,19.99,None
+04-24-2015,KN,5395,20.27,21.98,19.959999,20.08,3572300,20.08,None
+05-06-2015,PFE,5400,33.75,33.900002,33.209999,33.459999,26859500,27.859747,None
+05-13-2015,DISCA,5405,32,32.139999,31.209999,31.440001,5184600,31.440001,None
+08-30-2016,BAX,5412,47.73,47.73,46.779999,46.889999,3304300,45.073032,None
+08-16-2016,FE,5417,32.849998,32.869999,32.41,32.419998,2495400,27.847075,None
+08-11-2016,BMY,5422,60.700001,61.130001,60.25,60.970001,14576300,54.654682,None
+08-04-2016,FOXA,5427,60.700001,61.130001,60.25,60.970001,14576300,54.654682,"Error in getSymbols.yahoo(Symbols = ""FOXA"", env = <environment>, verbose = FALSE,  : 
+  Unable to import “FOXA”.
+FOXA download failed after two attempts. Error message:
+HTTP error 400.
+"
+08-22-2016,BMY,5432,59.650002,59.68,59.009998,59.259998,11133600,53.121799,None
+07-07-2016,WM,5438,67.300003,67.629997,66.879997,67.290001,1610000,62.189869,None
+07-07-2016,WM,5443,67.300003,67.629997,66.879997,67.290001,1610000,62.189869,None
+07-26-2016,AAPL,5448,96.82,97.970001,96.419998,96.669998,56239800,90.916161,None
+03-25-2015,SPY,5453,209.070007,209.350006,205.710007,205.759995,159521700,186.195831,None
+04-02-2015,SYY,5458,37.540001,38.029999,37.509998,37.639999,2986800,32.889584,None
+04-02-2015,JNJ,5463,99.440002,99.989998,98.889999,99.639999,6097100,86.91172,None
+05-11-2015,FOX,5468,99.440002,99.989998,98.889999,99.639999,6097100,86.91172,"Error in getSymbols.yahoo(Symbols = ""FOX"", env = <environment>, verbose = FALSE,  : 
+  Unable to import “FOX”.
+FOX download failed after two attempts. Error message:
+HTTP error 400.
+"
+01-15-2015,BPL,5473,99.440002,99.989998,98.889999,99.639999,6097100,86.91172,"Error in getSymbols.yahoo(Symbols = ""BPL"", env = <environment>, verbose = FALSE,  : 
+  Unable to import “BPL”.
+BPL download failed after two attempts. Error message:
+HTTP error 404.
+"
+02-13-2015,WPZ,5478,47.5,48.080002,46.900002,47.43,2954585,35.363968,None
+03-02-2015,NGLS,5483,47.5,48.080002,46.900002,47.43,2954585,35.363968,"Error in getSymbols.yahoo(Symbols = ""NGLS"", env = <environment>, verbose = FALSE,  : 
+  Unable to import “NGLS”.
+NGLS download failed after two attempts. Error message:
+HTTP error 404.
+"
+03-13-2015,ETE,5488,169.5,171,159,159,95003,159,None
+01-08-2015,KN,5493,22.58,23.639999,22.34,23.559999,1852600,23.559999,None
+01-13-2015,BK,5498,38.700001,39.02,38.099998,38.400002,4868000,34.343391,None
+01-21-2015,KN,5503,21.52,21.719999,20.959999,21.59,1253600,21.59,None
+01-29-2015,TAP,5508,21.52,21.719999,20.959999,21.59,1253600,21.59,"Error in getSymbols.yahoo(Symbols = ""TAP"", env = <environment>, verbose = FALSE,  : 
+  Unable to import “TAP”.
+TAP download failed after two attempts. Error message:
+HTTP error 404.
+"
+02-04-2015,AAN,5513,31.35,31.83,31.25,31.5,764800,30.949898,None
+02-05-2015,CIT,5518,45.5,45.970001,45.32,45.75,1172200,40.410412,None
+02-12-2015,XLS-WI,5523,45.5,45.970001,45.32,45.75,1172200,40.410412,"Error in getSymbols.yahoo(Symbols = ""XLS-WI"", env = <environment>, verbose = FALSE,  : 
+  Unable to import “XLS-WI”.
+XLS-WI download failed after two attempts. Error message:
+HTTP error 404.
+"
+02-17-2015,CIT,5528,46.009998,46.439999,45.810001,46.439999,749800,41.154591,None
+03-03-2015,WPX,5533,10.8,11.1,10.61,10.68,6112600,10.68,None
+03-09-2015,XLS-WI,5538,10.8,11.1,10.61,10.68,6112600,10.68,"Error in getSymbols.yahoo(Symbols = ""XLS-WI"", env = <environment>, verbose = FALSE,  : 
+  Unable to import “XLS-WI”.
+XLS-WI download failed after two attempts. Error message:
+HTTP error 404.
+"
+03-12-2015,WPX,5543,11.08,11.15,10.57,10.7,4250300,10.7,None
+03-16-2015,WPX,5548,10.89,10.89,10.19,10.76,4531600,10.76,None
+03-18-2015,DISCA,5553,31.950001,32.029999,31.08,31.65,5980900,31.65,None
+04-17-2015,KN,5558,20.809999,21.129999,20.690001,20.9,754000,20.9,None
+04-15-2015,MOS,5563,45.869999,46.060001,45.650002,45.950001,3502600,41.503586,None
+05-14-2015,PFE,5568,33.709999,33.990002,33.66,33.939999,17894500,28.259401,None
+05-15-2015,AXLL,5573,33.709999,33.990002,33.66,33.939999,17894500,28.259401,"Error in getSymbols.yahoo(Symbols = ""AXLL"", env = <environment>, verbose = FALSE,  : 
+  Unable to import “AXLL”.
+AXLL download failed after two attempts. Error message:
+HTTP error 404.
+"
+09-01-2015,BK,5580,38.810001,39.099998,38.099998,38.34,8365800,34.722458,None
+08-28-2015,BAX,5585,38.5,39.049999,38.34,38.75,6382400,38.75,None
+08-27-2015,BAX,5590,37.970001,38.77,37.740002,38.59,9217800,38.59,None
+08-26-2015,BAX,5595,37.619999,37.810001,36.709999,37.669998,8622300,37.669998,None
+08-25-2015,AAN,5600,37.48,37.77,36.169998,36.18,568500,35.603451,None
+08-24-2015,SBUX,5605,48.049999,52.669998,42.049999,50.34,27158800,46.086208,None
+08-21-2015,CIT,5610,44.639999,45.080002,44.25,44.25,1804100,39.467911,None
+08-20-2015,DE,5615,91.309998,92.449997,90.370003,90.650002,4497600,81.577797,None
+08-14-2015,LNT,5620,30.68,30.9,30.52,30.870001,1642000,26.585938,None
+08-12-2015,AAN,5625,37,37.279999,35.810001,37.150002,518000,36.555874,None
+08-07-2015,XOM,5630,77.550003,77.970001,76.620003,76.830002,12187600,62.220409,None
+08-06-2015,PAA,5635,77.550003,77.970001,76.620003,76.830002,12187600,62.220409,"Error in getSymbols.yahoo(Symbols = ""PAA"", env = <environment>, verbose = FALSE,  : 
+  Unable to import “PAA”.
+PAA download failed after two attempts. Error message:
+HTTP error 404.
+"
+08-06-2015,CBS,5640,77.550003,77.970001,76.620003,76.830002,12187600,62.220409,"Error in getSymbols.yahoo(Symbols = ""CBS"", env = <environment>, verbose = FALSE,  : 
+  Unable to import “CBS”.
+CBS download failed after two attempts. Error message:
+HTTP error 404.
+"
+08-03-2015,WPX,5645,8.62,8.62,7.93,8.01,15142300,8.01,None
+07-30-2015,DE,5650,93.279999,93.980003,92.919998,93.510002,1470500,84.151581,None
+07-28-2015,LQDT,5655,93.279999,93.980003,92.919998,93.510002,1470500,84.151581,"Error in getSymbols.yahoo(Symbols = ""LQDT"", env = <environment>, verbose = FALSE,  : 
+  Unable to import “LQDT”.
+LQDT download failed after two attempts. Error message:
+HTTP error 404.
+"
+08-05-2015,CVC,5660,93.279999,93.980003,92.919998,93.510002,1470500,84.151581,"Error in getSymbols.yahoo(Symbols = ""CVC"", env = <environment>, verbose = FALSE,  : 
+  Unable to import “CVC”.
+CVC download failed after two attempts. Error message:
+HTTP error 404.
+"
+12-15-2015,DVN,5756,31.98,32.439999,31.5,31.870001,7808500,30.113552,None
+01-23-2015,ACE,5778,31.98,32.439999,31.5,31.870001,7808500,30.113552,"Error in getSymbols.yahoo(Symbols = ""ACE"", env = <environment>, verbose = FALSE,  : 
+  Unable to import “ACE”.
+ACE download failed after two attempts. Error message:
+HTTP error 404.
+"
+08-04-2015,GE,5783,24.89423,25.057692,24.836538,24.903847,22864600,24.903847,None
+08-04-2015,BIIB,5788,325.880005,334.799988,324.519989,330.380005,3586200,330.380005,None
+12-22-2015,LRCX,5793,79.489998,80.25,78.239998,80.190002,1485500,74.30481,None
+01-05-2016,GILD,5798,99.690002,99.849998,98.699997,99.260002,9260800,87.174484,None
+12-22-2015,LRCX,5803,79.489998,80.25,78.239998,80.190002,1485500,74.30481,None
+01-14-2016,MRK,5808,50.669998,52.110001,50.59,51.799999,13568500,45.609253,None
+07-12-2016,FTV,5815,51,51.060001,50.259998,50.57,5552900,49.737488,None
+08-01-2016,WFM,5821,51,51.060001,50.259998,50.57,5552900,49.737488,"Error in getSymbols.yahoo(Symbols = ""WFM"", env = <environment>, verbose = FALSE,  : 
+  Unable to import “WFM”.
+WFM download failed after two attempts. Error message:
+HTTP error 404.
+"
+07-26-2016,WLK,5826,51,51.060001,50.259998,50.57,5552900,49.737488,"Error in getSymbols.yahoo(Symbols = ""WLK"", env = <environment>, verbose = FALSE,  : 
+  Unable to import “WLK”.
+WLK download failed after two attempts. Error message:
+HTTP error 404.
+"
+07-21-2016,FEYE,5831,51,51.060001,50.259998,50.57,5552900,49.737488,"Error in getSymbols.yahoo(Symbols = ""FEYE"", env = <environment>, verbose = FALSE,  : 
+  Unable to import “FEYE”.
+FEYE download failed after two attempts. Error message:
+HTTP error 404.
+"
+07-15-2016,FEYE,5836,51,51.060001,50.259998,50.57,5552900,49.737488,"Error in getSymbols.yahoo(Symbols = ""FEYE"", env = <environment>, verbose = FALSE,  : 
+  Unable to import “FEYE”.
+FEYE download failed after two attempts. Error message:
+HTTP error 404.
+"
+07-13-2016,AXLL,5841,51,51.060001,50.259998,50.57,5552900,49.737488,"Error in getSymbols.yahoo(Symbols = ""AXLL"", env = <environment>, verbose = FALSE,  : 
+  Unable to import “AXLL”.
+AXLL download failed after two attempts. Error message:
+HTTP error 404.
+"
+07-11-2016,HYH,5846,51,51.060001,50.259998,50.57,5552900,49.737488,"Error in getSymbols.yahoo(Symbols = ""HYH"", env = <environment>, verbose = FALSE,  : 
+  Unable to import “HYH”.
+HYH download failed after two attempts. Error message:
+HTTP error 404.
+"
+07-08-2016,COST,5852,164.839996,166.100006,164.490005,165.440002,3932000,152.457504,None
+01-28-2015,SPY,5858,204.169998,204.289993,199.910004,200.139999,168514300,180.305298,None
+07-15-2016,PG,5870,204.169998,204.289993,199.910004,200.139999,168514300,180.305298,"Error in getSymbols.yahoo(Symbols = ""PG"", env = <environment>, verbose = FALSE,  : 
+  Unable to import “PG”.
+PG download failed after two attempts. Error message:
+HTTP error 404.
+"
+07-25-2016,PEP,5875,109.239998,109.279999,108.379997,109.019997,3053100,97.602501,None
+07-25-2016,PEP,5880,109.239998,109.279999,108.379997,109.019997,3053100,97.602501,None
+06-28-2016,IVZ,5886,109.239998,109.279999,108.379997,109.019997,3053100,97.602501,"Error in getSymbols.yahoo(Symbols = ""IVZ"", env = <environment>, verbose = FALSE,  : 
+  Unable to import “IVZ”.
+IVZ download failed after two attempts. Error message:
+HTTP error 404.
+"
+07-06-2016,MPLX,5892,31.639999,31.98,31.139999,31.6,1907400,22.951721,None
+06-29-2016,FEYE,5897,31.639999,31.98,31.139999,31.6,1907400,22.951721,"Error in getSymbols.yahoo(Symbols = ""FEYE"", env = <environment>, verbose = FALSE,  : 
+  Unable to import “FEYE”.
+FEYE download failed after two attempts. Error message:
+HTTP error 404.
+"
+06-28-2016,FEYE,5902,31.639999,31.98,31.139999,31.6,1907400,22.951721,"Error in getSymbols.yahoo(Symbols = ""FEYE"", env = <environment>, verbose = FALSE,  : 
+  Unable to import “FEYE”.
+FEYE download failed after two attempts. Error message:
+HTTP error 404.
+"
+06-27-2016,FEYE,5907,31.639999,31.98,31.139999,31.6,1907400,22.951721,"Error in getSymbols.yahoo(Symbols = ""FEYE"", env = <environment>, verbose = FALSE,  : 
+  Unable to import “FEYE”.
+FEYE download failed after two attempts. Error message:
+HTTP error 404.
+"
+06-24-2016,AXLL,5912,31.639999,31.98,31.139999,31.6,1907400,22.951721,"Error in getSymbols.yahoo(Symbols = ""AXLL"", env = <environment>, verbose = FALSE,  : 
+  Unable to import “AXLL”.
+AXLL download failed after two attempts. Error message:
+HTTP error 404.
+"
+06-22-2016,AXLL,5917,31.639999,31.98,31.139999,31.6,1907400,22.951721,"Error in getSymbols.yahoo(Symbols = ""AXLL"", env = <environment>, verbose = FALSE,  : 
+  Unable to import “AXLL”.
+AXLL download failed after two attempts. Error message:
+HTTP error 404.
+"
+06-28-2016,NFX,5928,42.27,43.02,41.91,42.849998,3406667,42.849998,None
+06-10-2016,HDS,5934,35.82,36,34.59,34.700001,2057800,34.700001,None
+05-24-2016,IVZ,5948,35.82,36,34.59,34.700001,2057800,34.700001,"Error in getSymbols.yahoo(Symbols = ""IVZ"", env = <environment>, verbose = FALSE,  : 
+  Unable to import “IVZ”.
+IVZ download failed after two attempts. Error message:
+HTTP error 404.
+"
+11-20-2015,WMT,5953,60.98,61.470001,60.02,60.07,12371100,60.07,None
+05-24-2016,CMCSA,5970,31.040001,31.25,30.844999,31.219999,19933000,28.901703,None
+06-07-2016,IBM,5975,31.040001,31.25,30.844999,31.219999,19933000,28.901703,"Error in getSymbols.yahoo(Symbols = ""IBM"", env = <environment>, verbose = FALSE,  : 
+  Unable to import “IBM”.
+IBM download failed after two attempts. Error message:
+HTTP error 404.
+"
+05-18-2016,DEO,5980,107.959999,108.330002,106.900002,107.459999,455800,97.470726,None
+05-24-2016,TWTR,5985,14.22,14.22,13.73,14.03,36233900,14.03,None
+05-12-2016,CLR,5993,40.919998,42,39.700001,40.549999,4965000,40.415226,None
+05-11-2016,SYY.SG,6000,43.733002,43.825001,42.634998,43.682999,0,39.871048,None
+05-05-2016,FE,6005,43.733002,43.825001,42.634998,43.682999,NA,39.871048,"Error in getSymbols.yahoo(Symbols = ""FE"", env = <environment>, verbose = FALSE,  : 
+  Unable to import “FE”.
+FE download failed after two attempts. Error message:
+HTTP error 404.
+"
+04-12-2016,AMZN,6012,598.400024,604.059998,592.309998,603.169983,2641100,603.169983,None
+04-19-2016,AMZN,6017,637.140015,638.01001,620.799988,627.900024,4055900,627.900024,None
+04-26-2016,AAPL,6022,103.910004,105.300003,103.910004,104.349998,56016200,97.545135,None
+04-26-2016,AAPL,6028,103.910004,105.300003,103.910004,104.349998,56016200,97.545135,None
+04-28-2016,IRET,6034,103.910004,105.300003,103.910004,104.349998,56016200,97.545135,"Error in getSymbols.yahoo(Symbols = ""IRET"", env = <environment>, verbose = FALSE,  : 
+  Unable to import “IRET”.
+IRET download failed after two attempts. Error message:
+HTTP error 404.
+"
+04-19-2016,VFC,6039,61.045197,61.318268,60.301319,60.640301,1683200,54.439247,None
+04-19-2016,MSFT,6044,56.630001,56.77,55.68,56.389999,29596800,52.233494,None
+04-19-2016,ITW,6049,105.68,106.190002,105.300003,105.669998,2090900,96.060661,None
+04-19-2016,ABT,6054,44,44.009998,43.490002,43.849998,7786600,40.540886,None
+02-20-2015,KMB,6063,110.360001,110.989998,109.410004,110.959999,1460600,93.872086,None
+02-20-2015,AXP,6068,78.220001,79.879997,78.199997,79.830002,11348700,73.392815,None
+03-20-2015,HSY,6074,101.209999,102.389999,100.900002,102.089996,1011700,102.089996,None
+03-31-2016,SLB,6080,74.290001,75.029999,73.480003,73.75,8608700,63.446739,None
+03-31-2016,CVX,6085,95.190002,96.199997,94.949997,95.400002,5943900,81.357826,None
+03-29-2016,YACKX,6090,21.639999,21.639999,21.639999,21.639999,0,13.345188,None
+03-31-2016,QCOM,6095,50.869999,51.43,50.830002,51.139999,7315800,44.13398,None
+03-31-2016,LOW,6100,76,76.379997,75.610001,75.75,3681600,69.864586,None
+03-31-2016,DIS,6105,99.010002,100.370003,99.010002,99.309998,7038800,93.693352,None
+04-27-2016,AAPL,6112,96,98.709999,95.68,97.82,114602100,91.440979,None
+04-21-2016,DPM,6117,29900,29900,29500,29500,521370,29500,None
+04-15-2016,BAC,6122,14.27,14.29,13.95,14,87958700,12.995113,None
+04-11-2016,AM,6128,21.15,21.440001,21,21.280001,257600,15.65794,None
+04-05-2016,ADT,6133,21.15,21.440001,21,21.280001,257600,15.65794,"Error in getSymbols.yahoo(Symbols = ""ADT"", env = <environment>, verbose = FALSE,  : 
+  Unable to import “ADT”.
+ADT download failed after two attempts. Error message:
+HTTP error 400.
+"
+04-28-2016,FB,6138,119.580002,120.790001,116.230003,116.730003,87110100,116.730003,None
+03-24-2016,RRC,6143,30,31.09,29.379999,30.719999,5286700,29.966412,None
+03-22-2016,AAPL,6156,105.25,107.290001,105.209999,106.720001,32444400,99.760597,None
+03-01-2016,CVS,6161,105.25,107.290001,105.209999,106.720001,32444400,99.760597,"Error in getSymbols.yahoo(Symbols = ""CVS"", env = <environment>, verbose = FALSE,  : 
+  Unable to import “CVS”.
+CVS download failed after two attempts. Error message:
+HTTP error 404.
+"
+03-24-2016,CSCO,6166,105.25,107.290001,105.209999,106.720001,32444400,99.760597,"Error in getSymbols.yahoo(Symbols = ""CSCO"", env = <environment>, verbose = FALSE,  : 
+  Unable to import “CSCO”.
+CSCO download failed after two attempts. Error message:
+HTTP error 404.
+"
+03-22-2016,MA,6171,91.68,92.209999,91.540001,91.760002,3541300,89.289131,None
+03-11-2016,BAC,6176,13.44,13.84,13.37,13.79,120400600,12.800187,None
+03-04-2016,BAC,6181,13.76,13.89,13.49,13.54,171410900,12.568131,None
+02-25-2016,GS,6186,146,149.070007,145.229996,148.25,4299600,138.486801,None
+03-07-2016,GOOG,6191,706.900024,708.091003,686.900024,695.159973,2985100,695.159973,None
+02-10-2016,KEY,6202,10.74,10.8,10.45,10.52,22141200,10.52,None
+02-16-2016,ADT.F,6213,10.74,10.8,10.45,10.52,22141200,10.52,"Error in getSymbols.yahoo(Symbols = ""ADT.F"", env = <environment>, verbose = FALSE,  : 
+  Unable to import “ADT.F”.
+ADT.F download failed after two attempts. Error message:
+HTTP error 404.
+"
+02-25-2016,MA,6220,86.550003,87.43,85.519997,87.419998,3280500,85.06601,None
+02-23-2016,AAPL,6225,96.400002,96.5,94.550003,94.690002,31942600,88.515076,None
+02-19-2016,GE,6230,27.826923,28.009615,27.576923,27.903847,37507700,27.903847,None
+02-17-2016,ADT,6235,27.826923,28.009615,27.576923,27.903847,37507700,27.903847,"Error in getSymbols.yahoo(Symbols = ""ADT"", env = <environment>, verbose = FALSE,  : 
+  Unable to import “ADT”.
+ADT download failed after two attempts. Error message:
+HTTP error 400.
+"
+02-16-2016,CHRW,6240,70.160004,71.620003,69.93,71.209999,1691100,64.411095,None
+02-12-2016,KN,6245,11.95,12.12,9.69,9.98,4644400,9.98,None
+02-11-2016,AAPL,6250,93.790001,94.720001,92.589996,93.699997,50074700,87.58963,None
+02-10-2016,MSFT,6255,49.889999,50.389999,49.52,49.709999,38237000,45.717632,None
+02-08-2016,WMB,6260,49.889999,50.389999,49.52,49.709999,38237000,45.717632,"Error in getSymbols.yahoo(Symbols = ""WMB"", env = <environment>, verbose = FALSE,  : 
+  Unable to import “WMB”.
+WMB download failed after two attempts. Error message:
+HTTP error 404.
+"
+02-05-2016,HYH,6265,49.889999,50.389999,49.52,49.709999,38237000,45.717632,"Error in getSymbols.yahoo(Symbols = ""HYH"", env = <environment>, verbose = FALSE,  : 
+  Unable to import “HYH”.
+HYH download failed after two attempts. Error message:
+HTTP error 404.
+"
+02-03-2016,MSFT,6270,53.25,53.389999,51.259998,52.16,57559800,47.97086,None
+02-01-2016,EPD,6275,23.530001,24.120001,22.77,23.940001,6294000,18.241562,None
+02-11-2016,CELG,6280,23.530001,24.120001,22.77,23.940001,6294000,18.241562,"Error in getSymbols.yahoo(Symbols = ""CELG"", env = <environment>, verbose = FALSE,  : 
+  Unable to import “CELG”.
+CELG download failed after two attempts. Error message:
+HTTP error 404.
+"
+01-20-2016,CAT,6285,58.080002,59.380001,56.360001,58.810001,10857700,51.954082,None
+02-01-2016,TWTR,6291,17.889999,18.77,17.299999,17.91,49994400,17.91,None
+01-26-2016,NUE,6302,35.330002,36.880001,35.25,36.540001,3707000,32.31192,None
+12-30-2015,EEM,6312,32.48,32.529999,32.27,32.290001,51320000,29.539988,None
+01-21-2016,CB,6317,32.48,32.529999,32.27,32.290001,51320000,29.539988,"Error in getSymbols.yahoo(Symbols = ""CB"", env = <environment>, verbose = FALSE,  : 
+  Unable to import “CB”.
+CB download failed after two attempts. Error message:
+HTTP error 404.
+"
+01-08-2016,CLR,6325,21.280001,22.16,20.52,21.74,7286000,21.667742,None
+01-29-2016,WLK,6347,21.280001,22.16,20.52,21.74,7286000,21.667742,"Error in getSymbols.yahoo(Symbols = ""WLK"", env = <environment>, verbose = FALSE,  : 
+  Unable to import “WLK”.
+WLK download failed after two attempts. Error message:
+HTTP error 404.
+"
+01-28-2016,HYH,6352,21.280001,22.16,20.52,21.74,7286000,21.667742,"Error in getSymbols.yahoo(Symbols = ""HYH"", env = <environment>, verbose = FALSE,  : 
+  Unable to import “HYH”.
+HYH download failed after two attempts. Error message:
+HTTP error 404.
+"
+01-27-2016,AAPL,6357,96.040001,96.629997,93.339996,93.419998,133369700,86.856606,None
+01-26-2016,HYH,6362,96.040001,96.629997,93.339996,93.419998,133369700,86.856606,"Error in getSymbols.yahoo(Symbols = ""HYH"", env = <environment>, verbose = FALSE,  : 
+  Unable to import “HYH”.
+HYH download failed after two attempts. Error message:
+HTTP error 404.
+"
+01-22-2016,PFE,6367,31,31.25,30.67,30.709999,31444400,25.977839,None
+01-20-2016,PG,6372,31,31.25,30.67,30.709999,31444400,25.977839,"Error in getSymbols.yahoo(Symbols = ""PG"", env = <environment>, verbose = FALSE,  : 
+  Unable to import “PG”.
+PG download failed after two attempts. Error message:
+HTTP error 404.
+"
+01-20-2016,KHC,6377,69.279999,71.580002,68.739998,71.169998,4607000,60.026184,None
+01-15-2016,WFM,6382,69.279999,71.580002,68.739998,71.169998,4607000,60.026184,"Error in getSymbols.yahoo(Symbols = ""WFM"", env = <environment>, verbose = FALSE,  : 
+  Unable to import “WFM”.
+WFM download failed after two attempts. Error message:
+HTTP error 404.
+"
+01-13-2016,GE,6388,27.798077,27.942308,27.115385,27.153847,57946400,27.153847,None
+12-28-2015,M,6406,35.459999,35.880001,35.27,35.5,5748100,27.235605,None
+01-05-2016,NVDA,6411,35.459999,35.880001,35.27,35.5,5748100,27.235605,"Error in getSymbols.yahoo(Symbols = ""NVDA"", env = <environment>, verbose = FALSE,  : 
+  Unable to import “NVDA”.
+NVDA download failed after two attempts. Error message:
+HTTP error 404.
+"
+01-06-2016,VZ,6416,35.459999,35.880001,35.27,35.5,5748100,27.235605,"Error in getSymbols.yahoo(Symbols = ""VZ"", env = <environment>, verbose = FALSE,  : 
+  Unable to import “VZ”.
+VZ download failed after two attempts. Error message:
+HTTP error 404.
+"
+12-16-2015,KMI,6422,35.459999,35.880001,35.27,35.5,5748100,27.235605,"Error in getSymbols.yahoo(Symbols = ""KMI"", env = <environment>, verbose = FALSE,  : 
+  Unable to import “KMI”.
+KMI download failed after two attempts. Error message:
+HTTP error 404.
+"
+01-06-2016,UA,6445,78.75,80.860001,78.629997,79.870003,3125200,79.870003,None
+09-17-2015,PFS,6680,19.440001,19.610001,19.1,19.190001,206400,16.395481,None
+09-16-2015,PFE,6831,32.98,33.279999,32.709999,33.18,21410000,27.842501,None
+09-22-2015,M,6836,53.75,53.990002,52.959999,53.439999,3871300,40.620075,None
+08-28-2015,CSX,6841,27.4,27.860001,27.26,27.799999,9956200,25.715519,None
+08-21-2015,AAPL,6860,110.43,111.900002,105.650002,105.760002,128275500,97.910515,None
+08-24-2015,CHK,6866,110.43,111.900002,105.650002,105.760002,128275500,97.910515,"Error in getSymbols.yahoo(Symbols = ""CHK"", env = <environment>, verbose = FALSE,  : 
+  Unable to import “CHK”.
+CHK download failed after two attempts. Error message:
+HTTP error 404.
+"
+08-12-2015,ARW,6871,57.639999,58.060001,56.400002,57.389999,1452100,57.389999,None
+09-02-2015,AAN,6878,37.009998,37.900002,36.91,37.16,984900,36.590195,None
+08-31-2015,CIT,6883,43.66,43.82,43.259998,43.439999,1421200,38.745453,None
+08-28-2015,GLW,6888,16.92,17.25,16.9,17.18,11534100,15.347659,None
+08-27-2015,DVN,6893,39.32,41.209999,39.189999,40.779999,9059100,38.042381,None
+08-25-2015,CIT,6898,43.630001,43.630001,41.84,42.029999,2454500,37.48782,None
+08-24-2015,IP,6903,42.049999,43.400002,41.16,42.009998,4932300,34.951435,None
+08-24-2015,CIT,6908,41.869999,43.48,41.060001,42.459999,3598000,37.871357,None
+08-20-2015,CBS,6913,41.869999,43.48,41.060001,42.459999,3598000,37.871357,"Error in getSymbols.yahoo(Symbols = ""CBS"", env = <environment>, verbose = FALSE,  : 
+  Unable to import “CBS”.
+CBS download failed after two attempts. Error message:
+HTTP error 404.
+"
+08-19-2015,BAX,6918,40.48,40.580002,40.060001,40.139999,6773900,40.139999,None
+08-12-2015,LNT,6923,30.280001,30.73,30.219999,30.66,1591400,26.405079,None
+08-10-2015,GPK,6928,30.280001,30.73,30.219999,30.66,1591400,26.405079,"Error in getSymbols.yahoo(Symbols = ""GPK"", env = <environment>, verbose = FALSE,  : 
+  Unable to import “GPK”.
+GPK download failed after two attempts. Error message:
+HTTP error 404.
+"
+08-07-2015,LQDT,6933,30.280001,30.73,30.219999,30.66,1591400,26.405079,"Error in getSymbols.yahoo(Symbols = ""LQDT"", env = <environment>, verbose = FALSE,  : 
+  Unable to import “LQDT”.
+LQDT download failed after two attempts. Error message:
+HTTP error 404.
+"
+08-06-2015,DISCA,6938,29.01,29.959999,28.200001,29.879999,12320500,29.879999,None
+08-04-2015,BAX,6943,40.41,41.080002,39.75,40.310001,76058800,40.310001,None
+07-31-2015,LNT,6948,30.73,31.035,30.59,30.754999,864400,26.486893,None
+07-29-2015,CVC,6953,30.73,31.035,30.59,30.754999,864400,26.486893,"Error in getSymbols.yahoo(Symbols = ""CVC"", env = <environment>, verbose = FALSE,  : 
+  Unable to import “CVC”.
+CVC download failed after two attempts. Error message:
+HTTP error 404.
+"
+08-05-2015,WPX,6958,7.83,8.08,7.34,7.38,10601200,7.38,None
+08-04-2015,VLP,6963,46.5,47.509998,45.91,46.43,664398,41.328003,None
+03-13-2014,GE,6968,25,25,24.240385,24.365385,39379700,24.365385,None
+02-19-2014,VAR,6973,72.344254,72.896698,71.695343,71.712883,580400,71.712883,None
+02-25-2014,DHR,6978,57.952995,58.43063,57.778622,58.241093,3503000,38.200848,None
+02-19-2014,ACE,6983,57.952995,58.43063,57.778622,58.241093,3503000,38.200848,"Error in getSymbols.yahoo(Symbols = ""ACE"", env = <environment>, verbose = FALSE,  : 
+  Unable to import “ACE”.
+ACE download failed after two attempts. Error message:
+HTTP error 404.
+"
+08-04-2015,GE,6994,24.89423,25.057692,24.836538,24.903847,22864600,24.903847,None
+08-04-2015,BIIB,6999,325.880005,334.799988,324.519989,330.380005,3586200,330.380005,None
+08-27-2015,CAT,7004,75.040001,76.220001,74.230003,75.660004,8537700,64.444023,None
+09-04-2014,IJH,7010,144.009995,144.610001,143.100006,143.419998,824300,143.419998,None
+09-02-2014,AMLP,7015,19.33,19.35,19.23,19.26,2775500,12.223514,None
+07-27-2015,AAPL,7020,123.089996,123.610001,122.120003,122.769997,44455500,113.145889,None
+07-16-2015,NBL,7025,123.089996,123.610001,122.120003,122.769997,44455500,113.145889,"Error in getSymbols.yahoo(Symbols = ""NBL"", env = <environment>, verbose = FALSE,  : 
+  Unable to import “NBL”.
+NBL download failed after two attempts. Error message:
+HTTP error 404.
+"
+03-13-2014,JPM,7031,58,58.34,57.189999,57.419998,17192500,48.24004,None
+02-19-2014,ORCL,7036,37.830002,38.299999,37.799999,37.869999,12491400,34.396687,None
+03-13-2014,BEAV,7041,37.830002,38.299999,37.799999,37.869999,12491400,34.396687,"Error in getSymbols.yahoo(Symbols = ""BEAV"", env = <environment>, verbose = FALSE,  : 
+  Unable to import “BEAV”.
+BEAV download failed after two attempts. Error message:
+HTTP error 404.
+"
+02-19-2014,EL,7046,67.699997,68.230003,67.360001,67.389999,1843300,62.499722,None
+03-13-2014,AAPL,7051,76.777145,77.094284,75.594284,75.807144,64435700,68.278328,None
+02-19-2014,TWX,7056,76.777145,77.094284,75.594284,75.807144,64435700,68.278328,"Error in getSymbols.yahoo(Symbols = ""TWX"", env = <environment>, verbose = FALSE,  : 
+  Unable to import “TWX”.
+TWX download failed after two attempts. Error message:
+HTTP error 404.
+"
+02-25-2014,PANW,7061,76.68,77.07,74.809998,74.949997,1516400,74.949997,None
+02-19-2014,CLX,7066,87.099998,87.57,86.660004,86.870003,798400,73.542007,None
+05-27-2015,KORS,7072,87.099998,87.57,86.660004,86.870003,798400,73.542007,"Error in getSymbols.yahoo(Symbols = ""KORS"", env = <environment>, verbose = FALSE,  : 
+  Unable to import “KORS”.
+KORS download failed after two attempts. Error message:
+HTTP error 404.
+"
+05-07-2015,PCAR,7077,87.099998,87.57,86.660004,86.870003,798400,73.542007,"Error in getSymbols.yahoo(Symbols = ""PCAR"", env = <environment>, verbose = FALSE,  : 
+  Unable to import “PCAR”.
+PCAR download failed after two attempts. Error message:
+HTTP error 404.
+"
+05-07-2015,NFLX,7082,87.099998,87.57,86.660004,86.870003,798400,73.542007,"Error in getSymbols.yahoo(Symbols = ""NFLX"", env = <environment>, verbose = FALSE,  : 
+  Unable to import “NFLX”.
+NFLX download failed after two attempts. Error message:
+HTTP error 404.
+"
+03-13-2014,KO,7087,38.450001,38.490002,37.919998,37.970001,18302800,31.294588,None
+02-19-2014,JPM,7092,58.360001,58.540001,57.220001,57.259998,18669900,48.105625,None
+02-25-2014,QLIK,7097,58.360001,58.540001,57.220001,57.259998,18669900,48.105625,"Error in getSymbols.yahoo(Symbols = ""QLIK"", env = <environment>, verbose = FALSE,  : 
+  Unable to import “QLIK”.
+QLIK download failed after two attempts. Error message:
+HTTP error 404.
+"
+04-29-2014,CMRE,7102,58.360001,58.540001,57.220001,57.259998,18669900,48.105625,"Error in getSymbols.yahoo(Symbols = ""CMRE"", env = <environment>, verbose = FALSE,  : 
+  Unable to import “CMRE”.
+CMRE download failed after two attempts. Error message:
+HTTP error 404.
+"
+04-17-2014,STT,7107,65,65.93,64.879997,65.529999,1922300,65.529999,None
+04-29-2014,KORS,7112,65,65.93,64.879997,65.529999,1922300,65.529999,"Error in getSymbols.yahoo(Symbols = ""KORS"", env = <environment>, verbose = FALSE,  : 
+  Unable to import “KORS”.
+KORS download failed after two attempts. Error message:
+HTTP error 404.
+"
+05-09-2014,HMC,7117,32.950001,33.009998,32.799999,32.93,1087700,27.495407,None
+10-15-2014,COF,7122,79.050003,80.190002,77.830002,79.209999,7118000,69.86277,None
+10-02-2014,KORS,7127,79.050003,80.190002,77.830002,79.209999,7118000,69.86277,"Error in getSymbols.yahoo(Symbols = ""KORS"", env = <environment>, verbose = FALSE,  : 
+  Unable to import “KORS”.
+KORS download failed after two attempts. Error message:
+HTTP error 404.
+"
+11-13-2014,PEP,7132,96.529999,98.959999,96.529999,98.540001,6257900,83.928513,None
+11-10-2014,F,7138,14.19,14.2,13.95,14,36413300,10.622912,None
+07-21-2015,NWN,7145,14.19,14.2,13.95,14,36413300,10.622912,"Error in getSymbols.yahoo(Symbols = ""NWN"", env = <environment>, verbose = FALSE,  : 
+  Unable to import “NWN”.
+NWN download failed after two attempts. Error message:
+HTTP error 404.
+"
+07-27-2015,DISCA,7158,31.610001,32.630001,31.1,31.540001,3785700,31.540001,None
+07-22-2015,CVC,7163,31.610001,32.630001,31.1,31.540001,3785700,31.540001,"Error in getSymbols.yahoo(Symbols = ""CVC"", env = <environment>, verbose = FALSE,  : 
+  Unable to import “CVC”.
+CVC download failed after two attempts. Error message:
+HTTP error 404.
+"
+07-21-2015,EBAY,7168,28.15,28.99,27.98,28.6,44336300,28.045803,None
+07-17-2015,WPX,7173,10.21,10.25,9.62,9.71,55933200,9.71,None
+07-13-2015,AAN,7179,36.830002,37.560001,36.669998,37.389999,593600,36.79417,None
+06-29-2015,CBS,7185,36.830002,37.560001,36.669998,37.389999,593600,36.79417,"Error in getSymbols.yahoo(Symbols = ""CBS"", env = <environment>, verbose = FALSE,  : 
+  Unable to import “CBS”.
+CBS download failed after two attempts. Error message:
+HTTP error 404.
+"
+07-10-2015,BIIB,7190,401,401.440002,381.859985,388.230011,3887500,388.230011,None
+06-15-2015,TRIP,7195,75.510002,76,74.760002,75.830002,1195700,67.433769,None
+07-23-2014,AMT,7200,93.18,93.300003,92.849998,92.959999,1232300,83.041138,None
+07-23-2014,DAL,7205,37.779999,39.299999,37.759998,39.150002,18509000,35.07695,None
+07-23-2014,ENLC,7210,40.580002,40.990002,40.380001,40.889999,85100,26.295359,None
+07-23-2014,HUB-B,7215,40.580002,40.990002,40.380001,40.889999,85100,26.295359,"Error in getSymbols.yahoo(Symbols = ""HUB-B"", env = <environment>, verbose = FALSE,  : 
+  Unable to import “HUB-B”.
+HUB-B download failed after two attempts. Error message:
+HTTP error 404.
+"
+07-23-2014,LECO,7220,67.550003,67.739998,66.830002,67.209999,229300,59.733135,None
+07-23-2014,PGH,7225,5.66,5.74,5.62,5.69,1928,5.69,None
+07-23-2014,PL,7230,5.66,5.74,5.62,5.69,1928,5.69,"Error in getSymbols.yahoo(Symbols = ""PL"", env = <environment>, verbose = FALSE,  : 
+  Unable to import “PL”.
+PL download failed after two attempts. Error message:
+HTTP error 400.
+"
+07-23-2014,MLPRX,7235,11.26,11.26,11.26,11.26,0,5.726076,None
+03-11-2014,VRX,7241,11.26,11.26,11.26,11.26,NA,5.726076,"Error in getSymbols.yahoo(Symbols = ""VRX"", env = <environment>, verbose = FALSE,  : 
+  Unable to import “VRX”.
+VRX download failed after two attempts. Error message:
+HTTP error 404.
+"
+06-19-2014,LMGEX,7248,11.26,11.26,11.26,11.26,NA,5.726076,"Error in getSymbols.yahoo(Symbols = ""LMGEX"", env = <environment>, verbose = FALSE,  : 
+  Unable to import “LMGEX”.
+LMGEX download failed after two attempts. Error message:
+HTTP error 404.
+"
+06-19-2014,TCAP,7253,2,2,2,2,0,2,None
+06-19-2014,PG,7258,2,2,2,2,NA,2,"Error in getSymbols.yahoo(Symbols = ""PG"", env = <environment>, verbose = FALSE,  : 
+  Unable to import “PG”.
+PG download failed after two attempts. Error message:
+HTTP error 404.
+"
+06-19-2014,OXY,7263,99.006065,99.293488,98.661163,99.015648,3295800,74.505463,None
+06-19-2014,GOOGL,7268,99.006065,99.293488,98.661163,99.015648,3295800,74.505463,"Error in getSymbols.yahoo(Symbols = ""GOOGL"", env = <environment>, verbose = FALSE,  : 
+  Unable to import “GOOGL”.
+GOOGL download failed after two attempts. Error message:
+HTTP error 404.
+"
+06-19-2014,C,7273,47.950001,47.970001,47.34,47.560001,15747900,43.289936,None
+01-15-2014,CVX,7279,119.690002,120.07,119.050003,119.18,5829300,92.704704,None
+01-28-2014,EBAY,7284,22.344276,22.567341,22.247475,22.373737,30691900,21.940189,None
+12-15-2014,TOLLX,7289,14.96,14.96,14.96,14.96,0,13.006357,None
+12-11-2014,DVFAX,7294,15.94,15.94,15.94,15.94,0,8.205895,None
+12-10-2014,BMGAX,7299,13.7,13.7,13.7,13.7,0,12.265017,None
+04-23-2014,GS,7304,160.259995,160.940002,159.279999,160.449997,2040600,146.505005,None
+04-10-2014,LOW,7309,47.490002,47.860001,46.75,46.790001,6203400,41.806587,None
+04-14-2014,GILD,7314,67.790001,68.389999,65.739998,66.790001,17988000,57.966682,None
+12-11-2014,WASCX,7319,67.790001,68.389999,65.739998,66.790001,17988000,57.966682,"Error in getSymbols.yahoo(Symbols = ""WASCX"", env = <environment>, verbose = FALSE,  : 
+  Unable to import “WASCX”.
+WASCX download failed after two attempts. Error message:
+HTTP error 404.
+"
+06-30-2015,ALTR,7324,67.790001,68.389999,65.739998,66.790001,17988000,57.966682,"Error in getSymbols.yahoo(Symbols = ""ALTR"", env = <environment>, verbose = FALSE,  : 
+  Unable to import “ALTR”.
+ALTR download failed after two attempts. Error message:
+HTTP error 404.
+"
+07-09-2015,VADDX,7332,49.25,49.25,49.25,49.25,0,40.908062,None
+07-09-2015,ACSDX,7337,49.25,49.25,49.25,49.25,NA,40.908062,"Error in getSymbols.yahoo(Symbols = ""ACSDX"", env = <environment>, verbose = FALSE,  : 
+  Unable to import “ACSDX”.
+ACSDX download failed after two attempts. Error message:
+HTTP error 404.
+"
+07-09-2015,PCLN,7342,49.25,49.25,49.25,49.25,NA,40.908062,"Error in getSymbols.yahoo(Symbols = ""PCLN"", env = <environment>, verbose = FALSE,  : 
+  Unable to import “PCLN”.
+PCLN download failed after two attempts. Error message:
+HTTP error 404.
+"
+06-09-2015,GILD,7349,113.220001,115.300003,113.150002,114.75,9566700,99.590897,None
+06-23-2015,PFS,7354,19.15,19.440001,19.15,19.4,173500,16.439939,None
+06-19-2015,CVC,7368,19.15,19.440001,19.15,19.4,173500,16.439939,"Error in getSymbols.yahoo(Symbols = ""CVC"", env = <environment>, verbose = FALSE,  : 
+  Unable to import “CVC”.
+CVC download failed after two attempts. Error message:
+HTTP error 404.
+"
+06-16-2015,STAG,7373,20.889999,20.9,20.66,20.83,754300,15.65531,None
+02-24-2015,SMEZ,7383,52.080002,52.32,52.080002,52.293999,1200,46.681202,None
+01-15-2015,CLX,7388,107.790001,108.970001,107.080002,107.389999,1173700,93.06321,None
+04-02-2015,AVP,7393,107.790001,108.970001,107.080002,107.389999,1173700,93.06321,"Error in getSymbols.yahoo(Symbols = ""AVP"", env = <environment>, verbose = FALSE,  : 
+  Unable to import “AVP”.
+AVP download failed after two attempts. Error message:
+HTTP error 404.
+"
+05-06-2015,SYY,7398,36.16,36.240002,35.84,35.970001,5775700,31.430347,None
+01-07-2015,AM,7403,24.15,24.549999,23.389999,23.98,262400,16.973925,None
+02-12-2015,WPZ,7408,46.110001,46.860001,45.990002,46.450001,1462343,34.633278,None
+02-19-2015,WPZ,7413,47.25,49.91,46.509998,49.580002,8109381,36.967022,None
+03-12-2015,ETE,7418,171,174,166.5,169.5,77491,169.5,None
+05-22-2015,PAA,7423,171,174,166.5,169.5,77491,169.5,"Error in getSymbols.yahoo(Symbols = ""PAA"", env = <environment>, verbose = FALSE,  : 
+  Unable to import “PAA”.
+PAA download failed after two attempts. Error message:
+HTTP error 404.
+"
+01-09-2015,CBS,7428,171,174,166.5,169.5,77491,169.5,"Error in getSymbols.yahoo(Symbols = ""CBS"", env = <environment>, verbose = FALSE,  : 
+  Unable to import “CBS”.
+CBS download failed after two attempts. Error message:
+HTTP error 404.
+"
+01-14-2015,WPX,7433,10.64,11.64,10.58,11.59,3473100,11.59,None
+01-27-2015,KN,7438,21.190001,22,21.120001,21.84,1055800,21.84,None
+02-03-2015,TAP,7443,21.190001,22,21.120001,21.84,1055800,21.84,"Error in getSymbols.yahoo(Symbols = ""TAP"", env = <environment>, verbose = FALSE,  : 
+  Unable to import “TAP”.
+TAP download failed after two attempts. Error message:
+HTTP error 404.
+"
+02-05-2015,KN,7448,22.41,23.040001,22.030001,22.9,867900,22.9,None
+02-10-2015,WOOF,7453,22.41,23.040001,22.030001,22.9,867900,22.9,"Error in getSymbols.yahoo(Symbols = ""WOOF"", env = <environment>, verbose = FALSE,  : 
+  Unable to import “WOOF”.
+WOOF download failed after two attempts. Error message:
+HTTP error 404.
+"
+02-13-2015,CBS,7458,22.41,23.040001,22.030001,22.9,867900,22.9,"Error in getSymbols.yahoo(Symbols = ""CBS"", env = <environment>, verbose = FALSE,  : 
+  Unable to import “CBS”.
+CBS download failed after two attempts. Error message:
+HTTP error 404.
+"
+02-26-2015,KN,7463,19.5,19.629999,19.16,19.25,991200,19.25,None
+03-06-2015,KN,7468,19.549999,19.709999,19.08,19.370001,1182900,19.370001,None
+03-11-2015,XLS-WI,7473,19.549999,19.709999,19.08,19.370001,1182900,19.370001,"Error in getSymbols.yahoo(Symbols = ""XLS-WI"", env = <environment>, verbose = FALSE,  : 
+  Unable to import “XLS-WI”.
+XLS-WI download failed after two attempts. Error message:
+HTTP error 404.
+"
+03-13-2015,DISCA,7478,32.25,32.450001,31.6,32.029999,4304700,32.029999,None
+03-16-2015,DISCA,7483,32.189999,32.639999,31.700001,32.599998,2332000,32.599998,None
+03-27-2015,WPX,7488,10.9,11,10.65,10.7,5026700,10.7,None
+04-24-2015,KN,7493,20.27,21.98,19.959999,20.08,3572300,20.08,None
+05-07-2015,PFE,7498,33.439999,33.75,33.330002,33.580002,21508500,27.959661,None
+05-14-2015,DISCA,7503,31.51,31.799999,31.219999,31.4,3184900,31.4,None
+05-27-2015,KORS,7515,31.51,31.799999,31.219999,31.4,3184900,31.4,"Error in getSymbols.yahoo(Symbols = ""KORS"", env = <environment>, verbose = FALSE,  : 
+  Unable to import “KORS”.
+KORS download failed after two attempts. Error message:
+HTTP error 404.
+"
+05-07-2015,PCAR,7520,31.51,31.799999,31.219999,31.4,3184900,31.4,"Error in getSymbols.yahoo(Symbols = ""PCAR"", env = <environment>, verbose = FALSE,  : 
+  Unable to import “PCAR”.
+PCAR download failed after two attempts. Error message:
+HTTP error 404.
+"
+05-07-2015,NFLX,7525,31.51,31.799999,31.219999,31.4,3184900,31.4,"Error in getSymbols.yahoo(Symbols = ""NFLX"", env = <environment>, verbose = FALSE,  : 
+  Unable to import “NFLX”.
+NFLX download failed after two attempts. Error message:
+HTTP error 404.
+"
+04-29-2015,AMZN,7537,426.75,434.23999,426.029999,429.369995,3621700,429.369995,None
+05-13-2015,VRTX,7547,131.25,131.360001,125,125.519997,3879400,125.519997,None
+04-27-2015,PG,7553,131.25,131.360001,125,125.519997,3879400,125.519997,"Error in getSymbols.yahoo(Symbols = ""PG"", env = <environment>, verbose = FALSE,  : 
+  Unable to import “PG”.
+PG download failed after two attempts. Error message:
+HTTP error 404.
+"
+03-14-2014,DD,7558,69.142441,69.768684,68.971649,69.242073,6436900,57.83485,None
+12-17-2012,DD,7563,44.804531,45.288445,44.676437,45.288445,5535000,38.41954,None
+03-11-2014,VRX,7571,44.804531,45.288445,44.676437,45.288445,5535000,38.41954,"Error in getSymbols.yahoo(Symbols = ""VRX"", env = <environment>, verbose = FALSE,  : 
+  Unable to import “VRX”.
+VRX download failed after two attempts. Error message:
+HTTP error 404.
+"
+01-15-2014,CVX,7576,119.690002,120.07,119.050003,119.18,5829300,92.704704,None
+01-28-2014,EBAY,7581,22.344276,22.567341,22.247475,22.373737,30691900,21.940189,None
+06-19-2014,WY,7587,30.82,30.940001,30.709999,30.870001,4391500,24.307779,None
+06-19-2014,SRCL,7592,118.07,118.07,117.18,117.699997,370900,117.699997,None
+06-19-2014,PX,7597,118.07,118.07,117.18,117.699997,370900,117.699997,"Error in getSymbols.yahoo(Symbols = ""PX"", env = <environment>, verbose = FALSE,  : 
+  Unable to import “PX”.
+PX download failed after two attempts. Error message:
+HTTP error 400.
+"
+06-19-2014,MCHP,7602,49.32,49.32,48.880001,49.189999,2761500,43.250416,None
+06-19-2014,GS,7607,170,170.160004,168.929993,169.729996,2306900,155.507172,None
+06-19-2014,CMO,7612,13.25,13.33,13.25,13.29,623600,13.29,None
+05-04-2015,TBF,7617,25.040001,25.370001,25.01,25.35,1666300,24.66934,None
+04-24-2015,BA,7625,149.539993,149.860001,148.020004,148.399994,4889200,129.595718,None
+04-14-2015,EMR,7633,58.16,58.59,57.959999,58.330002,4561700,49.19418,None
+04-23-2015,EMC,7638,5863.22998,5863.22998,5688.209961,5775.720215,499,5775.720215,None
+04-06-2015,SSYS,7647,52.34,53.889999,51.860001,53.380001,1407200,53.380001,None
+04-13-2015,UA,7652,52.34,53.889999,51.860001,53.380001,1407200,53.380001,"Error in getSymbols.yahoo(Symbols = ""UA"", env = <environment>, verbose = FALSE,  : 
+  Unable to import “UA”.
+UA download failed after two attempts. Error message:
+HTTP error 400.
+"
+09-02-2014,IDV,7657,52.34,53.889999,51.860001,53.380001,1407200,53.380001,"Error in getSymbols.yahoo(Symbols = ""IDV"", env = <environment>, verbose = FALSE,  : 
+  Unable to import “IDV”.
+IDV download failed after two attempts. Error message:
+HTTP error 404.
+"
+09-02-2014,ILF,7662,52.34,53.889999,51.860001,53.380001,1407200,53.380001,"Error in getSymbols.yahoo(Symbols = ""ILF"", env = <environment>, verbose = FALSE,  : 
+  Unable to import “ILF”.
+ILF download failed after two attempts. Error message:
+HTTP error 404.
+"
+03-19-2015,CVX,7667,105.099998,105.400002,104.650002,104.75,7841900,85.214813,None
+06-05-2014,PPL,7674,105.099998,105.400002,104.650002,104.75,7841900,85.214813,"Error in getSymbols.yahoo(Symbols = ""PPL"", env = <environment>, verbose = FALSE,  : 
+  Unable to import “PPL”.
+PPL download failed after two attempts. Error message:
+HTTP error 404.
+"
+03-16-2015,DVN,7684,57.119999,58.799999,56.790001,58.75,3568300,54.599892,None
+03-17-2015,AAPL,7689,125.900002,127.32,125.650002,127.040001,51023100,116.594139,None
+03-13-2015,ETY,7694,11.38,11.4,11.29,11.39,266600,7.141745,None
+03-06-2015,SBUX,7699,46.650002,46.849998,45.939999,46.110001,6814400,41.964058,None
+02-11-2015,PFS,7704,18.23,18.26,18.049999,18.23,136700,15.313313,None
+01-30-2015,XLV,7709,70.07,70.529999,69.169998,69.269997,13886500,63.411312,None
+01-05-2015,PCY,7714,70.07,70.529999,69.169998,69.269997,13886500,63.411312,"Error in getSymbols.yahoo(Symbols = ""PCY"", env = <environment>, verbose = FALSE,  : 
+  Unable to import “PCY”.
+PCY download failed after two attempts. Error message:
+HTTP error 404.
+"
+02-23-2015,KORS,7719,70.07,70.529999,69.169998,69.269997,13886500,63.411312,"Error in getSymbols.yahoo(Symbols = ""KORS"", env = <environment>, verbose = FALSE,  : 
+  Unable to import “KORS”.
+KORS download failed after two attempts. Error message:
+HTTP error 404.
+"
+03-10-2015,STT,7724,72.629997,72.779999,71.339996,71.339996,3022500,71.339996,None
+08-26-2014,COST,7732,121.43,121.589996,120.860001,121.089996,1385400,106.007202,None
+02-25-2015,ABBV,7737,61.099998,61.099998,60.209999,60.619999,9983900,47.938831,None
+03-03-2015,MYL,7742,56.759998,57.200001,55,55.439999,6511100,55.439999,None
+02-12-2015,ABBV,7752,57.400002,57.580002,56.16,57.049999,11940900,45.11565,None
+02-20-2015,HBI,7760,29.6,30.559999,29.5725,30.4625,2578000,26.609716,None
+02-20-2015,HAL,7769,44.099998,44.34,43.279999,43.360001,17450600,43.360001,None
+02-20-2015,AXP,7774,78.220001,79.879997,78.199997,79.830002,11348700,73.392815,None
+02-20-2015,MMM,7780,166.740005,168.270004,165.130005,168.119995,2416600,146.482147,None
+02-13-2015,JCOM,7786,66,67.279999,64.209999,65.830002,2014700,60.288979,None
+02-13-2015,TYPE,7791,66,67.279999,64.209999,65.830002,2014700,60.288979,"Error in getSymbols.yahoo(Symbols = ""TYPE"", env = <environment>, verbose = FALSE,  : 
+  Unable to import “TYPE”.
+TYPE download failed after two attempts. Error message:
+HTTP error 404.
+"
+02-13-2015,THS,7796,80.160004,81.239998,79.650002,80,1120800,80,None
+02-13-2015,SWI,7801,80.160004,81.239998,79.650002,80,1120800,80,"Error in getSymbols.yahoo(Symbols = ""SWI"", env = <environment>, verbose = FALSE,  : 
+  Unable to import “SWI”.
+SWI download failed after two attempts. Error message:
+HTTP error 400.
+"
+02-13-2015,SIGI,7806,27.530001,27.73,27.200001,27.360001,129900,25.473019,None
+02-13-2015,RBA,7811,26.6,26.870001,26.48,26.709999,282600,23.510189,None
+02-13-2015,PRAA,7816,53,53.290001,52.080002,52.740002,246000,52.740002,None
+02-13-2015,PEB,7821,53,53.290001,52.080002,52.740002,246000,52.740002,"Error in getSymbols.yahoo(Symbols = ""PEB"", env = <environment>, verbose = FALSE,  : 
+  Unable to import “PEB”.
+PEB download failed after two attempts. Error message:
+HTTP error 404.
+"
+02-13-2015,NICE,7826,54.110001,54.700001,54.049999,54.290001,139000,53.104362,None
+02-13-2015,MASI,7831,27.639999,27.870001,27.190001,27.379999,577200,27.379999,None
+02-13-2015,JJSF,7836,100.279999,100.809998,98.660004,100.080002,56800,93.437119,None
+02-13-2015,IART,7841,28.280001,28.459999,27.955,28.445,334200,28.445,None
+02-13-2015,GMED,7846,24.34,24.870001,24.34,24.85,202300,24.85,None
+02-13-2015,EPAY,7851,26.450001,27.26,26.450001,27.07,142300,27.07,None
+02-13-2015,CYBX,7856,26.450001,27.26,26.450001,27.07,142300,27.07,"Error in getSymbols.yahoo(Symbols = ""CYBX"", env = <environment>, verbose = FALSE,  : 
+  Unable to import “CYBX”.
+CYBX download failed after two attempts. Error message:
+HTTP error 400.
+"
+02-13-2015,CMN,7861,26.450001,27.26,26.450001,27.07,142300,27.07,"Error in getSymbols.yahoo(Symbols = ""CMN"", env = <environment>, verbose = FALSE,  : 
+  Unable to import “CMN”.
+CMN download failed after two attempts. Error message:
+HTTP error 404.
+"
+02-13-2015,BMR,7866,26.450001,27.26,26.450001,27.07,142300,27.07,"Error in getSymbols.yahoo(Symbols = ""BMR"", env = <environment>, verbose = FALSE,  : 
+  Unable to import “BMR”.
+BMR download failed after two attempts. Error message:
+HTTP error 404.
+"
+02-13-2015,ATRO,7871,34.890079,36.73246,34.755741,36.636505,205300,36.636505,None
+02-13-2015,ABCO,7876,34.890079,36.73246,34.755741,36.636505,205300,36.636505,"Error in getSymbols.yahoo(Symbols = ""ABCO"", env = <environment>, verbose = FALSE,  : 
+  Unable to import “ABCO”.
+ABCO download failed after two attempts. Error message:
+HTTP error 404.
+"
+01-16-2015,ZNGA,7883,34.890079,36.73246,34.755741,36.636505,205300,36.636505,"Error in getSymbols.yahoo(Symbols = ""ZNGA"", env = <environment>, verbose = FALSE,  : 
+  Unable to import “ZNGA”.
+ZNGA download failed after two attempts. Error message:
+HTTP error 404.
+"
+01-16-2015,NFLX,7888,34.890079,36.73246,34.755741,36.636505,205300,36.636505,"Error in getSymbols.yahoo(Symbols = ""NFLX"", env = <environment>, verbose = FALSE,  : 
+  Unable to import “NFLX”.
+NFLX download failed after two attempts. Error message:
+HTTP error 404.
+"
+01-22-2015,PNQI,7897,34.890079,36.73246,34.755741,36.636505,205300,36.636505,"Error in getSymbols.yahoo(Symbols = ""PNQI"", env = <environment>, verbose = FALSE,  : 
+  Unable to import “PNQI”.
+PNQI download failed after two attempts. Error message:
+HTTP error 404.
+"
+01-23-2015,ACE,7905,34.890079,36.73246,34.755741,36.636505,205300,36.636505,"Error in getSymbols.yahoo(Symbols = ""ACE"", env = <environment>, verbose = FALSE,  : 
+  Unable to import “ACE”.
+ACE download failed after two attempts. Error message:
+HTTP error 404.
+"
+01-13-2015,UL,7910,41.040001,41.09,40.330002,40.630001,1112300,34.495186,None
+01-13-2015,AXP,7915,90.269997,91.139999,88.43,89.230003,3537600,82.034843,None
+12-18-2014,TOLLX,7921,14.73,14.73,14.73,14.73,0,13.474346,None
+12-11-2015,DVFAX,7926,14.01,14.01,14.01,14.01,0,7.827143,None
+12-11-2014,MIK,7935,14.01,14.01,14.01,14.01,NA,7.827143,"Error in getSymbols.yahoo(Symbols = ""MIK"", env = <environment>, verbose = FALSE,  : 
+  Unable to import “MIK”.
+MIK download failed after two attempts. Error message:
+HTTP error 404.
+"
+11-25-2014,PCAR,7940,14.01,14.01,14.01,14.01,NA,7.827143,"Error in getSymbols.yahoo(Symbols = ""PCAR"", env = <environment>, verbose = FALSE,  : 
+  Unable to import “PCAR”.
+PCAR download failed after two attempts. Error message:
+HTTP error 404.
+"
+12-18-2014,AMGN,7945,166.100006,168.589996,164.580002,168.479996,3511800,146.541245,None
+12-18-2014,T,7950,33.02,33.509998,32.849998,33.509998,37622700,24.740463,None
+12-18-2014,T,7956,33.02,33.509998,32.849998,33.509998,37622700,24.740463,None
+11-11-2014,MDLZ,7962,33.02,33.509998,32.849998,33.509998,37622700,24.740463,"Error in getSymbols.yahoo(Symbols = ""MDLZ"", env = <environment>, verbose = FALSE,  : 
+  Unable to import “MDLZ”.
+MDLZ download failed after two attempts. Error message:
+HTTP error 404.
+"
+11-13-2014,BIDU,7967,33.02,33.509998,32.849998,33.509998,37622700,24.740463,"Error in getSymbols.yahoo(Symbols = ""BIDU"", env = <environment>, verbose = FALSE,  : 
+  Unable to import “BIDU”.
+BIDU download failed after two attempts. Error message:
+HTTP error 404.
+"
+11-10-2014,FOXA,7978,33.02,33.509998,32.849998,33.509998,37622700,24.740463,"Error in getSymbols.yahoo(Symbols = ""FOXA"", env = <environment>, verbose = FALSE,  : 
+  Unable to import “FOXA”.
+FOXA download failed after two attempts. Error message:
+HTTP error 400.
+"
+11-10-2014,HSIC,7983,50.658825,51.007843,50.564705,50.831371,1187700,50.831371,None
+11-10-2014,INTC,7988,33.43,33.490002,33.080002,33.259998,30653600,28.625547,None
+11-10-2014,CVX,7993,119.580002,119.669998,117.309998,117.919998,6114600,94.122543,None
+11-10-2014,T,7998,35.060001,35.139999,34.66,35.119999,17921700,25.929127,None
+10-29-2014,CSCO,8003,35.060001,35.139999,34.66,35.119999,17921700,25.929127,"Error in getSymbols.yahoo(Symbols = ""CSCO"", env = <environment>, verbose = FALSE,  : 
+  Unable to import “CSCO”.
+CSCO download failed after two attempts. Error message:
+HTTP error 404.
+"
+11-10-2014,DHR,8009,61.546627,61.789234,61.41774,61.630024,2599200,40.443562,None
+11-10-2014,F,8014,14.19,14.2,13.95,14,36413300,10.622912,None
+10-02-2014,SBUX,8025,37.205002,37.5,36.889999,37.224998,8573600,33.615891,None
+10-07-2014,UL,8030,40.689999,40.790001,40.400002,40.419998,1090400,34.00565,None
+10-02-2014,UL,8035,41,41.02,40.759998,40.950001,2083100,34.451553,None
+09-29-2014,SBUX,8041,37.275002,37.759998,37.224998,37.634998,6366400,33.986134,None
+09-12-2014,NFLX,8053,37.275002,37.759998,37.224998,37.634998,6366400,33.986134,"Error in getSymbols.yahoo(Symbols = ""NFLX"", env = <environment>, verbose = FALSE,  : 
+  Unable to import “NFLX”.
+NFLX download failed after two attempts. Error message:
+HTTP error 404.
+"
+08-26-2014,PEP,8058,93.209999,93.510002,92.559998,92.599998,3143400,78.310677,None
+08-27-2014,ESS,8063,191.830002,192.960007,191.830002,192.960007,382400,163.033554,None
+08-27-2014,ETN,8068,70,70.260002,69.650002,69.769997,1826100,34.415581,None
+09-18-2014,EL,8073,74.809998,75.300003,74.699997,74.959999,1153400,70.093536,None
+09-16-2014,SLB,8078,102.870003,105.849998,102.860001,104.959999,6676400,86.507797,None
+09-02-2014,NXPI,8083,102.870003,105.849998,102.860001,104.959999,6676400,86.507797,"Error in getSymbols.yahoo(Symbols = ""NXPI"", env = <environment>, verbose = FALSE,  : 
+  Unable to import “NXPI”.
+NXPI download failed after two attempts. Error message:
+HTTP error 404.
+"
+09-02-2014,SDY,8088,77,77.160004,76.690002,76.870003,614800,60.52459,None
+08-08-2014,NKE,8093,38.154999,38.549999,37.950001,38.529999,6714800,35.161415,None
+08-08-2014,AAPL,8098,94.260002,94.82,93.279999,94.739998,41865000,86.234283,None
+08-08-2014,NFLX,8103,94.260002,94.82,93.279999,94.739998,41865000,86.234283,"Error in getSymbols.yahoo(Symbols = ""NFLX"", env = <environment>, verbose = FALSE,  : 
+  Unable to import “NFLX”.
+NFLX download failed after two attempts. Error message:
+HTTP error 404.
+"
+08-26-2014,AAPL,8115,101.419998,101.5,100.860001,100.889999,33152000,91.832115,None
+07-21-2014,DE,8120,87.400002,88.059998,87.199997,87.639999,2590800,76.755844,None
+07-29-2014,VOD,8125,87.400002,88.059998,87.199997,87.639999,2590800,76.755844,"Error in getSymbols.yahoo(Symbols = ""VOD"", env = <environment>, verbose = FALSE,  : 
+  Unable to import “VOD”.
+VOD download failed after two attempts. Error message:
+HTTP error 404.
+"
+07-25-2014,RYAM,8131,38.549999,39.900002,38.549999,39.119999,1225700,35.120937,None
+07-23-2014,AMT,8136,93.18,93.300003,92.849998,92.959999,1232300,83.041138,None
+07-23-2014,DAL,8141,37.779999,39.299999,37.759998,39.150002,18509000,35.079094,None
+07-23-2014,ENLC,8146,40.580002,40.990002,40.380001,40.889999,85100,26.297865,None
+07-23-2014,HUB-B,8151,40.580002,40.990002,40.380001,40.889999,85100,26.297865,"Error in getSymbols.yahoo(Symbols = ""HUB-B"", env = <environment>, verbose = FALSE,  : 
+  Unable to import “HUB-B”.
+HUB-B download failed after two attempts. Error message:
+HTTP error 404.
+"
+07-23-2014,LECO,8156,67.550003,67.739998,66.830002,67.209999,229300,59.733135,None
+07-23-2014,PGH,8161,5.66,5.74,5.62,5.69,1928,5.69,None
+07-23-2014,PL,8166,5.66,5.74,5.62,5.69,1928,5.69,"Error in getSymbols.yahoo(Symbols = ""PL"", env = <environment>, verbose = FALSE,  : 
+  Unable to import “PL”.
+PL download failed after two attempts. Error message:
+HTTP error 400.
+"
+07-23-2014,MLPRX,8171,11.26,11.26,11.26,11.26,0,5.726076,None
+07-23-2014,FB,8176,69.739998,71.330002,69.610001,71.290001,78435000,71.290001,None
+07-28-2014,XRT,8181,42.264999,42.34,41.955002,42.119999,3560200,38.817123,None
+07-03-2014,SBUX,8196,39.195,39.700001,39.07,39.529999,6662600,35.577698,None
+07-07-2014,NFLX,8201,39.195,39.700001,39.07,39.529999,6662600,35.577698,"Error in getSymbols.yahoo(Symbols = ""NFLX"", env = <environment>, verbose = FALSE,  : 
+  Unable to import “NFLX”.
+NFLX download failed after two attempts. Error message:
+HTTP error 404.
+"
+06-24-2014,AMZN,8206,327.540009,329.730011,322.73999,324.160004,2626600,324.160004,None
+06-18-2014,BEAV,8211,327.540009,329.730011,322.73999,324.160004,2626600,324.160004,"Error in getSymbols.yahoo(Symbols = ""BEAV"", env = <environment>, verbose = FALSE,  : 
+  Unable to import “BEAV”.
+BEAV download failed after two attempts. Error message:
+HTTP error 404.
+"
+07-07-2014,LNKD,8216,327.540009,329.730011,322.73999,324.160004,2626600,324.160004,"Error in getSymbols.yahoo(Symbols = ""LNKD"", env = <environment>, verbose = FALSE,  : 
+  Unable to import “LNKD”.
+LNKD download failed after two attempts. Error message:
+HTTP error 404.
+"
+06-06-2014,RNWK,8248,7.45,7.63,7.45,7.5,37200,7.5,None
+06-19-2014,WMT,8253,75.879997,76.279999,75.800003,75.870003,5255300,75.870003,None
+06-19-2014,ROP,8258,150.449997,151.449997,146.460007,147.419998,299800,142.105469,None
+06-19-2014,PRGO,8263,150.449997,151.449997,146.460007,147.419998,299800,142.105469,"Error in getSymbols.yahoo(Symbols = ""PRGO"", env = <environment>, verbose = FALSE,  : 
+  Unable to import “PRGO”.
+PRGO download failed after two attempts. Error message:
+HTTP error 404.
+"
+06-19-2014,LVS,8268,74.440002,75.550003,74.43,74.910004,4110800,56.261349,None
+06-19-2014,FNF,8273,19.606213,19.713091,19.042133,19.249952,8761200,15.843897,None
+06-19-2014,AIT,8278,49.82,50.060001,49.330002,49.509998,136400,43.742886,None
+06-11-2014,LGP,8284,49.82,50.060001,49.330002,49.509998,136400,43.742886,"Error in getSymbols.yahoo(Symbols = ""LGP"", env = <environment>, verbose = FALSE,  : 
+  Unable to import “LGP”.
+LGP download failed after two attempts. Error message:
+HTTP error 404.
+"
+05-29-2014,UL,8290,44.939999,45,44.84,44.93,790400,37.466999,None
+05-30-2014,OKE,8298,64.660004,64.790001,64.309998,64.489998,1184200,45.586063,None
+05-07-2014,VR,8306,37.049999,37.759998,36.889999,37.669998,684543,37.669998,None
+05-07-2014,UL,8311,43.950001,44.200001,43.919998,44.139999,874400,36.80822,None
+05-07-2014,TAL,8316,43.950001,44.200001,43.919998,44.139999,874400,36.80822,"Error in getSymbols.yahoo(Symbols = ""TAL"", env = <environment>, verbose = FALSE,  : 
+  Unable to import “TAL”.
+TAL download failed after two attempts. Error message:
+HTTP error 404.
+"
+05-07-2014,RHHBY,8321,36.189999,36.220001,35.849998,35.950001,775900,29.661631,None
+05-07-2014,ORCL,8326,41.150002,41.279999,40.490002,41.060001,12570400,37.405293,None
+05-07-2014,MXIM,8331,31.93,32.040001,31.66,31.950001,2071900,26.284948,None
+05-07-2014,IP,8336,45.285995,46.153847,45.285995,45.946747,2576300,36.523136,None
+05-07-2014,HNI,8341,35.169998,35.509998,34.700001,35.200001,261000,35.200001,None
+05-07-2014,FB,8346,58.77,59.299999,56.259998,57.389999,78587000,57.389999,None
+05-07-2014,CY,8351,58.77,59.299999,56.259998,57.389999,78587000,57.389999,"Error in getSymbols.yahoo(Symbols = ""CY"", env = <environment>, verbose = FALSE,  : 
+  Unable to import “CY”.
+CY download failed after two attempts. Error message:
+HTTP error 404.
+"
+05-07-2014,CHCO,8356,42.09,42.599998,41.259998,42.5,48100,42.5,None
+05-07-2014,ALV,8361,42.09,42.599998,41.259998,42.5,48100,42.5,"Error in getSymbols.yahoo(Symbols = ""ALV"", env = <environment>, verbose = FALSE,  : 
+  Unable to import “ALV”.
+ALV download failed after two attempts. Error message:
+HTTP error 404.
+"
+04-29-2014,CMRE,8366,42.09,42.599998,41.259998,42.5,48100,42.5,"Error in getSymbols.yahoo(Symbols = ""CMRE"", env = <environment>, verbose = FALSE,  : 
+  Unable to import “CMRE”.
+CMRE download failed after two attempts. Error message:
+HTTP error 404.
+"
+04-17-2014,CVS,8371,42.09,42.599998,41.259998,42.5,48100,42.5,"Error in getSymbols.yahoo(Symbols = ""CVS"", env = <environment>, verbose = FALSE,  : 
+  Unable to import “CVS”.
+CVS download failed after two attempts. Error message:
+HTTP error 404.
+"
+04-29-2014,JPM,8376,55.73,56.310001,55.57,56.099998,13453400,47.428143,None
+05-09-2014,ETN,8381,72,72.010002,71.18,71.620003,1939700,35.414238,None
+04-28-2014,UNH,8386,72,72.010002,71.18,71.620003,1939700,35.414238,"Error in getSymbols.yahoo(Symbols = ""UNH"", env = <environment>, verbose = FALSE,  : 
+  Unable to import “UNH”.
+UNH download failed after two attempts. Error message:
+HTTP error 404.
+"
+04-28-2014,ABBV,8394,49.549999,50.919998,49.5,50.869999,7932200,39.334663,None
+04-22-2014,KO,8407,40.580002,40.759998,40.419998,40.709999,17404900,33.552879,None
+04-21-2014,SCHW,8412,27.02,27.190001,26.65,27.17,6008500,25.274029,None
+04-10-2014,LBTYA,8417,40.799999,40.959999,39.599998,39.639999,5211500,39.639999,None
+04-11-2014,DAL,8422,32.880001,33.849998,32.27,32.52,12681600,29.090326,None
+03-31-2014,ABBV,8427,51.34,51.700001,50.950001,51.400002,4813100,39.391933,None
+04-07-2014,HON,8439,51.34,51.700001,50.950001,51.400002,4813100,39.391933,"Error in getSymbols.yahoo(Symbols = ""HON"", env = <environment>, verbose = FALSE,  : 
+  Unable to import “HON”.
+HON download failed after two attempts. Error message:
+HTTP error 404.
+"
+03-28-2014,AAPL,8456,76.902855,76.991432,76.321426,76.694283,50141000,69.077377,None
+04-03-2014,M,8461,60.540001,60.799999,60.139999,60.599998,3093900,44.59457,None
+04-03-2014,CRM,8466,60.540001,60.799999,60.139999,60.599998,3093900,44.59457,"Error in getSymbols.yahoo(Symbols = ""CRM"", env = <environment>, verbose = FALSE,  : 
+  Unable to import “CRM”.
+CRM download failed after two attempts. Error message:
+HTTP error 404.
+"
+03-28-2014,DAL,8471,34.139999,34.689999,33.509998,33.529999,10434900,29.995651,None
+03-07-2014,AAPL,8479,75.870003,75.997147,75.150002,75.777145,55182400,68.251305,None
+03-03-2014,BIDU,8484,75.870003,75.997147,75.150002,75.777145,55182400,68.251305,"Error in getSymbols.yahoo(Symbols = ""BIDU"", env = <environment>, verbose = FALSE,  : 
+  Unable to import “BIDU”.
+BIDU download failed after two attempts. Error message:
+HTTP error 404.
+"
+03-27-2014,MSFT,8489,39.740002,39.970001,39.34,39.360001,35369200,34.557499,None
+03-13-2014,CLX,8494,86.980003,87.940002,86.769997,86.82,1076500,73.49968,None
+02-19-2014,ORCL,8499,37.830002,38.299999,37.799999,37.869999,12491400,34.396687,None
+03-13-2014,BEAV,8504,37.830002,38.299999,37.799999,37.869999,12491400,34.396687,"Error in getSymbols.yahoo(Symbols = ""BEAV"", env = <environment>, verbose = FALSE,  : 
+  Unable to import “BEAV”.
+BEAV download failed after two attempts. Error message:
+HTTP error 404.
+"
+02-19-2014,EL,8509,67.699997,68.230003,67.360001,67.389999,1843300,62.29467,None
+03-19-2014,CRM,8514,67.699997,68.230003,67.360001,67.389999,1843300,62.29467,"Error in getSymbols.yahoo(Symbols = ""CRM"", env = <environment>, verbose = FALSE,  : 
+  Unable to import “CRM”.
+CRM download failed after two attempts. Error message:
+HTTP error 404.
+"
+03-07-2014,FB,8519,71.080002,71.18,69.470001,69.800003,38927000,69.800003,None
+02-19-2014,VFC,8525,53.126179,53.860641,53.088512,53.361584,3099500,45.617832,None
+02-21-2014,VOD,8536,53.126179,53.860641,53.088512,53.361584,3099500,45.617832,"Error in getSymbols.yahoo(Symbols = ""VOD"", env = <environment>, verbose = FALSE,  : 
+  Unable to import “VOD”.
+VOD download failed after two attempts. Error message:
+HTTP error 404.
+"
+02-21-2014,EPD,8541,32.875,33.134998,32.529999,32.685001,2715200,22.619986,None
+02-10-2014,NSRGY,8546,75.419998,75.449997,75.07,75.449997,1082300,61.398361,None
+02-10-2014,CMRE,8551,75.419998,75.449997,75.07,75.449997,1082300,61.398361,"Error in getSymbols.yahoo(Symbols = ""CMRE"", env = <environment>, verbose = FALSE,  : 
+  Unable to import “CMRE”.
+CMRE download failed after two attempts. Error message:
+HTTP error 404.
+"
+02-19-2014,FB,8556,67.050003,69.080002,67,68.059998,62087100,68.059998,None
+02-04-2014,BA,8563,123.07,123.800003,120.529999,122.040001,9304100,103.504585,None
+02-06-2014,CVX,8568,110.110001,111.349998,109.910004,111.269997,7983300,86.551888,None
+01-30-2014,REGN,8586,287.630005,294.98999,284.619995,292.970001,980000,292.970001,None
+01-30-2014,CVS,8591,287.630005,294.98999,284.619995,292.970001,980000,292.970001,"Error in getSymbols.yahoo(Symbols = ""CVS"", env = <environment>, verbose = FALSE,  : 
+  Unable to import “CVS”.
+CVS download failed after two attempts. Error message:
+HTTP error 404.
+"
+01-24-2014,FB,8596,56.150002,56.419998,54.400002,54.450001,55200700,54.450001,None
