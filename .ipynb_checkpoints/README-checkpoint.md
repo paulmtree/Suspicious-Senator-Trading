@@ -11,22 +11,22 @@ Alternatively, HTML versions of these jupyter notebooks exist with the same name
 ## Motivations
 
 
-This project by my partner Ankush and I (Paul McCabe) was motivated largely by the news at the time of U.S. senators being investigated for making "suspicious" stock trades. Several senators made multi-million dollar sales right before the 2020 stock market plunge, a few directly opposite of the positive sentiment they expressed about the market. We wished to use a data-driven approach to see exactly how unusual these kind of trades were as well as how profiteable they were. <br><br> Since then, some of these senators have been investigated further by the SEC, some noticeable in our analysis (Kelly Loeffler) and others not (Richard Burr). 
+This project by my partner Ankush and I (Paul McCabe) was motivated largely by the news at the time of U.S. senators being investigated for making "suspicious" stock trades (April 2020). Several senators made multi-million dollar sales right before the 2020 stock market plunge, a few directly opposite of the positive sentiment they expressed about the market. We wished to use a data-driven approach to see exactly how unusual these kind of trades were as well as how profiteable they were. <br><br> Since then, some of these senators have been investigated further by the SEC, some noticeable in our analysis (Kelly Loeffler) and others not (Richard Burr). 
 
 
 ## Written Report
 
 
-![Screen%20Shot%202020-07-08%20at%201.00.33%20PM.png](attachment:Screen%20Shot%202020-07-08%20at%201.00.33%20PM.png)
+![Screen%20Shot%202020-07-08%20at%201.00.33%20PM.png](https://github.com/pkm29/big_data_final_project3/raw/master/picture1.png)
 
 
-A full report of this project written by Ankur and I is available [here](https://medium.com/@pkm29/identifying-suspicious-trading-among-u-s-senators-91a908432843). (15 minute read) <br> While Ankur's contributions were mostly towards writing the report and generating experimental data for future work, all code that appears in this writeup was written by me.
+A full report of this project written by Ankur and I is available [here](https://medium.com/@pkm29/identifying-suspicious-trading-among-u-s-senators-91a908432843). (15 minute read) <br> While Ankur's contributions were mostly towards writing the report and generating experimental data for future work, all code that appears in this document was written by me.
 
 
 ## Data Sources
 
 
-![Artboard%201.png](attachment:Artboard%201.png)
+![Artboard%201.png](https://github.com/pkm29/big_data_final_project3/raw/master/Artboard%201.png)
 
 
 #### Senator Stock Trading Data - senatestockwatcher.com
