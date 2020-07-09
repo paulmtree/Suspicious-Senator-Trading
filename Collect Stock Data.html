@@ -13116,14 +13116,15 @@ div#notebook {
 <div class="cell border-box-sizing text_cell rendered"><div class="prompt input_prompt">
 </div><div class="inner_cell">
 <div class="text_cell_render border-box-sizing rendered_html">
-<h1 id="Place-Stock-Trades-into-Senator-Dataframe">Place Stock Trades into Senator Dataframe<a class="anchor-link" href="#Place-Stock-Trades-into-Senator-Dataframe">&#182;</a></h1>
+<h1 id="Place-Stock-Trades-into-Senator-Dataframe">Place Stock Trades into Senator Dataframe<a class="anchor-link" href="#Place-Stock-Trades-into-Senator-Dataframe">&#182;</a></h1><p>Author: Paul McCabe</p>
+
 </div>
 </div>
 </div>
 <div class="cell border-box-sizing text_cell rendered"><div class="prompt input_prompt">
 </div><div class="inner_cell">
 <div class="text_cell_render border-box-sizing rendered_html">
-<h2 id="1.-Understanding-the-Senator-Trading-Report-(STR)-Dataframe">1. Understanding the Senator Trading Report (STR) Dataframe<a class="anchor-link" href="#1.-Understanding-the-Senator-Trading-Report-(STR)-Dataframe">&#182;</a></h2>
+<h3 id="Import-Senator-Trading-Report-(STR)-Dataframe">Import Senator Trading Report (STR) Dataframe<a class="anchor-link" href="#Import-Senator-Trading-Report-(STR)-Dataframe">&#182;</a></h3>
 </div>
 </div>
 </div>
@@ -13137,7 +13138,7 @@ div#notebook {
 <span class="k">try</span><span class="p">:</span>
     <span class="n">sen_df</span> <span class="o">=</span> <span class="n">pd</span><span class="o">.</span><span class="n">read_csv</span><span class="p">(</span><span class="s2">&quot;Senator Stock Trades/Senate Stock Watcher 04_16_2020 All Transactions.csv&quot;</span><span class="p">)</span>
 <span class="k">except</span><span class="p">:</span>
-    <span class="n">sen_df</span> <span class="o">=</span> <span class="n">pd</span><span class="o">.</span><span class="n">read_csv</span><span class="p">(</span><span class="s2">&quot;https://github.com/pkm29/big_data_final_project/raw/master/Senate%20Stock%20Trades/Senate%20Stock%20Watcher%2004_16_2020%20All%20Transactions.csv&quot;</span><span class="p">)</span>
+    <span class="n">sen_df</span> <span class="o">=</span> <span class="n">pd</span><span class="o">.</span><span class="n">read_csv</span><span class="p">(</span><span class="s2">&quot;https://github.com/pkm29/big_data_final_project3/raw/master/Senate%20Stock%20Trades/Senate%20Stock%20Watcher%2004_16_2020%20All%20Transactions.csv&quot;</span><span class="p">)</span>
 
 <span class="c1">#add an id column, some trades may be identical to others.</span>
 <span class="n">sen_df</span><span class="p">[</span><span class="s2">&quot;id&quot;</span><span class="p">]</span> <span class="o">=</span> <span class="n">sen_df</span><span class="o">.</span><span class="n">index</span> <span class="o">+</span> <span class="mi">1</span>
@@ -13531,14 +13532,14 @@ Sale (Partial): Selling some of that particular stock</p>
 <div class="cell border-box-sizing text_cell rendered"><div class="prompt input_prompt">
 </div><div class="inner_cell">
 <div class="text_cell_render border-box-sizing rendered_html">
-<h2 id="2.-Add-Data-to-STR-Dataframe">2. Add Data to STR Dataframe<a class="anchor-link" href="#2.-Add-Data-to-STR-Dataframe">&#182;</a></h2>
+<h2 id="Add-Data-to-Senator-Trading-Report-Dataframe">Add Data to Senator Trading Report Dataframe<a class="anchor-link" href="#Add-Data-to-Senator-Trading-Report-Dataframe">&#182;</a></h2>
 </div>
 </div>
 </div>
 <div class="cell border-box-sizing text_cell rendered"><div class="prompt input_prompt">
 </div><div class="inner_cell">
 <div class="text_cell_render border-box-sizing rendered_html">
-<h3 id="Import-Data">Import Data<a class="anchor-link" href="#Import-Data">&#182;</a></h3>
+<h3 id="Import-Stock-Industry-Data">Import Stock Industry Data<a class="anchor-link" href="#Import-Stock-Industry-Data">&#182;</a></h3>
 </div>
 </div>
 </div>
@@ -13559,12 +13560,12 @@ Sale (Partial): Selling some of that particular stock</p>
 <span class="k">try</span><span class="p">:</span>
     <span class="n">NYSE_df</span> <span class="o">=</span> <span class="n">pd</span><span class="o">.</span><span class="n">read_csv</span><span class="p">(</span><span class="s2">&quot;NYSEcompanylist.csv&quot;</span><span class="p">)</span>
 <span class="k">except</span><span class="p">:</span>
-    <span class="n">NYSE_df</span> <span class="o">=</span> <span class="n">pd</span><span class="o">.</span><span class="n">read_csv</span><span class="p">(</span><span class="s2">&quot;https://github.com/pkm29/big_data_final_project/raw/master/Stocks/NYSEcompanylist.csv&quot;</span><span class="p">)</span>
+    <span class="n">NYSE_df</span> <span class="o">=</span> <span class="n">pd</span><span class="o">.</span><span class="n">read_csv</span><span class="p">(</span><span class="s2">&quot;https://github.com/pkm29/big_data_final_project3/raw/master/Stocks/NYSEcompanylist.csv&quot;</span><span class="p">)</span>
     
 <span class="k">try</span><span class="p">:</span>
     <span class="n">NASDAQ_df</span> <span class="o">=</span> <span class="n">pd</span><span class="o">.</span><span class="n">read_csv</span><span class="p">(</span><span class="s2">&quot;NASDAQcompanylist.csv&quot;</span><span class="p">)</span>
 <span class="k">except</span><span class="p">:</span>
-    <span class="n">NASDAQ_df</span> <span class="o">=</span> <span class="n">pd</span><span class="o">.</span><span class="n">read_csv</span><span class="p">(</span><span class="s2">&quot;https://github.com/pkm29/big_data_final_project/raw/master/Stocks/NASDAQcompanylist.csv&quot;</span><span class="p">)</span>
+    <span class="n">NASDAQ_df</span> <span class="o">=</span> <span class="n">pd</span><span class="o">.</span><span class="n">read_csv</span><span class="p">(</span><span class="s2">&quot;https://github.com/pkm29/big_data_final_project3/raw/master/Stocks/NASDAQcompanylist.csv&quot;</span><span class="p">)</span>
     
 <span class="c1">#try:</span>
 <span class="c1">#    ASXL_df = pd.read_csv(&quot;ASXLcompanylist.csv&quot;)</span>
@@ -13698,7 +13699,7 @@ Sale (Partial): Selling some of that particular stock</p>
 <div class="cell border-box-sizing text_cell rendered"><div class="prompt input_prompt">
 </div><div class="inner_cell">
 <div class="text_cell_render border-box-sizing rendered_html">
-<h3 id="Create-script-for-R-Studio-to-use-quantmod">Create script for R Studio to use quantmod<a class="anchor-link" href="#Create-script-for-R-Studio-to-use-quantmod">&#182;</a></h3>
+<h3 id="Create-List-of-Stocks-and-Dates-to-be-Downloaded">Create List of Stocks and Dates to be Downloaded<a class="anchor-link" href="#Create-List-of-Stocks-and-Dates-to-be-Downloaded">&#182;</a></h3>
 </div>
 </div>
 </div>
@@ -13713,19 +13714,20 @@ Sale (Partial): Selling some of that particular stock</p>
 <div class="cell border-box-sizing text_cell rendered"><div class="prompt input_prompt">
 </div><div class="inner_cell">
 <div class="text_cell_render border-box-sizing rendered_html">
-<p>First we need to use the ticker column to match stock prices to each stock. We must then filter out rows that don't have ticker symbols, as some trades are for things such as municipal securities that don't have stock listings. Below is a count of transactions that don't have a ticker symbol, interestingly large number of stock transactions</p>
+<p>First we need to use the ticker column to match stock prices to each stock. We must then filter out rows that don't have ticker symbols, as some trades are for things such as municipal securities that don't have stock listings. Below is a count of transactions that don't have a ticker symbol, interestingly there are a large number of stock transactions.</p>
 
 </div>
 </div>
 </div>
 <div class="cell border-box-sizing code_cell rendered">
 <div class="input">
-<div class="prompt input_prompt">In&nbsp;[6]:</div>
+<div class="prompt input_prompt">In&nbsp;[14]:</div>
 <div class="inner_cell">
     <div class="input_area">
-<div class=" highlight hl-ipython3"><pre><span></span><span class="c1">#list(zip(sen_df.transaction_date, sen_df.ticker))</span>
+<div class=" highlight hl-ipython3"><pre><span></span><span class="c1">#Filter out entires where there is no ticker symbol</span>
 <span class="n">sen_df_tick_error</span> <span class="o">=</span> <span class="n">sen_df</span><span class="o">.</span><span class="n">loc</span><span class="p">[</span><span class="n">sen_df</span><span class="p">[</span><span class="s1">&#39;ticker&#39;</span><span class="p">]</span> <span class="o">==</span> <span class="s2">&quot;--&quot;</span><span class="p">]</span>
-<span class="nb">print</span><span class="p">(</span><span class="nb">len</span><span class="p">(</span><span class="n">sen_df_tick_error</span><span class="p">))</span>
+<span class="nb">print</span><span class="p">(</span><span class="s2">&quot;# of ticker errors: &quot;</span> <span class="o">+</span> <span class="nb">str</span><span class="p">(</span><span class="nb">len</span><span class="p">(</span><span class="n">sen_df_tick_error</span><span class="p">)))</span>
+<span class="nb">print</span><span class="p">(</span><span class="s2">&quot;# of ticker errors by transaction type&quot;</span><span class="p">)</span>
 <span class="n">sen_df_tick_error</span><span class="o">.</span><span class="n">asset_type</span><span class="o">.</span><span class="n">value_counts</span><span class="p">()</span>
 </pre></div>
 
@@ -13743,14 +13745,15 @@ Sale (Partial): Selling some of that particular stock</p>
 
 
 <div class="output_subarea output_stream output_stdout output_text">
-<pre>1872
+<pre># of ticker errors: 1872
+# of ticker errors by transaction type
 </pre>
 </div>
 </div>
 
 <div class="output_area">
 
-    <div class="prompt output_prompt">Out[6]:</div>
+    <div class="prompt output_prompt">Out[14]:</div>
 
 
 
@@ -13781,7 +13784,7 @@ Name: asset_type, dtype: int64</pre>
 </div>
 <div class="cell border-box-sizing code_cell rendered">
 <div class="input">
-<div class="prompt input_prompt">In&nbsp;[7]:</div>
+<div class="prompt input_prompt">In&nbsp;[9]:</div>
 <div class="inner_cell">
     <div class="input_area">
 <div class=" highlight hl-ipython3"><pre><span></span><span class="n">sen_error_count_df</span> <span class="o">=</span> <span class="n">pd</span><span class="o">.</span><span class="n">DataFrame</span><span class="p">({</span><span class="s1">&#39;num_error_transactions&#39;</span><span class="p">:</span> <span class="n">sen_df_tick_error</span><span class="o">.</span><span class="n">senator</span><span class="o">.</span><span class="n">value_counts</span><span class="p">()})</span>
@@ -13790,7 +13793,6 @@ Name: asset_type, dtype: int64</pre>
 <span class="n">sen_error_count_df</span><span class="p">[</span><span class="s1">&#39;error_trans/total_trans&#39;</span><span class="p">]</span> <span class="o">=</span> <span class="n">sen_error_count_df</span><span class="p">[</span><span class="s1">&#39;num_error_transactions&#39;</span><span class="p">]</span><span class="o">/</span><span class="n">sen_error_count_df</span><span class="p">[</span><span class="s1">&#39;total_transactions&#39;</span><span class="p">]</span>
 <span class="n">sen_error_count_df</span><span class="o">.</span><span class="n">style</span><span class="o">.</span><span class="n">format</span><span class="p">({</span><span class="s1">&#39;error_trans/total_trans&#39;</span><span class="p">:</span> <span class="s1">&#39;</span><span class="si">{:,.2f}</span><span class="s1">&#39;</span><span class="o">.</span><span class="n">format</span><span class="p">})</span>
 <span class="n">sen_error_count_df</span><span class="o">.</span><span class="n">head</span><span class="p">(</span><span class="mi">10</span><span class="p">)</span>
-<span class="c1">#sen_df_tick_error.loc[sen_df_tick_error[&#39;asset_type&#39;] == &#39;Stock&#39;].head()</span>
 </pre></div>
 
     </div>
@@ -13803,7 +13805,7 @@ Name: asset_type, dtype: int64</pre>
 
 <div class="output_area">
 
-    <div class="prompt output_prompt">Out[7]:</div>
+    <div class="prompt output_prompt">Out[9]:</div>
 
 
 
@@ -13869,28 +13871,28 @@ Name: asset_type, dtype: int64</pre>
       <td>0.103565</td>
     </tr>
     <tr>
-      <th>Lamar Alexander</th>
-      <td>59</td>
-      <td>59</td>
-      <td>1.000000</td>
-    </tr>
-    <tr>
       <th>Sheldon Whitehouse</th>
       <td>59</td>
       <td>859</td>
       <td>0.068685</td>
     </tr>
     <tr>
-      <th>Patrick J Toomey</th>
-      <td>39</td>
-      <td>272</td>
-      <td>0.143382</td>
+      <th>Lamar Alexander</th>
+      <td>59</td>
+      <td>59</td>
+      <td>1.000000</td>
     </tr>
     <tr>
       <th>Pat Roberts</th>
       <td>39</td>
       <td>407</td>
       <td>0.095823</td>
+    </tr>
+    <tr>
+      <th>Patrick J Toomey</th>
+      <td>39</td>
+      <td>272</td>
+      <td>0.143382</td>
     </tr>
     <tr>
       <th>Angus S King, Jr.</th>
@@ -13912,7 +13914,7 @@ Name: asset_type, dtype: int64</pre>
 <div class="cell border-box-sizing text_cell rendered"><div class="prompt input_prompt">
 </div><div class="inner_cell">
 <div class="text_cell_render border-box-sizing rendered_html">
-<p>It appears some senators make many errors with their ticker symbol, since we cannot analyze these for their profits just yet, we will put this to the side to examine later. Note that senators such as Thomas R Carper, Rick Scott, and Lamar Alexander have large numbers of trades with no ticker symbol</p>
+<p>It appears some senators make many errors with their ticker symbol, since we cannot analyze these for their profits just yet, we will put this to the side to examine later. Note that senators such as Thomas R Carper, Rick Scott, and Lamar Alexander have large numbers of trades with no ticker symbol compared to their overal number of transactions. Perhaps these trades were excluded in other senator stock trading analyses projects as well.</p>
 
 </div>
 </div>
@@ -13920,14 +13922,14 @@ Name: asset_type, dtype: int64</pre>
 <div class="cell border-box-sizing text_cell rendered"><div class="prompt input_prompt">
 </div><div class="inner_cell">
 <div class="text_cell_render border-box-sizing rendered_html">
-<p>We will then remove rows where there is no ticker. Next we need a list of tickers and dates to send to our RStudio script to get the stock data.</p>
+<p>We will then remove rows where there is no ticker. Next we need a list of tickers and dates to send to our RStudio script to get the stock price for these transaction dates.</p>
 
 </div>
 </div>
 </div>
 <div class="cell border-box-sizing code_cell rendered">
 <div class="input">
-<div class="prompt input_prompt">In&nbsp;[8]:</div>
+<div class="prompt input_prompt">In&nbsp;[10]:</div>
 <div class="inner_cell">
     <div class="input_area">
 <div class=" highlight hl-ipython3"><pre><span></span><span class="n">sen_df_ticker</span> <span class="o">=</span> <span class="n">sen_df</span><span class="o">.</span><span class="n">loc</span><span class="p">[</span><span class="n">sen_df</span><span class="p">[</span><span class="s1">&#39;ticker&#39;</span><span class="p">]</span> <span class="o">!=</span> <span class="s1">&#39;--&#39;</span><span class="p">]</span>
@@ -13967,53 +13969,21 @@ Name: asset_type, dtype: int64</pre>
 <div class="cell border-box-sizing text_cell rendered"><div class="prompt input_prompt">
 </div><div class="inner_cell">
 <div class="text_cell_render border-box-sizing rendered_html">
-<p>test_df_ticker = sen_df_ticker.head(100)
-dates_series = test_df_ticker["transaction_date"]
-corrected_dates = list(map(lambda each:each.replace('/', "-"), dates_series))
-date_ticker_df = pd.DataFrame({'transaction_date': corrected_dates, 'ticker': test_df_ticker['ticker'], 'id': test_df_ticker.id})
-date_ticker_df.to_csv("date_ticker_df_test.csv")</p>
-
+<h2 id="Import-data-created-by-Rstudio-and-quantmod-library">Import data created by Rstudio and quantmod library<a class="anchor-link" href="#Import-data-created-by-Rstudio-and-quantmod-library">&#182;</a></h2>
 </div>
 </div>
 </div>
 <div class="cell border-box-sizing text_cell rendered"><div class="prompt input_prompt">
 </div><div class="inner_cell">
 <div class="text_cell_render border-box-sizing rendered_html">
-<p>import os
-from glob import glob
-directory = "One Day"
-filenames = glob(directory + '/*.csv')
-dfs = pd.concat([pd.read_csv(f) for f in filenames], ignore_index=True)
-sen_df_ticker = sen_df_ticker.reset_index(drop=True)
-print("Number of entries: " + str(len(dfs)))
-print("Number of entries with error messages: " + str(len(dfs.loc[dfs['Error_message'] != "None"])))
-print("Percent error message: " + str(len(dfs.loc[dfs['Error_message'] != "None"])/len(dfs)))
-dfs.rename(columns={'date': 'transaction_date'}, inplace=True)</p>
+<p>In this step we will be scraping stock data using RStudio for the day the transaction was made. Note, directory is "One Day". This code block creates the list of stocks and dates that will be sent to the Rmd file "Importing-Stocks.Rmd"</p>
 
-</div>
-</div>
-</div>
-<div class="cell border-box-sizing text_cell rendered"><div class="prompt input_prompt">
-</div><div class="inner_cell">
-<div class="text_cell_render border-box-sizing rendered_html">
-<p>dfs.transaction_date = list(map(lambda each:each.replace('-', "/"), dfs.transaction_date))</p>
-<h1 id="print(sen_df_ticker.transaction_date)">print(sen_df_ticker.transaction_date)<a class="anchor-link" href="#print(sen_df_ticker.transaction_date)">&#182;</a></h1><p>df_inner = pd.merge(test_df_ticker, dfs, on = ["id"],how='outer')</p>
-<h1 id="df_inner.to_csv(&quot;df_inner.csv&quot;)">df_inner.to_csv("df_inner.csv")<a class="anchor-link" href="#df_inner.to_csv(&quot;df_inner.csv&quot;)">&#182;</a></h1><p>print("Number of entries: " + str(len(df_inner)))</p>
-<h1 id="df_inner.to_csv(&quot;df_inner_test.csv&quot;)">df_inner.to_csv("df_inner_test.csv")<a class="anchor-link" href="#df_inner.to_csv(&quot;df_inner_test.csv&quot;)">&#182;</a></h1><p>df_inner.head()</p>
-
-</div>
-</div>
-</div>
-<div class="cell border-box-sizing text_cell rendered"><div class="prompt input_prompt">
-</div><div class="inner_cell">
-<div class="text_cell_render border-box-sizing rendered_html">
-<h3 id="Import-data-created-by-Rstudio-and-quantmod-library">Import data created by Rstudio and quantmod library<a class="anchor-link" href="#Import-data-created-by-Rstudio-and-quantmod-library">&#182;</a></h3>
 </div>
 </div>
 </div>
 <div class="cell border-box-sizing code_cell rendered">
 <div class="input">
-<div class="prompt input_prompt">In&nbsp;[9]:</div>
+<div class="prompt input_prompt">In&nbsp;[11]:</div>
 <div class="inner_cell">
     <div class="input_area">
 <div class=" highlight hl-ipython3"><pre><span></span><span class="kn">import</span> <span class="nn">os</span>
@@ -14054,15 +14024,23 @@ Percent error message: 0.24187236604455148
 </div>
 
 </div>
+<div class="cell border-box-sizing text_cell rendered"><div class="prompt input_prompt">
+</div><div class="inner_cell">
+<div class="text_cell_render border-box-sizing rendered_html">
+<p>When downloading stock data using RStudio and the library quantmod, stocks will sometimes  download incorrectly or fail. Incorrect or missing stock data is filtered out through several checks and an error message is attached to the row. More detail can be found in my (Paul McCabe's) script Stocks/Importing-Stocks.Rmd.</p>
+
+</div>
+</div>
+</div>
 <div class="cell border-box-sizing code_cell rendered">
 <div class="input">
-<div class="prompt input_prompt">In&nbsp;[10]:</div>
+<div class="prompt input_prompt">In&nbsp;[13]:</div>
 <div class="inner_cell">
     <div class="input_area">
-<div class=" highlight hl-ipython3"><pre><span></span><span class="n">dfs</span><span class="o">.</span><span class="n">transaction_date</span> <span class="o">=</span> <span class="nb">list</span><span class="p">(</span><span class="nb">map</span><span class="p">(</span><span class="k">lambda</span> <span class="n">each</span><span class="p">:</span><span class="n">each</span><span class="o">.</span><span class="n">replace</span><span class="p">(</span><span class="s1">&#39;-&#39;</span><span class="p">,</span> <span class="s2">&quot;/&quot;</span><span class="p">),</span> <span class="n">dfs</span><span class="o">.</span><span class="n">transaction_date</span><span class="p">))</span>
+<div class=" highlight hl-ipython3"><pre><span></span><span class="c1">#Place stock gains/losses into each transaction</span>
+<span class="n">dfs</span><span class="o">.</span><span class="n">transaction_date</span> <span class="o">=</span> <span class="nb">list</span><span class="p">(</span><span class="nb">map</span><span class="p">(</span><span class="k">lambda</span> <span class="n">each</span><span class="p">:</span><span class="n">each</span><span class="o">.</span><span class="n">replace</span><span class="p">(</span><span class="s1">&#39;-&#39;</span><span class="p">,</span> <span class="s2">&quot;/&quot;</span><span class="p">),</span> <span class="n">dfs</span><span class="o">.</span><span class="n">transaction_date</span><span class="p">))</span>
 <span class="n">df_inner</span> <span class="o">=</span> <span class="n">pd</span><span class="o">.</span><span class="n">merge</span><span class="p">(</span><span class="n">sen_df_ticker</span><span class="p">,</span> <span class="n">dfs</span><span class="p">,</span> <span class="n">on</span> <span class="o">=</span> <span class="p">[</span><span class="s2">&quot;id&quot;</span><span class="p">],</span><span class="n">how</span><span class="o">=</span><span class="s1">&#39;outer&#39;</span><span class="p">)</span>
 <span class="nb">print</span><span class="p">(</span><span class="s2">&quot;Number of entries: &quot;</span> <span class="o">+</span> <span class="nb">str</span><span class="p">(</span><span class="nb">len</span><span class="p">(</span><span class="n">df_inner</span><span class="p">)))</span>
-<span class="c1">#df_inner.tail()</span>
 </pre></div>
 
     </div>
@@ -14082,183 +14060,6 @@ Percent error message: 0.24187236604455148
 <pre>Number of entries: 6644
 </pre>
 </div>
-</div>
-
-<div class="output_area">
-
-    <div class="prompt output_prompt">Out[10]:</div>
-
-
-
-<div class="output_html rendered_html output_subarea output_execute_result">
-<div>
-<style scoped>
-    .dataframe tbody tr th:only-of-type {
-        vertical-align: middle;
-    }
-
-    .dataframe tbody tr th {
-        vertical-align: top;
-    }
-
-    .dataframe thead th {
-        text-align: right;
-    }
-</style>
-<table border="1" class="dataframe">
-  <thead>
-    <tr style="text-align: right;">
-      <th></th>
-      <th>transaction_date_x</th>
-      <th>owner</th>
-      <th>ticker_x</th>
-      <th>asset_description</th>
-      <th>asset_type</th>
-      <th>type</th>
-      <th>amount</th>
-      <th>comment</th>
-      <th>senator</th>
-      <th>ptr_link</th>
-      <th>...</th>
-      <th>max_amount</th>
-      <th>transaction_date_y</th>
-      <th>ticker_y</th>
-      <th>Open</th>
-      <th>High</th>
-      <th>Low</th>
-      <th>Close</th>
-      <th>Volume</th>
-      <th>Adjusted</th>
-      <th>Error_message</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <th>6639</th>
-      <td>01/29/2014</td>
-      <td>Spouse</td>
-      <td>C</td>
-      <td>Citigroup, Inc. (NYSE)</td>
-      <td>NaN</td>
-      <td>Sale (Partial)</td>
-      <td>$1,001 - $15,000</td>
-      <td>--</td>
-      <td>Susan M Collins</td>
-      <td>https://efdsearch.senate.gov/search/view/ptr/5...</td>
-      <td>...</td>
-      <td>15000.0</td>
-      <td>01/29/2014</td>
-      <td>C</td>
-      <td>48.919998</td>
-      <td>49.360001</td>
-      <td>47.700001</td>
-      <td>48.080002</td>
-      <td>54018100.0</td>
-      <td>43.745003</td>
-      <td>None</td>
-    </tr>
-    <tr>
-      <th>6640</th>
-      <td>01/28/2014</td>
-      <td>Spouse</td>
-      <td>EBAY</td>
-      <td>eBay Inc. (NASDAQ)</td>
-      <td>NaN</td>
-      <td>Sale (Partial)</td>
-      <td>$1,001 - $15,000</td>
-      <td>--</td>
-      <td>Susan M Collins</td>
-      <td>https://efdsearch.senate.gov/search/view/ptr/5...</td>
-      <td>...</td>
-      <td>15000.0</td>
-      <td>01/28/2014</td>
-      <td>EBAY</td>
-      <td>22.344276</td>
-      <td>22.567341</td>
-      <td>22.247475</td>
-      <td>22.373737</td>
-      <td>30691900.0</td>
-      <td>21.940189</td>
-      <td>None</td>
-    </tr>
-    <tr>
-      <th>6641</th>
-      <td>01/24/2014</td>
-      <td>Spouse</td>
-      <td>FB</td>
-      <td>Facebook, Inc. (NASDAQ)</td>
-      <td>NaN</td>
-      <td>Purchase</td>
-      <td>$1,001 - $15,000</td>
-      <td>--</td>
-      <td>Susan M Collins</td>
-      <td>https://efdsearch.senate.gov/search/view/ptr/5...</td>
-      <td>...</td>
-      <td>15000.0</td>
-      <td>01/24/2014</td>
-      <td>FB</td>
-      <td>56.150002</td>
-      <td>56.419998</td>
-      <td>54.400002</td>
-      <td>54.450001</td>
-      <td>55200700.0</td>
-      <td>54.450001</td>
-      <td>None</td>
-    </tr>
-    <tr>
-      <th>6642</th>
-      <td>01/24/2014</td>
-      <td>Spouse</td>
-      <td>CRM</td>
-      <td>Salesforce.com, Inc (NYSE)</td>
-      <td>NaN</td>
-      <td>Purchase</td>
-      <td>$1,001 - $15,000</td>
-      <td>--</td>
-      <td>Susan M Collins</td>
-      <td>https://efdsearch.senate.gov/search/view/ptr/5...</td>
-      <td>...</td>
-      <td>15000.0</td>
-      <td>01/24/2014</td>
-      <td>CRM</td>
-      <td>35.980000</td>
-      <td>36.880001</td>
-      <td>35.900002</td>
-      <td>36.660000</td>
-      <td>52745900.0</td>
-      <td>31.947382</td>
-      <td>Error in getSymbols.yahoo(Symbols = "CRM", env...</td>
-    </tr>
-    <tr>
-      <th>6643</th>
-      <td>01/24/2014</td>
-      <td>Spouse</td>
-      <td>GE</td>
-      <td>General Electric Company (NYSE)</td>
-      <td>NaN</td>
-      <td>Sale (Partial)</td>
-      <td>$1,001 - $15,000</td>
-      <td>--</td>
-      <td>Susan M Collins</td>
-      <td>https://efdsearch.senate.gov/search/view/ptr/5...</td>
-      <td>...</td>
-      <td>15000.0</td>
-      <td>01/24/2014</td>
-      <td>GE</td>
-      <td>24.586538</td>
-      <td>24.605770</td>
-      <td>23.990385</td>
-      <td>23.990385</td>
-      <td>99429200.0</td>
-      <td>23.990385</td>
-      <td>None</td>
-    </tr>
-  </tbody>
-</table>
-<p>5 rows × 22 columns</p>
-</div>
-</div>
-
 </div>
 
 </div>
@@ -14284,14 +14085,14 @@ Percent error message: 0.24187236604455148
 <div class="cell border-box-sizing text_cell rendered"><div class="prompt input_prompt">
 </div><div class="inner_cell">
 <div class="text_cell_render border-box-sizing rendered_html">
-<p>Also cleaning up the dataframe a little, changing column data types, deleting duplicate columns, and renaming columns.</p>
+<p>Here we are cleaning up the dataframe a little, changing column data types, deleting duplicate columns, and renaming columns.</p>
 
 </div>
 </div>
 </div>
 <div class="cell border-box-sizing code_cell rendered">
 <div class="input">
-<div class="prompt input_prompt">In&nbsp;[11]:</div>
+<div class="prompt input_prompt">In&nbsp;[15]:</div>
 <div class="inner_cell">
     <div class="input_area">
 <div class=" highlight hl-ipython3"><pre><span></span><span class="n">df_inner</span><span class="o">.</span><span class="n">Open</span> <span class="o">=</span> <span class="n">pd</span><span class="o">.</span><span class="n">to_numeric</span><span class="p">(</span><span class="n">df_inner</span><span class="o">.</span><span class="n">Open</span><span class="p">)</span>
@@ -14312,6 +14113,14 @@ Percent error message: 0.24187236604455148
 </div>
 </div>
 
+</div>
+<div class="cell border-box-sizing text_cell rendered"><div class="prompt input_prompt">
+</div><div class="inner_cell">
+<div class="text_cell_render border-box-sizing rendered_html">
+<p>Here we will use different measures of success for that day's trade, as we do not know what time of day that trade was processed. <br>  - <strong>get_percentage_h_l</strong>: the % change between the highest price of the transaction day and the lowest price. <br>  - <strong>get_percentage_o_c</strong>: the % change between the open price and the close price.</p>
+
+</div>
+</div>
 </div>
 <div class="cell border-box-sizing code_cell rendered">
 <div class="input">
@@ -14491,6 +14300,14 @@ Percent error message: 0.2581276339554485
 </div>
 </div>
 
+</div>
+<div class="cell border-box-sizing text_cell rendered"><div class="prompt input_prompt">
+</div><div class="inner_cell">
+<div class="text_cell_render border-box-sizing rendered_html">
+<p><br>  - <strong>get_percentage_open_week</strong>: the % change between the open price of the transaction date and the open price a week later <br> - <strong>get_percentage_close_week</strong>: the % change between the closing price of the transaction date and the closing price a week later</p>
+
+</div>
+</div>
 </div>
 <div class="cell border-box-sizing text_cell rendered"><div class="prompt input_prompt">
 </div><div class="inner_cell">
@@ -14740,6 +14557,14 @@ Percent error message: 0.2581276339554485
 </div>
 </div>
 
+</div>
+<div class="cell border-box-sizing text_cell rendered"><div class="prompt input_prompt">
+</div><div class="inner_cell">
+<div class="text_cell_render border-box-sizing rendered_html">
+<p><br>  - <strong>get_percentage_open_month</strong>: the % change between the open price of the transaction date and the open price a month later <br> - <strong>get_percentage_close_month</strong>: the % change between the closing price of the transaction date and the closing price a month later</p>
+
+</div>
+</div>
 </div>
 <div class="cell border-box-sizing code_cell rendered">
 <div class="input">
@@ -14997,6 +14822,14 @@ Number of entries when combined with previously merged dataframes: 4728
 </div>
 
 </div>
+<div class="cell border-box-sizing text_cell rendered"><div class="prompt input_prompt">
+</div><div class="inner_cell">
+<div class="text_cell_render border-box-sizing rendered_html">
+<p>Finally we will save our new dataframe with senator stock trades and transaction profits to be analyzed in "Outlier Detection.ipynb"</p>
+
+</div>
+</div>
+</div>
 <div class="cell border-box-sizing code_cell rendered">
 <div class="input">
 <div class="prompt input_prompt">In&nbsp;[22]:</div>
@@ -15009,34 +14842,6 @@ Number of entries when combined with previously merged dataframes: 4728
 </div>
 </div>
 
-</div>
-<div class="cell border-box-sizing text_cell rendered"><div class="prompt input_prompt">
-</div><div class="inner_cell">
-<div class="text_cell_render border-box-sizing rendered_html">
-<p>Now we wish to get future pricing data to see how our senator's stock trades have performed. We have chosen 1 week and 1 month as a short term and "long" term durations in addition to our transaction date changes. Keep in mind with insider trading we expect any insider knowledge to happen soon after the trade so waiting several months may prove less useful than 1 week and 1 month durations.</p>
-
-</div>
-</div>
-</div>
-<div class="cell border-box-sizing text_cell rendered"><div class="prompt input_prompt">
-</div><div class="inner_cell">
-<div class="text_cell_render border-box-sizing rendered_html">
-<p>from datetime import timedelta</p>
-<h1 id="1-week-data">1 week data<a class="anchor-link" href="#1-week-data">&#182;</a></h1><p>transaction_date = pd.to_datetime(sen_df_ticker['transaction_date'], format = '%m/%d/%Y')
-dates_one_week = transaction_date + pd.Timedelta(days = 7)</p>
-<p>dates_one_week = dates_one_week.astype(str)</p>
-<p>dates_one_week = list(map(lambda each:each.replace('/', "-"), dates_one_week))
-one_week_stock_ticker = pd.DataFrame({'transaction_date': transaction_date, 'dates_one_week': dates_one_week, 'ticker': sen_df_ticker['ticker']})
-one_week_stock_ticker.to_csv("one_week_stock_ticker.csv")</p>
-<h1 id="1-month-data">1 month data<a class="anchor-link" href="#1-month-data">&#182;</a></h1><p>transaction_date = pd.to_datetime(sen_df_ticker['transaction_date'], format = '%m/%d/%Y')
-dates_one_month = transaction_date + pd.Timedelta(days = 31)</p>
-<p>dates_one_month = dates_one_month.astype(str)</p>
-<p>dates_one_month = list(map(lambda each:each.replace('/', "-"), dates_one_month))
-one_month_stock_ticker = pd.DataFrame({'transaction_date': transaction_date, 'date_one_month': dates_one_month, 'ticker': sen_df_ticker['ticker']})
-one_month_stock_ticker.to_csv("one_month_stock_ticker.csv")</p>
-
-</div>
-</div>
 </div>
     </div>
   </div>
