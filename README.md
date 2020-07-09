@@ -51,4 +51,4 @@ While researching this topic, we found an analysis that compared senator stock t
 
 
 ## License
-See the LICENSE file for license rights and limitations (MIT).
+See the [LICENSE](https://github.com/pkm29/big_data_final_project3/blob/master/LICENSE.md) file for license rights and limitations (MIT).
