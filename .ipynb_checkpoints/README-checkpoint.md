@@ -1,8 +1,25 @@
 ## Identifying Suspicious Trades Among U.S. Senators
 
 
+# Table of Contents
+
+
+1. [Overview](#Overview)
+2. [Motivations](#Motivations)
+3. [Written Report](#Written-Report)
+4. [Data Sources](#Data-Sources)
+5. [Summary of Results](#Summary-of-Results)
+    - [Box Plot](#Box-Plot)
+    - [Categorizing 4th Quartile Trades](#Categorizing-4th-Quartile-Trades)
+    - [Unsupervised Machine Learning Techniques](#Unsupervised-Machine-Learning-Techniques)
+    - [Conclusion](#Conclusion)
+    - [Future Work](#Future-Work)
+6. [Credit](#Credit)
+7. [Future Work](#Future-Work)
+
+
 # Overview
-This README contains a brief overview and background of the project. If you would like to jump straight to the analysis, there are 3 files to read through. They are organized chronologically by number, however most of the interesting analysis is done in Outlier Analysis.ipynb.<br> <br> 1. __Collect Senator Data.ipynb__: Import and quickly analyze senator stock trades. <br><br>   2. __Stocks/Collect Stock Data.ipynb__: Collect different types stock data to be used in gain/loss analysis. Stock pricing data is collected by an R script I (Paul McCabe) made called Stocks/Import-Stocks.Rmd.<br><br> 3. __Outlier Analysis.ipynb__: Analyze senator profits using a combination of graphical representations, basic statistical analysis, and unsupervised machine learning algorithms. 
+This README contains a brief overview and background of the project. If you would like to jump straight to the analysis, there are 3 files to read through. They are organized chronologically by number, however most of the interesting analysis is done in Outlier Analysis.ipynb. <br><br>__Note__: A summary of our analysis can be found at the end of this readme document.<br> <br> 1. __Collect Senator Data.ipynb__: Import and quickly analyze senator stock trades. <br><br>   2. __Stocks/Collect Stock Data.ipynb__: Collect different types stock data to be used in gain/loss analysis. Stock pricing data is collected by an R script I (Paul McCabe) made called Stocks/Import-Stocks.Rmd.<br><br> 3. __Outlier Analysis.ipynb__: Analyze senator profits using a combination of graphical representations, basic statistical analysis, and unsupervised machine learning algorithms. 
 
 
 Alternatively, HTML versions of these jupyter notebooks exist with the same names.
@@ -41,8 +58,10 @@ Downloading unlimited free stock pricing data is difficult to come by, however R
 While researching this topic, we found an analysis that compared senator stock trades to the average stock gains of similiar sized companies in the same industry. CSV files with each company's industry and market cap were collected from the NYSE's website and the NASDAQ's webite, then incorporated into our analysis. 
 
 
-# Quick Summary of Results (same content as Medium.com article)
+# Summary of Results 
+(slightly condensed content of Medium.com article)
 ## Box Plot
+
 Our analysis centers upon relative returns (percentage returns) as opposed to absolute (dollar value) returns in order to ensure comparability across a wide range of trade sizes. The dollar amount per trade is far from irrelevant though and will likely be highly important for future analysis. <br> <br>
 Recall that when measuring returns, we will investigate the future gains of stock purchases, and the future avoided losses of stock sales. This means if a stock plummets after being sold, it needs to be recorded as a large positive percentage return, and vice versa. In order to achieve this, percentage movements following a sale are multiplied by -1.
 
@@ -95,6 +114,7 @@ Some names that stand out to us are Kelly Loeffler with 60% of her trades being 
 With a dataset like this, it is more difficult to use supervised machine learning techniques, as there is no clear response variable. In this section, we will use several unsupervised machine learning methods in an attempt to notice patterns through clustering. The three methods we use are hierarchical clustering (including dendrogram), isolation forest, and correlation matrix and dendrogram heatmap.
 
 
+### Hierarchical Clustering
 Below is the visualization of hierarchical clustering, the dendrogram, using the ward method. (The list of columns used and method for numerical categorization of string columns can be found on our github.) The ward method is one that clusters the data so as to minimize unexplained variance. The vertical distances represent the distance, or variance, between clusters and in order to capture the strongest divide, we will set a threshold in a way that cuts the tallest vertical line. Marking it near the bottom of the left blue line, this will give us 3 clusters.
 
 ![fasdf](dendrogram.png)
@@ -102,6 +122,32 @@ Below is the visualization of hierarchical clustering, the dendrogram, using the
 
 Hopefully these three clusters will help visualize different groups in the data. Below is a plot with the labeled clusters of 1 week percentage gain vs 1 month percentage gain. Not very helpful is it though, perhaps besides showing the variance of the two.
 ![](cluster.png)
+
+
+What are some other variables with significant correlation? To find out we used a correlation confusion matrix to compare all our numerical predictors.
+![](correlation.png)
+Again, not extremely helpful. This is to be expected though, as these variables are very similar to ones on the same date and have little to no effect over future prices.
+### Dendrogram Heat Map<br>
+Combining these two approaches, confusion matrices and dendrograms, we can create a dendrogram heat map. In order to create a graph that can be matched up against senator’s names, we randomly sampled 40 trades by US senators and plotted it against all of our numerical variables. We find this graph to be unsatisfactory though, as there is no clear clustering between senators based on our numerical predictors. Perhaps this is due to the small sample size. Below is the same heatmap but with 250 samples. Keep in mind though we cannot match these clustering to senators, only see if there are clusters.
+![](heatmap1.png)
+
+
+The dendrogram heatmap does well to visualize clusters as well as outliers for our various senators. To my understanding, groupings of similar colors represent rows where the euclidean distances between them are small and there are a few interesting clusters in open_close_day (representing the percentage change between the opening and the closing stock price). As for outliers, there seem to be a couple at the very top that are very different from the rest of the data. Although, this could simply be a result of our relatively small sample size of 250.
+### Isolation Forest
+
+
+Last on our unsupervised machine learning approach, we move on to the isolation forest. For some background, Will Badr wrote the following about Isolation Forests on [Towards Data Science](https://towardsdatascience.com/5-ways-to-detect-outliers-that-every-data-scientist-should-know-python-code-70a54335a623). <br>This table shows us the shares of trades we label “suspicious” among the number of total transactions senators have made. Interestingly, David A Perdue Jr. does not have a very large value for this variable as compared to some other senators. The highest shares in the table are attributed to Tina Smith, John Hoeven, and Kelly Loeffler (her name has actually appeared in our earlier analysis). ![](isoforest.png)
+
+
+
+## Conclusion
+Through several statistical and unsupervised machine learning approaches, we have gleaned some interesting characteristics about our dataset. The distribution of transaction profits is heavily skewed in some cases by very profitable stock trades. Examining the quartiles of these stock trades, several senators such as Kelly Loeffler, Pat Roberts, and Sheldon Whitehouse have stood out as being very successful stock traders compared to their fellow senators. These anomalies were backed up further by unsupervised learning techniques such as Isolation Forest, which labeled several of these senators trades as "suspicious". <br>
+Of course continual success at stock trading is not unusual by itself. We do hope though that this analysis will be useful in identifying suspicious trading.
+
+
+## Future Work
+We would have also liked to measure the returns of senators’ trades in relation to the peer groups of the companies being traded. Here, we would define peer groups as companies in the same industry and with a similar size (market capitalization) as the company involved in the trade. This might have shown whether companies being traded had very different price movements from their peers, or whether they actually moved in similar trends. If the latter was true in instances of large returns, then they may not necessarily be indicative of insider trading. <br><br>
+On the other hand, we may be defining insider knowledge too narrowly when we consider it to be information relating to a single company. Trades could have also been made on the basis of information regarding the industry as a whole — in this case, even if the whole industry moved together, there could still be insider trading at play. Furthermore, since many senators have industry-specific mandates, this could be an interesting avenue to explore. In general, it would equally be insightful to investigate whether senators’ trades of companies in their assigned industries have generated greater returns for them than the rest of their trades. A specific industry of interest would be the political intelligence industry — they would likely receive a lot of information about all sorts of industries by virtue of their job description.
 
 
 # Credit

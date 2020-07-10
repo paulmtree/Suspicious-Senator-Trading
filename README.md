@@ -13,7 +13,9 @@
     - [Categorizing 4th Quartile Trades](#Categorizing-4th-Quartile-Trades)
     - [Unsupervised Machine Learning Techniques](#Unsupervised-Machine-Learning-Techniques)
     - [Conclusion](#Conclusion)
-    - [Future W
+    - [Future Work](#Future-Work)
+6. [Credit](#Credit)
+7. [Future Work](#Future-Work)
 
 
 # Overview
