@@ -37,7 +37,7 @@ This project by my partner Ankush and I (Paul McCabe) was motivated largely by t
 ![Screen%20Shot%202020-07-08%20at%201.00.33%20PM.png](https://github.com/pkm29/big_data_final_project3/raw/master/picture1.png)
 
 
-A full report of this project written by Ankur and I is available [here](https://medium.com/@pkm29/identifying-suspicious-trading-among-u-s-senators-91a908432843). (15 minute read) <br> While Ankur's contributions were mostly towards writing the report and generating experimental data for future work, all code that appears in this document was written by me.
+A full report of this project written by Ankur and I is available [here](https://medium.com/@pkm29/identifying-suspicious-trading-among-u-s-senators-91a908432843). (15 minute read)
 
 
 # Data Sources
@@ -102,7 +102,9 @@ Here the terminalogy will be slightly confusing. Essentially we are taking the 6
 
 
 Instead of looking at the whole data frame though, let's examine how our senators perform for the 1 day, 1 week, and 1 month trade returns.
+
 ![](transactionday.png)
+
 To reiterate, this table shows the percentage of trades that senators make that are in the top 25% of all senator trades, along with their total number of trades made. Initially we were going to remove senators from the visualization step with only one trade, as they are too low to be considered statistically significant. These entries remained however because we believe that insider trading can occur only a few times when the information is available, thus potentially being all of a senators trades.
 
 
