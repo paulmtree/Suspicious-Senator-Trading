@@ -1,4 +1,4 @@
-## Identifying Suspicious Trades Among U.S. Senators
+## Identifying Suspicious Trades Among U.S. Senators (≈ 15 minute read)
 
 
 # Table of Contents
